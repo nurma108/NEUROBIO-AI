@@ -32,7 +32,7 @@ const state = {
   namaMurid: "",
   sesiId: null,
   sesiJam: null,
-  backendUrl: "http://localhost:8000",
+  backendUrl: "https://neurobio-ai-production.up.railway.app",
   materiAktif: null,
   kuisAktif: [],
   pdfFile: null,
