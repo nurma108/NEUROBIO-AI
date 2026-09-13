@@ -1,0 +1,961 @@
+{
+  "nurma": {
+    "2026-09-12": [
+      {
+        "session_id": "smtxoypt1mh3x4w",
+        "jam": "01:13",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Asam Piruvat"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxp0qx7hv2mb0",
+        "jam": "01:15",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxp425ohk0ryi",
+        "jam": "01:17",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxp7wjldmn7ur",
+        "jam": "01:20",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxp9p54puu6je",
+        "jam": "01:22",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxpaw2mpavacu",
+        "jam": "01:23",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxpbwtzvg1wd7",
+        "jam": "01:23",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "aerob"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxphxk6w5ly27",
+        "jam": "01:28",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxplc5e6xkq1j",
+        "jam": "01:31",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": 20,
+        "status_evaluasi": "Perlu Latihan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxt0610dillnw",
+        "jam": "03:06",
+        "hari": "Sabtu",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "glukosa"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      {
+        "session_id": "smtxt1xuzallwx9",
+        "jam": "03:08",
+        "hari": "Sabtu",
+        "lama_baca_menit": 1,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Glikolisis"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      }
+    ]
+  },
+  "naya02": {
+    "2026-09-12": [
+      {
+        "session_id": "smtxpq8i8jqylqt",
+        "jam": "01:34",
+        "hari": "Sabtu",
+        "lama_baca_menit": 1,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      }
+    ]
+  },
+  "lisa75": {
+    "2026-09-12": {
+      "lama_baca_menit": 2,
+      "hesitation_count": 0,
+      "hesitation_words": [],
+      "nilai": null,
+      "status_evaluasi": "Belum dikerjakan",
+      "materi": "Metabolisme",
+      "2026-09-12T03:33:18.038Z": {
+        "jam": "11:33",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T03:33:59.644Z": {
+        "jam": "11:33",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      }
+    }
+  },
+  "nur93": {
+    "2026-09-12": {
+      "2026-09-12T02:15:38.259Z": {
+        "jam": "10:15",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Asam Piruvat"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:16:46.518Z": {
+        "jam": "10:16",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:23:32.699Z": {
+        "jam": "10:23",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "mengubah"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:24:09.761Z": {
+        "jam": "10:24",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:25:06.696Z": {
+        "jam": "10:25",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "glukosa"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:28:19.701Z": {
+        "jam": "10:28",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Asam Piruvat"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:29:17.908Z": {
+        "jam": "10:29",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:31:33.262Z": {
+        "jam": "10:31",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Fermentasi"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:37:57.800Z": {
+        "jam": "10:37",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      },
+      "2026-09-12T02:39:01.183Z": {
+        "jam": "10:39",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Metabolisme"
+      }
+    }
+  },
+  "nadia3": {
+    "2026-09-12": {
+      "2026-09-12T07:31:27.062Z": {
+        "jam": "15:31",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "-"
+      },
+      "2026-09-12T07:54:09.748Z": {
+        "jam": "15:54",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "proses"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T07:55:54.099Z": {
+        "jam": "15:55",
+        "lama_baca_menit": 1,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "merupakan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T07:58:00.027Z": {
+        "jam": "15:58",
+        "lama_baca_menit": 1,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T07:59:40.101Z": {
+        "jam": "15:59",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Ribosom"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T08:08:22.630Z": {
+        "jam": "16:08",
+        "lama_baca_menit": 2,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": 40,
+        "status_evaluasi": "Perlu Latihan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T08:11:50.464Z": {
+        "jam": "16:11",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Mitokondria"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T08:15:16.316Z": {
+        "jam": "16:15",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "respirasi"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T08:21:11.608Z": {
+        "jam": "16:21",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "membutuhkan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "LKPD_Fungsi_dan_Keterkaitan_Kerja_Organel_Sel"
+      },
+      "2026-09-12T08:34:09.578Z": {
+        "jam": "16:34",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T08:41:21.474Z": {
+        "jam": "16:41",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "menyediakan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T08:42:35.186Z": {
+        "jam": "16:42",
+        "lama_baca_menit": 1,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "menyediakan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T08:44:46.330Z": {
+        "jam": "16:44",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Tumbuhan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T08:52:10.434Z": {
+        "jam": "16:52",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "menyediakan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T08:55:35.421Z": {
+        "jam": "16:55",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "menyediakan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T08:56:44.747Z": {
+        "jam": "16:56",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Tumbuhan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T08:57:31.166Z": {
+        "jam": "16:57",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "organik"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T09:03:13.009Z": {
+        "jam": "17:03",
+        "lama_baca_menit": 7,
+        "hesitation_count": 6,
+        "hesitation_words": [
+          "Tumbuhan",
+          "organik",
+          "ini",
+          "adalah",
+          "molekul"
+        ],
+        "nilai": 60,
+        "status_evaluasi": "Baik",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T09:18:06.949Z": {
+        "jam": "17:18",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T09:25:09.512Z": {
+        "jam": "17:25",
+        "lama_baca_menit": 1,
+        "hesitation_count": 2,
+        "hesitation_words": [
+          "Tumbuhan",
+          "organik"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T09:27:29.480Z": {
+        "jam": "17:27",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Tumbuhan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T09:28:37.546Z": {
+        "jam": "17:28",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Tumbuhan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T10:20:45.118Z": {
+        "jam": "18:20",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Tumbuhan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T10:22:06.696Z": {
+        "jam": "18:22",
+        "lama_baca_menit": 3,
+        "hesitation_count": 3,
+        "hesitation_words": [
+          "Tumbuhan",
+          "menyediakan",
+          "proses"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "ilovepdf_merged"
+      },
+      "2026-09-12T10:37:01.995Z": {
+        "jam": "18:37",
+        "lama_baca_menit": 5,
+        "hesitation_count": 12,
+        "hesitation_words": [
+          "dasar",
+          "respirasi",
+          "adalah",
+          "oksigen",
+          "fosfat",
+          "Ikatan",
+          "karbon",
+          "dioksida",
+          "Reaksi",
+          "puluh",
+          "dipecah"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T10:57:43.184Z": {
+        "jam": "18:57",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T10:59:30.441Z": {
+        "jam": "18:59",
+        "lama_baca_menit": 3,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:48:04.368Z": {
+        "jam": "19:48",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:50:25.846Z": {
+        "jam": "19:50",
+        "lama_baca_menit": 2,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:52:13.709Z": {
+        "jam": "19:52",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:52:34.824Z": {
+        "jam": "19:52",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "seperti"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:53:48.250Z": {
+        "jam": "19:53",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "pabrik"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:54:40.337Z": {
+        "jam": "19:54",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "bekerja"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:55:20.682Z": {
+        "jam": "19:55",
+        "lama_baca_menit": 0,
+        "hesitation_count": 2,
+        "hesitation_words": [
+          "bekerja",
+          "kecil"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T11:58:36.885Z": {
+        "jam": "19:58",
+        "lama_baca_menit": 11,
+        "hesitation_count": 2,
+        "hesitation_words": [
+          "bekerja",
+          "metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T12:17:17.665Z": {
+        "jam": "20:17",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Modul_Ajar_Metabolisme"
+      },
+      "2026-09-12T12:22:01.383Z": {
+        "jam": "20:22",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T12:23:23.413Z": {
+        "jam": "20:23",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T12:24:13.912Z": {
+        "jam": "20:24",
+        "lama_baca_menit": 1,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "energi"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T20:30:59.411Z": {
+        "jam": "04:30",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "melibatkan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T20:45:10.278Z": {
+        "jam": "04:45",
+        "lama_baca_menit": 4,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T20:50:07.496Z": {
+        "jam": "04:50",
+        "lama_baca_menit": 13,
+        "hesitation_count": 6,
+        "hesitation_words": [
+          "Metabolisme",
+          "adalah",
+          "dalam",
+          "oleh",
+          "reaksi",
+          "Proses"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T21:16:20.746Z": {
+        "jam": "05:16",
+        "lama_baca_menit": 0,
+        "hesitation_count": 2,
+        "hesitation_words": [
+          "Metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T21:18:14.551Z": {
+        "jam": "05:18",
+        "lama_baca_menit": 23,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T21:24:45.352Z": {
+        "jam": "05:24",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "melibatkan"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T21:35:54.471Z": {
+        "jam": "05:35",
+        "lama_baca_menit": 2,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T21:39:23.999Z": {
+        "jam": "05:39",
+        "lama_baca_menit": 1,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T21:42:01.135Z": {
+        "jam": "05:42",
+        "lama_baca_menit": 2,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T21:47:21.590Z": {
+        "jam": "05:47",
+        "lama_baca_menit": 17,
+        "hesitation_count": 8,
+        "hesitation_words": [
+          "Metabolisme",
+          "adalah",
+          "dibantu",
+          "Anabolisme",
+          "asimilasi",
+          "sintesis"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T22:06:31.699Z": {
+        "jam": "06:06",
+        "lama_baca_menit": 1,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T22:13:13.244Z": {
+        "jam": "06:13",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T22:13:43.794Z": {
+        "jam": "06:13",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T22:14:21.603Z": {
+        "jam": "06:14",
+        "lama_baca_menit": 45,
+        "hesitation_count": 6,
+        "hesitation_words": [
+          "adalah",
+          "Metabolisme",
+          "enzim"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T23:00:43.691Z": {
+        "jam": "07:00",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T23:02:15.208Z": {
+        "jam": "07:02",
+        "lama_baca_menit": 0,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "Metabolisme"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T23:03:31.691Z": {
+        "jam": "07:03",
+        "lama_baca_menit": 1,
+        "hesitation_count": 1,
+        "hesitation_words": [
+          "energi"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T23:08:41.415Z": {
+        "jam": "07:08",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-12T23:39:27.562Z": {
+        "jam": "07:39",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      }
+    },
+    "2026-09-13": {
+      "2026-09-13T00:08:37.828Z": {
+        "jam": "08:08",
+        "lama_baca_menit": 1,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-13T06:55:51.428Z": {
+        "jam": "14:55",
+        "lama_baca_menit": 0,
+        "hesitation_count": 0,
+        "hesitation_words": [],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-13T06:56:36.558Z": {
+        "jam": "14:56",
+        "lama_baca_menit": 4,
+        "hesitation_count": 2,
+        "hesitation_words": [
+          "Proses",
+          "menyusun"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      },
+      "2026-09-13T07:33:21.896Z": {
+        "jam": "15:33",
+        "lama_baca_menit": 11,
+        "hesitation_count": 2,
+        "hesitation_words": [
+          "Metabolisme",
+          "adalah"
+        ],
+        "nilai": null,
+        "status_evaluasi": "Belum dikerjakan",
+        "materi": "Materi Metabolisme"
+      }
+    }
+  }
+}

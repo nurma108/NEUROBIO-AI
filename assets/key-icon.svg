@@ -1,0 +1,29 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="keyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="55%" stop-color="#7c3aed"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <filter id="softShadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#4c1d95" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- badan kunci -->
+  <g filter="url(#softShadow)">
+    <circle cx="70" cy="72" r="38" fill="url(#keyGrad)"/>
+    <circle cx="70" cy="72" r="15" fill="#ffffff"/>
+    <rect x="96" y="62" width="80" height="20" rx="10" fill="url(#keyGrad)"/>
+    <rect x="140" y="76" width="14" height="26" rx="4" fill="url(#keyGrad)"/>
+    <rect x="160" y="76" width="14" height="34" rx="4" fill="url(#keyGrad)"/>
+  </g>
+
+  <!-- sparkle kuning kecil, senada folder-upload -->
+  <g fill="#fde68a">
+    <path d="M40 30 L44 40 L54 44 L44 48 L40 58 L36 48 L26 44 L36 40 Z"/>
+  </g>
+  <g fill="#c4b5fd">
+    <path d="M150 30 L152.5 36 L158 38 L152.5 40 L150 46 L147.5 40 L142 38 L147.5 36 Z"/>
+  </g>
+</svg>

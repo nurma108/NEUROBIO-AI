@@ -1,0 +1,16 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- kartu, warna lavender pudar, tanpa gradient mencolok -->
+  <rect x="12" y="20" width="76" height="56" rx="10" fill="#ede9fe" stroke="#c4b5fd" stroke-width="2"/>
+
+  <!-- foto/avatar guru: lingkaran + badan, monokrom pudar -->
+  <circle cx="34" cy="44" r="9" fill="#a78bfa" opacity="0.55"/>
+  <path d="M20 66c0-9 8-14 14-14s14 5 14 14" fill="#a78bfa" opacity="0.55"/>
+
+  <!-- garis teks pudar di sisi kanan kartu -->
+  <rect x="56" y="36" width="24" height="4" rx="2" fill="#a78bfa" opacity="0.45"/>
+  <rect x="56" y="46" width="18" height="4" rx="2" fill="#a78bfa" opacity="0.35"/>
+  <rect x="56" y="56" width="20" height="4" rx="2" fill="#a78bfa" opacity="0.35"/>
+
+  <!-- lubang gantungan id card -->
+  <rect x="42" y="10" width="16" height="8" rx="3" fill="#c4b5fd" opacity="0.5"/>
+</svg>

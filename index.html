@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no" />
+<title>NEUROBIO-AI — Adaptive Biology Learning for Dyslexia</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.cdnfonts.com/css/opendyslexic">
+
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@3.11.174/build/pdf.min.js"></script>
+</head>
+<body>
+
+<div class="phone-shell">
+<div class="app" id="app">
+
+  <!-- ============ 1. SPLASH ============ -->
+  <section class="screen splash active" id="screen-splash">
+    <img src="assets/dna.png" class="splash-bg-deco splash-bg-deco--tl" aria-hidden="true" alt="">
+    <img src="assets/dna.png" class="splash-bg-deco splash-bg-deco--br" aria-hidden="true" alt="">
+
+    <div class="splash-content">
+      <img src="assets/brain.png" class="brain-glow" alt="Brain">
+      <h1 class="brand">NEUROBIO<span class="brand-accent">-AI</span></h1>
+      <div class="brand-divider"><span></span><i></i><span></span></div>
+      <p class="brand-tagline">Adaptive Biology Learning<br>for Dyslexia</p>
+
+      <div class="mascot-wave-wrap">
+        <img src="assets/swirl.png" class="splash-swirl" alt="">
+        <img src="assets/robot.png" class="mascot-wave" alt="Robot maskot">
+      </div>
+    </div>
+
+    <div class="splash-footer">
+      <p class="splash-status" id="splash-status">Initializing AI Engine…</p>
+      <div class="progress-track"><div class="progress-fill" id="splash-progress"></div></div>
+    </div>
+  </section>
+
+  <!-- ============ 1.5 SIAPA KAMU (Murid / Guru) ============ -->
+  <section class="screen" id="screen-siapa">
+    <header class="topbar topbar--deep">
+      <div class="brand-mini">
+        <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+        <div>
+          <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+          <p>Adaptive Biology Learning for Dyslexia</p>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <img src="assets/robot-unggah.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+        <button class="guru-access-icon" id="btn-buka-guru-pin" aria-label="Dashboard Guru">
+          <img src="assets/guru-id-icon.svg" class="guru-access-icon-img" alt="">
+        </button>
+      </div>
+    </header>
+    <div class="sheet center-sheet">
+      <img src="assets/key-icon.svg" class="key-icon-img" alt="">
+      <h3>Masukkan Nama Panggilanmu</h3>
+      <p class="sheet-lead font-read">Ma-suk-kan na-ma pang-gil-an yang te-lah di-ba-gi-kan o-leh gu-ru-mu.</p>
+
+      <input type="text" id="input-nama-murid" class="text-input" placeholder="Contoh: naya" autocomplete="off" autocapitalize="off" />
+      <p class="note-center note-error" id="nama-error" hidden>Nama panggilan tidak boleh kosong.</p>
+
+      <button class="btn btn-primary btn-block" id="btn-masuk-murid">Mulai Belajar →</button>
+
+      <img src="assets/robot-baca.png" class="robot-baca-img" alt="Robot sedang membaca">
+    </div>
+  </section>
+
+  <!-- ============ 2. ONBOARDING ============ -->
+  <section class="screen" id="screen-onboarding">
+  <header class="topbar topbar--deep">
+  <div class="brand-mini">
+    <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+    <div>
+      <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+      <p>Adaptive Biology Learning for Dyslexia</p>
+    </div>
+  </div>
+  <img src="assets/robot-baca.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+</header>
+<div class="sheet">
+  <h3 class="sheet-title">Panduan Penggunaan</h3>
+      <p class="sheet-lead">Ikuti langkah-langkah berikut untuk pengalaman belajar yang optimal.</p>
+
+<ol class="steps">
+  <li><img src="assets/step-baca.svg" class="step-ico-img"><div><strong>Cek Materi Aktif</strong><p>Buka Home, lihat materi yang sudah disiapkan gurumu di kartu "Materi Aktif".</p></div></li>
+  <li><img src="assets/step-baca.svg" class="step-ico-img"><div><strong>Mulai Membaca</strong><p>Tekan Mulai Membaca, lalu bacalah kartu sambil menunjuk teks dengan jari.</p></div></li>
+  <li><img src="assets/step-proses.svg" class="step-ico-img"><div><strong>Dengarkan Bantuan Suara</strong><p>Jeda lebih dari 3 detik pada satu kata akan memicu audio otomatis membacakannya.</p></div></li>
+  <li><img src="assets/step-lanjut.svg" class="step-ico-img"><div><strong>Lanjut ke Kartu Berikutnya</strong><p>Setelah selesai membaca satu kartu, tekan tombol Lanjut.</p></div></li>
+  <li><img src="assets/step-evaluasi.svg" class="step-ico-img"><div><strong>Kerjakan Evaluasi</strong><p>Baca soal dan opsi jawaban dahulu pada Mode Guided Reading.</p></div></li>
+  <li><img src="assets/step-kunci.svg" class="step-ico-img"><div><strong>Aktifkan Mode Jawaban</strong><p>Tekan Pilih Jawaban untuk membuka opsi jawaban setelah selesai membaca.</p></div></li>
+  <li><img src="assets/step-jawab.svg" class="step-ico-img"><div><strong>Jawab Soal</strong><p>Pilih jawaban yang benar, lalu tekan Jawab dan Lanjut.</p></div></li>
+  <li><img src="assets/step-hasil.svg" class="step-ico-img"><div><strong>Lihat Hasil Belajar</strong><p>Lihat Progres Pembelajaran, Reading Analytics, dan Hasil Evaluasi.</p></div></li>
+  <li><img src="assets/step-upload.svg" class="step-ico-img"><div><strong>Unggah Materi Sendiri (Opsional)</strong><p>Ingin belajar materi lain? Unggah PDF sendiri, tapi perlu disetujui gurumu dulu sebelum bisa dipakai.</p></div></li>
+</ol>
+
+      <button class="btn btn-primary btn-block" id="btn-onboarding-done">Mulai Belajar →</button>
+      <p class="note-center">Tidak ada akun. Progres hanya berlangsung selama sesi ini.</p>
+    </div>
+  </section>
+
+  <!-- ============ 3. HOME ============ -->
+<section class="screen" id="screen-home">
+    <header class="topbar">
+      <div class="brand-mini">
+        <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+        <div>
+          <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+          <p>Adaptive Biology Learning for Dyslexia</p>
+        </div>
+      </div>
+<div class="topbar-right">
+  <img src="assets/robot-baca.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+  <button class="guru-access-icon" id="btn-buka-guru-pin-home" aria-label="Dashboard Guru">
+    <img src="assets/guru-id-icon.svg" class="guru-access-icon-img" alt="">
+  </button>
+</div>
+    </header>
+
+    <div class="scroll-area">
+      <div class="card greet-card">
+        <img src="assets/wave-hand.png" class="greet-ico-img" alt="">
+        <div>
+          <h3>Halo, Sobat Neuro!</h3>
+          <p class="muted">Siap belajar hari ini?</p>
+          <p class="small">Tidak ada kata terlambat untuk terus belajar dan berkembang.</p>
+        </div>
+        <img src="assets/plant-sprout.png" class="greet-plant-img" alt="">
+      </div>
+
+      <div class="card material-card">
+        <div>
+          <p class="eyebrow-soft">Materi Aktif</p>
+          <h3 id="home-materi-judul">Memuat…</h3>
+          <p class="small" id="home-materi-desc">Menghubungi server…</p>
+          <div class="progress-track thin"><div class="progress-fill" id="home-progress-fill" style="width:0%"></div></div>
+          <button class="btn btn-primary" id="btn-mulai-membaca">Mulai Membaca →</button>
+        </div>
+        <img src="assets/mitochondria.png" class="material-emoji-img" alt="">
+      </div>
+
+<div class="card tp-card">
+  <div class="stat-row-label stat-row-label--center">
+
+    <strong>Tujuan Pembelajaran</strong>
+  </div>
+  <ol class="tp-list">
+    <li>
+      <span class="tp-badge">1.</span>
+      <p>Peserta didik disleksia SMA mampu menyebutkan istilah-istilah kunci metabolisme (glikolisis, dekarboksilasi oksidatif, PGAL, Asetil KoA, ATP), setelah membaca kartu mikro bersuku kata dengan bantuan audio TTS pada istilah yang disorot, dengan benar.</p>
+    </li>
+    <li>
+      <span class="tp-badge">2.</span>
+      <p>Peserta didik disleksia SMA mampu menjelaskan fungsi enzim serta mendeskripsikan proses katabolisme dan anabolisme secara umum, melalui sesi membaca terpandu (finger-pointing + auto-TTS saat jeda baca &gt;3 detik) pada kartu mikro, dengan tepat.</p>
+    </li>
+    <li>
+      <span class="tp-badge">3.</span>
+      <p>Peserta didik disleksia SMA mampu menjawab soal evaluasi terkait konsep metabolisme, pada fitur Guided Reading Quiz setelah menyelesaikan seluruh sesi membaca terpandu pada kartu mikro, dengan benar.</p>
+    </li>
+  </ol>
+</div>
+
+      <div class="card toggle-card">
+        <img src="assets/speech-bubble.png" class="toggle-ico-img" alt="">
+        <div class="toggle-text">
+          <strong>Hesitation Latency Detection</strong>
+          <p class="small">NEUROBIO-AI akan mengaktifkan Text-to-Speech (TTS) saat mendeteksi jeda membaca &gt;3 detik.</p>
+        </div>
+        <label class="switch">
+          <input type="checkbox" id="toggle-hesitation" checked>
+          <span class="switch-track"><span class="switch-thumb"></span></span>
+        </label>
+      </div>
+
+      <h4 class="section-label">Fitur Utama</h4>
+      <div class="feature-grid">
+        <button class="feature-tile" data-nav="screen-upload">
+        <img src="assets/folder-materi.png" class="feature-ico-img" alt="">
+          <strong>Unggah Materi</strong>
+          <p>Unggah dokumen PDF materi Biologi</p>
+        </button>
+        <button class="feature-tile" data-nav="screen-baca">
+          <img src="assets/book-adaptive.png" class="feature-ico-img" alt="">
+          <strong>Adaptive Reading</strong>
+          <p>Membaca adaptif ramah disleksia</p>
+        </button>
+        <button class="feature-tile" data-nav="screen-evaluasi">
+          <img src="assets/clipboard-evaluasi.png" class="feature-ico-img" alt="">
+          <strong>Evaluasi</strong>
+          <p>Kerjakan kuis Guided Reading</p>
+        </button>
+        <button class="feature-tile" data-nav="screen-progres">
+          <img src="assets/chart-progres.png" class="feature-ico-img" alt="">
+          <strong>Progres</strong>
+          <p>Lihat perkembangan &amp; pencapaianmu</p>
+        </button>
+      </div>
+
+      <div class="card progress-summary-card">
+        <img src="assets/star-progres.png" class="star-ico-img" alt="">
+        <div>
+          <strong>Progres Belajar</strong>
+          <div class="progress-track thin"><div class="progress-fill" id="home-progress-fill-2" style="width:0%"></div></div>
+          <p class="small" id="home-progress-note">Mulai membaca untuk melihat progres pembelajaran.</p>
+        </div>
+      </div>
+
+      <div class="card motivation-card">
+        <img src="assets/robot-cinta.png" class="mascot-mini-img" alt="Robot maskot">
+        <div>
+          <strong>Learning Motivation</strong>
+          <p class="small">Terus semangat! Setiap langkah kecil hari ini adalah kemajuan besar untuk masa depanmu.</p>
+        </div>
+        <img src="assets/sparkle-purple.png" class="sparkle-img" alt="">
+      </div>
+    </div>
+
+    <nav class="bottom-nav" id="bottom-nav-home"></nav>
+  </section>
+
+  <!-- ============ 4. UPLOAD ============ -->
+  <section class="screen" id="screen-upload">
+    <header class="topbar topbar--deep">
+      <div class="brand-mini">
+        <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+        <div>
+          <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+          <p>Adaptive Biology Learning for Dyslexia</p>
+        </div>
+      </div>
+      <img src="assets/robot-unggah.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+    </header>
+    <div class="sheet center-sheet">
+      <img src="assets/folder-upload.png" class="folder-upload-img" alt="Unggah materi">
+      <h3>Unggah Materi Biologi</h3>
+
+      <label class="dropzone" id="dropzone-label" for="pdf-file-input">
+        <div class="file-row" id="file-row-empty">
+          <span class="file-badge">PDF</span>
+          <div>
+            <strong>Pilih file PDF materi Biologi</strong>
+            <p class="small">Klik untuk memilih dari perangkatmu</p>
+          </div>
+          <span class="check-ico" id="file-check-ico" hidden>
+            <svg class="check-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="1.8"/>
+              <path d="M8 12.5l2.5 2.5L16 9.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </span>
+        </div>
+      </label>
+      <input type="file" id="pdf-file-input" accept="application/pdf" hidden />
+
+      <p class="note-center" id="upload-note">Materi hasil unggahanmu akan tersimpan dulu dan menunggu persetujuan guru sebelum bisa dipakai untuk belajar.</p>
+      <p class="note-center note-error" id="upload-error" hidden></p>
+
+      <button class="btn btn-primary btn-block" id="btn-proses-ai" disabled>
+        <svg class="bolt-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M13 3 5 13.5h5.5L11 21l8-11h-5.5L13 3Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+        </svg>
+        Proses dengan NEUROBIO-AI
+      </button>
+      <button class="btn btn-ghost btn-block" data-nav="screen-home">Batal</button>
+    </div>
+  </section>
+
+  <!-- ============ 5. PROCESSING ============ -->
+  <section class="screen" id="screen-processing">
+    <header class="topbar topbar--deep">
+      <div class="brand-mini">
+        <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+        <div>
+          <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+          <p>Adaptive Biology Learning for Dyslexia</p>
+        </div>
+      </div>
+      <img src="assets/robot-unggah.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+    </header>
+    <div class="sheet center-sheet">
+      <p class="proses-label">PROSES DENGAN</p>
+      <h3 class="proses-brand">NEUROBIO<span class="brand-accent">-AI</span></h3>
+      <div class="speech-bubble" id="processing-message">
+        NEUROBIO-AI sedang mengolah materi menjadi kartu pembelajaran adaptif… Mohon tunggu sebentar ya!
+      </div>
+      <div class="mascot-processing-wrap">
+        <img src="assets/cursor-pixel.png" class="cursor-pixel-deco" alt="" aria-hidden="true">
+        <img src="assets/brain-baru.png" class="brain-baru-img" alt="NEUROBIO-AI sedang memproses">
+      </div>
+      <div class="progress-block">
+        <div class="progress-row"><span>Progres</span><span id="processing-pct">0%</span></div>
+        <div class="progress-track"><div class="progress-fill" id="processing-fill" style="width:0%"></div></div>
+      </div>
+      <p class="note-center note-inline" id="processing-privacy-note">
+        <svg class="shield-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M12 3.5 5 6v6c0 5 3 8 7 8.5 4-0.5 7-3.5 7-8.5V6l-7-2.5Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M9.2 12l1.9 1.9 3.7-4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Aman &amp; terenkripsi: Data diproses di server untuk menghasilkan analisis terbaik.
+      </p>
+      <p class="note-center note-error note-inline" id="processing-warning">
+        <svg class="warning-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M12 4.5 21 19.5H3L12 4.5Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+          <path d="M12 10v4.2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          <circle cx="12" cy="17" r="0.9" fill="currentColor"/>
+        </svg>
+        Proses unggah bisa memakan waktu 30 detik–2 menit tergantung panjang PDF. Jangan tutup atau pindah layar sebelum ada konfirmasi selesai/gagal di sini.
+      </p>
+      <button class="btn btn-ghost btn-block" id="btn-processing-cancel" data-nav="screen-upload">Batal</button>
+    </div>
+  </section>
+
+  <!-- ============ 6. BACA (Reading card) ============ -->
+  <section class="screen" id="screen-baca">
+<header class="topbar topbar--deep">
+  <div class="brand-mini">
+    <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+    <div>
+      <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+      <p>Adaptive Biology Learning for Dyslexia</p>
+    </div>
+  </div>
+  <img src="assets/robot-baca.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+</header>
+
+    <div class="scroll-area">
+      <div class="card reading-head-card">
+        <div class="reading-head-row">
+        <img src="assets/book-icon.png" class="book-ico-img" alt="">
+          <h3 id="baca-judul">METABOLISME</h3>
+          <span class="status-pill status-adaptive" id="baca-status">
+            <svg class="status-dot-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <circle cx="12" cy="12" r="6" fill="currentColor"/>
+            </svg>
+            Mode Adaptif Aktif
+          </span>
+        </div>
+
+        <div class="font-toolbar">
+          <span>Font</span>
+          <span class="font-chip">OpenDyslexic</span>
+          <button class="chip-btn" id="font-minus">A-</button>
+          <button class="chip-btn" id="font-plus">A+</button>
+          <button class="chip-btn" id="btn-baca-progress-toggle">
+            <svg class="menu-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <div class="progress-track thin card-margin"><div class="progress-fill" id="baca-progress-fill"></div></div>
+      <p class="small card-margin" id="baca-kartu-counter">Kartu 1 dari 5</p>
+
+      <div class="card reading-card" id="reading-card-box">
+        <div class="reading-text" id="reading-text"></div>
+        <div class="diagram-row" id="reading-diagram"></div>
+
+        <div class="hesitation-alert" id="hesitation-alert" hidden>
+          <div class="hesitation-left">
+            <svg class="hourglass-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M6 3h12M6 21h12M7 3c0 4 2.5 6 5 8-2.5 2-5 4-5 8M17 3c0 4-2.5 6-5 8 2.5 2 5 4 5 8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M9 6.2h6M9 17.8h6" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+            </svg>
+            <p class="small">Jeda membaca terdeteksi selama</p>
+            <div class="hesitation-badge"><span id="hesitation-seconds">&gt;3</span><small>detik</small></div>
+          </div>
+          <div class="hesitation-right">
+            <p class="mini-brand"><img src="assets/brain-glow.png" class="mini-brand-img" alt="">NEUROBIO-AI</p>
+            <p class="small">Terdeteksi jeda membaca pada bagian ini.</p>
+            <p class="small">Audio Text-to-Speech (TTS) akan diputar secara otomatis.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="tts-now-playing" id="tts-now-playing" hidden>
+      <img src="assets/speaker-icon.png" class="speaker-ico-img" alt="">
+        <span id="tts-now-text">…</span>
+        <span class="waveform" aria-hidden="true">▂▄▆█▅▃▇▂▅</span>
+      </div>
+
+      <button class="btn btn-primary btn-block" id="btn-lanjut-membaca">Lanjut Membaca →</button>
+
+      <div class="hint-card">
+        <div class="hint-robot-wrap">
+          <img src="assets/sparkle-purple.png" class="hint-sparkle-side hint-sparkle-left" alt="">
+          <img src="assets/robot-cinta.png" class="hint-robot-img" alt="">
+          <img src="assets/sparkle-purple.png" class="hint-sparkle-side hint-sparkle-right" alt="">
+        </div>
+        <p class="small">NEUROBIO-AI membantu Anda dengan menyorot istilah penting. Sentuh istilah kuning untuk mendengarkan Text-to-Speech (TTS). Tahan jari di kata apa pun &gt;3 detik untuk bantuan otomatis.</p>
+      </div>
+    </div>
+
+    <nav class="bottom-nav" id="bottom-nav-baca"></nav>
+  </section>
+
+  <!-- ============ 7. EVALUASI (Kuis) ============ -->
+  <section class="screen" id="screen-evaluasi">
+<header class="topbar topbar--deep">
+  <div class="brand-mini">
+    <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+    <div>
+      <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+      <p>Adaptive Biology Learning for Dyslexia</p>
+    </div>
+  </div>
+  <img src="assets/robot-baca.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+</header>
+
+    <div class="scroll-area">
+      <div class="card reading-head-card">
+      <div class="reading-head-row">
+      <img src="assets/evaluasi-nur.png" class="book-ico-img" alt="">
+      <h3>EVALUASI</h3>
+          
+          <span class="status-pill status-warning">
+            <svg class="clock-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="1.6"/>
+              <path d="M12 7.5V12l3 2" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            Mode Evaluasi
+          </span>
+        </div>
+      </div>
+
+      <div class="quiz-progress-row card-margin">
+        <span class="small" id="quiz-counter">Soal 1 dari 5</span>
+        <div class="progress-track thin quiz-progress-track"><div class="progress-fill" id="quiz-progress-fill"></div></div>
+        <span class="small" id="quiz-pct">0%</span>
+      </div>
+
+      <div class="card quiz-card">
+        <span class="soal-tag" id="quiz-soal-tag">SOAL 1</span>
+        <div class="reading-text quiz-soal-text" id="quiz-soal-text"></div>
+
+        <div class="quiz-options" id="quiz-options"></div>
+      </div>
+
+      <div class="lock-modal" id="lock-modal">
+      <img src="assets/lonceng-nur.png" class="bell-ico-img" alt="">
+      <h4>Pilih Jawaban?</h4>
+        <p class="small">Jika ingin menjawab soal ini, tekan &ldquo;Pilih Jawaban&rdquo;. Mode baca akan otomatis nonaktif.</p>
+        <button class="btn btn-primary btn-block" id="btn-buka-jawaban">Pilih Jawaban</button>
+        <button class="btn btn-ghost btn-block" id="btn-batal-jawaban">Batal, masih ingin membaca</button>
+      </div>
+
+      <button class="btn btn-locked btn-block" id="btn-pilih-jawaban-bar">
+      <img src="assets/gembok.png" class="lock-ico-img" alt="">
+      Pilih Jawaban
+      </button>
+      <button class="btn btn-primary btn-block" id="btn-jawab-lanjut" hidden>Jawab &amp; Lanjut →</button>
+    </div>
+
+    <nav class="bottom-nav" id="bottom-nav-evaluasi"></nav>
+  </section>
+
+  <!-- ============ 8. PROGRES / HASIL ============ -->
+  <section class="screen" id="screen-progres">
+  <header class="topbar topbar--deep">
+  <div class="brand-mini">
+    <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+    <div>
+      <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+      <p>Adaptive Biology Learning for Dyslexia</p>
+    </div>
+  </div>
+  <img src="assets/robot-baca.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+</header>
+
+    <div class="scroll-area">
+<div class="card">
+  <div class="reading-head-row">
+    <img src="assets/book-icon.png" class="book-ico-img" alt="">
+    <h3 id="progres-materi-judul">Metabolisme</h3>
+    <img src="assets/mito-progres.png" class="mito-progres-img" alt="">
+  </div>
+</div>
+
+      <div class="card">
+        <div class="stat-row-label">
+        <img src="assets/chart-progres.png" class="stat-ico-img" alt="">
+        <strong>Progres Belajar</strong>
+        </div>
+        <div class="progress-track thin"><div class="progress-fill" id="progres-belajar-fill" style="width:0%"></div></div>
+        <p class="stat-big" id="progres-belajar-pct">0%</p>
+      </div>
+
+      <div class="card">
+        <div class="stat-row-label">
+          <img src="assets/analisis-membaca.png" class="stat-ico-img" alt="">
+          <strong>Analisis Membaca</strong>
+          </div>
+      
+      <div class="analysis-grid">
+        <div>
+        <img src="assets/alarm.png" class="analysis-ico-img" alt="">
+        <p class="small">Lama Membaca</p>
+        <p class="stat-mid"><span id="stat-lama-membaca">0</span> menit</p>
+      </div>
+      <div>
+      <img src="assets/petir.png" class="analysis-ico-img" alt="">
+      <p class="small">Hesitation Latency</p>
+      <p class="stat-mid"><span id="stat-hesitation">0</span> kali</p>
+      </div>
+      <div>
+      <img src="assets/speaker-tts.png" class="analysis-ico-img" alt="">
+      <p class="small">Bantuan Text-to-Speech</p>
+      <ul class="tts-help-list" id="stat-tts-words"><li class="small muted">Belum ada</li></ul>
+      </div>
+      </div>
+      </div>
+      <div class="card">
+        <div class="stat-row-label">
+        <img src="assets/evaluasi-nur.png" class="stat-ico-img" alt="">
+        <strong>Hasil Evaluasi</strong>
+        </div>
+        <div class="hasil-row">
+          <div>
+            <p class="small">Nilai</p>
+            <p class="stat-big"><span id="stat-nilai">-</span><small>/100</small></p>
+          </div>
+          <div>
+            <p class="small">Status</p>
+            <p class="status-badge" id="stat-status">Belum dikerjakan</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="card" id="pencapaian-card" hidden>
+        <div class="stat-row-label">
+          <svg class="stat-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M7 4h10v4a5 5 0 0 1-10 0V4Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+            <path d="M7 5H4.5a2 2 0 0 0 0 4H7M17 5h2.5a2 2 0 0 1 0 4H17" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+            <path d="M12 13v3M9 20h6M10 17h4v3h-4v-3Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+          </svg>
+          <strong>Pencapaian</strong>
+        </div>
+        <div class="badge-row">
+          <svg class="medal-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <circle cx="12" cy="14" r="6.5" stroke="currentColor" stroke-width="1.6"/>
+            <path d="M12 10.5 13 13h2.5l-2 1.6.8 2.4-2.3-1.5-2.3 1.5.8-2.4-2-1.6H11l1-2.5Z" fill="currentColor"/>
+            <path d="M9 4 6.5 8.5M15 4l2.5 4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+          </svg>
+          <p id="pencapaian-text">Materi Metabolisme Selesai</p>
+        </div>
+      </div>
+
+      <div class="motivation-card card">
+  <img src="assets/bintang-capai.png" class="motivation-ico-img" alt="">
+  <div>
+    <strong id="ai-feedback-title">Ayo mulai belajar!</strong>
+    <p class="small" id="ai-feedback-text">Buka menu Baca untuk mulai membaca materi Metabolisme, kerjakan Evaluasi sampai selesai, agar hasil belajarmu lebih maksimal!</p>
+  </div>
+</div>
+
+      <button class="btn btn-primary btn-block" id="btn-ulangi">
+        <svg class="refresh-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M4 4v5h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M20 20v-5h-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M5.5 9a7 7 0 0 1 12.4-2.5M18.5 15a7 7 0 0 1-12.4 2.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        Ulangi dari Awal
+      </button>
+    </div>
+
+    <nav class="bottom-nav" id="bottom-nav-progres"></nav>
+  </section>
+
+  <!-- ============ 9. PENGATURAN ============ -->
+  <section class="screen" id="screen-pengaturan">
+    <header class="topbar topbar--deep">
+  <div class="brand-mini">
+    <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+    <div>
+      <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+      <p>Adaptive Biology Learning for Dyslexia</p>
+    </div>
+  </div>
+  <img src="assets/robot-baca.png" class="mascot-mini-img" alt="Robot maskot" aria-hidden="true">
+</header>
+
+    <div class="scroll-area">
+      <h4 class="section-label">Pengaturan Baca</h4>
+
+      <div class="card toggle-card">
+  <img src="assets/speech-bubble.png" class="toggle-ico-img" alt="">
+  <div class="toggle-text">
+    <strong>Hesitation Latency Detection</strong>
+          <p class="small">Nonaktifkan jika kamu tidak ingin audio otomatis saat jeda &gt;3 detik.</p>
+        </div>
+        <label class="switch">
+          <input type="checkbox" id="toggle-hesitation-2" checked>
+          <span class="switch-track"><span class="switch-thumb"></span></span>
+        </label>
+      </div>
+
+<div class="card toggle-card">
+  <img src="assets/bintang-capai.png" class="motivation-ico-img" alt="">
+  <div class="toggle-text">
+    <strong>Butuh Bantuan?</strong>
+    <p class="small">Jika mengalami kendala saat belajar, sampaikan langsung ke gurumu di kelas.</p>
+  </div>
+</div>
+<input type="text" id="backend-url-input" class="text-input" value="http://localhost:8000" hidden>
+
+      <div class="card">
+        <strong>Ukuran Huruf Kartu Baca</strong>
+        <div class="font-size-row">
+          <button class="chip-btn" id="font-minus-2">A-</button>
+          <span class="small" id="font-size-label">100%</span>
+          <button class="chip-btn" id="font-plus-2">A+</button>
+        </div>
+      </div>
+
+      <div class="card">
+        <strong>Kecepatan Suara TTS</strong>
+        <input type="range" id="tts-rate" min="0.6" max="1.2" step="0.1" value="0.9" class="range-input">
+      </div>
+
+      <div class="card">
+        <strong>Sesi &amp; Privasi</strong>
+        <p class="small">NEUROBIO-AI tidak memerlukan login. Semua progres tersimpan sementara di perangkat ini dan akan hilang saat halaman ditutup atau dimuat ulang. Data ringkasan membaca (lama baca, jumlah jeda) dikirim ke server sekolah supaya guru bisa memantau progresmu.</p>
+        <button class="btn btn-ghost btn-block" id="btn-reset-sesi">Reset Sesi Sekarang</button>
+      </div>
+    </div>
+
+    <nav class="bottom-nav" id="bottom-nav-pengaturan"></nav>
+  </section>
+
+  <!-- ============ 10. DASHBOARD GURU ============ -->
+  <section class="screen" id="screen-guru">
+<header class="topbar topbar--deep">
+  <div class="brand-mini">
+    <img src="assets/brain-glow.png" class="brain-mini-img" alt="" aria-hidden="true">
+    <div>
+      <h2>NEUROBIO<span class="brand-accent">-AI</span></h2>
+      <p>Dashboard Guru</p>
+    </div>
+  </div>
+  <button class="chip-btn" id="btn-guru-refresh">
+  <svg class="refresh-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+    <path d="M4 4v5h5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 20v-5h-5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M5.5 9a7 7 0 0 1 12.4-2.5M18.5 15a7 7 0 0 1-12.4 2.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</button>
+</header>
+
+    <div class="scroll-area">
+      <div class="card">
+        <strong>Daftar Materi</strong>
+        <p class="small">Materi dari guru langsung aktif otomatis. Materi dari siswa perlu ditinjau dan disetujui dulu di sini sebelum bisa dipakai murid lain.</p>
+        <button class="btn btn-primary btn-block" id="btn-guru-upload">
+          <svg class="folder-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M3.5 6.5A1.5 1.5 0 0 1 5 5h4.2l1.6 2H19a1.5 1.5 0 0 1 1.5 1.5v9A1.5 1.5 0 0 1 19 19H5a1.5 1.5 0 0 1-1.5-1.5v-11Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+          </svg>
+          Unggah Materi (Guru)
+        </button>
+      </div>
+      <div id="guru-materi-list"></div>
+
+      <div class="card">
+        <strong>Tambah Murid Baru</strong>
+        <p class="small">Kode login murid dibuat otomatis dari nama panggilan (polos, tanpa angka acak — cocok untuk kelas kecil).</p>
+        <input type="text" id="input-guru-nama-asli" class="text-input" placeholder="Nama Asli (contoh: Safira Zahra)" />
+        <input type="text" id="input-guru-nama-panggilan" class="text-input" placeholder="Nama Panggilan (contoh: Safira)" />
+        <p class="note-center note-error" id="guru-tambah-error" hidden></p>
+        <p class="note-center" id="guru-kode-hasil" hidden></p>
+        <button class="btn btn-primary btn-block" id="btn-guru-tambah-murid">
+          <svg class="plus-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>
+          </svg>
+          Tambah Murid
+        </button>
+      </div>
+
+      <div class="card">
+        <strong>Daftar Murid &amp; Riwayat Membaca</strong>
+        <p class="small">Lama membaca, jeda (hesitation), dan nilai evaluasi tiap murid, per tanggal.</p>
+      </div>
+
+      <p class="note-center" id="guru-loading">Memuat data…</p>
+      <p class="note-center note-error" id="guru-error" hidden></p>
+
+      <div id="guru-murid-list"></div>
+    </div>
+
+    <nav class="bottom-nav">
+      <button class="nav-item active" id="btn-guru-keluar">
+        <svg class="door-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M14 3.5 6 5v15l8 1.5v-18Z" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M14 4h5v16h-5" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M17 12.5v-1" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+        </svg>
+        <span>Keluar</span>
+      </button>
+    </nav>
+  </section>
+
+  <!-- ============ MODAL PIN GURU (overlay, muncul dari Home) ============ -->
+  <div class="guru-pin-overlay" id="guru-pin-overlay" hidden>
+    <div class="guru-pin-modal">
+      <svg class="guru-lock-ico-svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+        <rect x="5" y="11" width="14" height="9" rx="2" stroke="currentColor" stroke-width="1.7"/>
+        <path d="M8 11V7.5a4 4 0 0 1 8 0V11" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
+        <circle cx="12" cy="15" r="1.3" fill="currentColor"/>
+      </svg>
+      <h4>Dashboard Guru</h4>
+      <p class="small">Masukkan PIN guru untuk melanjutkan.</p>
+      <input type="password" id="input-pin-guru" class="text-input" placeholder="PIN" inputmode="numeric" />
+      <p class="note-center note-error" id="pin-guru-error" hidden>PIN salah, coba lagi.</p>
+      <button class="btn btn-primary btn-block" id="btn-pin-guru-masuk">Masuk</button>
+      <button class="btn btn-ghost btn-block" id="btn-pin-guru-batal">Batal</button>
+    </div>
+  </div>
+
+</div>
+</div>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

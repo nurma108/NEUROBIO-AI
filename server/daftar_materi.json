@@ -1,0 +1,5347 @@
+{
+  "6ab63be66b19": {
+    "id": "6ab63be66b19",
+    "judul": "Materi Metabolisme",
+    "tanggal_upload": "2026-09-12T18:31:38.220385",
+    "kartu": [
+      {
+        "judulKartu": "Peng-er-ti-an Me-ta-bo-lis-me",
+        "teks": [
+          "*Me-ta-bo-lis-me* a-da-lah se-lu-ruh re-ak-si ki-mi-a di da-lam sel mak-hluk hi-dup.",
+          "Pro-ses i-ni di-ban-tu o-leh en-zim dan me-li-bat-kan per-u-ba-han en-er-gi."
+        ],
+        "diagram": [
+          {
+            "label": "Re-ak-si Ki-mi-a Sel",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Di-ban-tu En-zim",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "*Me-ta-bo-lis-me*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 1
+      },
+      {
+        "judulKartu": "Peng-er-ti-an A-na-bo-lis-me",
+        "teks": [
+          "*A-na-bo-lis-me* di-se-but ju-ga *as-im-i-la-si* a-tau *sin-te-sis*.",
+          "Pro-ses i-ni me-nyu-sun mo-le-kul se-der-ha-na me-n-ja-di mo-le-kul kom-pleks."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Se-der-ha-na",
+            "emoji": "🔹"
+          },
+          {
+            "label": "Pro-ses Pe-nyu-su-nan",
+            "emoji": "🛠️"
+          },
+          {
+            "label": "Mo-le-kul Kom-pleks",
+            "emoji": "💎",
+            "aksen": true
+          }
+        ],
+        "id": 2
+      },
+      {
+        "judulKartu": "Si-fat En-der-go-nik",
+        "teks": [
+          "Pro-ses *a-na-bo-lis-me* mem-bu-tuh-kan en-er-gi da-ri lu-ar.",
+          "Re-ak-si yang mem-bu-tuh-kan en-er-gi di-se-but re-ak-si *en-der-go-nik*."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Se-der-ha-na",
+            "emoji": "🔹"
+          },
+          {
+            "label": "Mem-bu-tuh-kan En-er-gi",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Mo-le-kul Kom-pleks",
+            "emoji": "💎",
+            "aksen": true
+          }
+        ],
+        "id": 3
+      },
+      {
+        "judulKartu": "Je-nis-je-nis A-na-bo-lis-me",
+        "teks": [
+          "*Fo-to-sin-te-sis* a-da-lah *a-na-bo-lis-me* yang me-ngu-na-kan en-er-gi ca-ha-ya.",
+          "*Ke-mo-sin-te-sis* a-da-lah *a-na-bo-lis-me* yang me-ngu-na-kan en-er-gi ki-mi-a."
+        ],
+        "diagram": [
+          {
+            "label": "En-er-gi Ca-ha-ya",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Fo-to-sin-te-sis*",
+            "emoji": "🌱",
+            "aksen": true
+          },
+          {
+            "label": "En-er-gi Ki-mi-a",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*Ke-mo-sin-te-sis*",
+            "emoji": "🧫",
+            "aksen": true
+          }
+        ],
+        "id": 4
+      },
+      {
+        "judulKartu": "Peng-er-ti-an Ka-ta-bo-lis-me",
+        "teks": [
+          "*Ka-ta-bo-lis-me* di-se-but ju-ga *des-im-i-la-si*.",
+          "Pro-ses i-ni me-ngu-rai-kan mo-le-kul kom-pleks me-n-ja-di mo-le-kul se-der-ha-na."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Kom-pleks",
+            "emoji": "💎"
+          },
+          {
+            "label": "Pro-ses Pe-ngu-ra-i-an",
+            "emoji": "🔨"
+          },
+          {
+            "label": "Mo-le-kul Se-der-ha-na",
+            "emoji": "🔹",
+            "aksen": true
+          }
+        ],
+        "id": 5
+      },
+      {
+        "judulKartu": "Si-fat Ek-ser-go-nik",
+        "teks": [
+          "Pro-ses *ka-ta-bo-lis-me* me-le-pas-kan en-er-gi ter-sim-pan.",
+          "Re-ak-si yang me-ng-ha-sil-kan en-er-gi di-se-but re-ak-si *ek-ser-go-nik*."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Kom-pleks",
+            "emoji": "💎"
+          },
+          {
+            "label": "Pe-ngu-ra-i-an",
+            "emoji": "💥"
+          },
+          {
+            "label": "En-er-gi *ATP*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 6
+      },
+      {
+        "judulKartu": "Fung-si Ka-ta-bo-lis-me",
+        "teks": [
+          "*Ka-ta-bo-lis-me* me-nye-di-a-kan ba-han ba-ku un-tuk *sin-te-sis* mo-le-kul lain.",
+          "Pro-ses i-ni ju-ga me-nye-di-a-kan en-er-gi ki-mi-a un-tuk ak-ti-vi-tas sel."
+        ],
+        "diagram": [
+          {
+            "label": "*Ka-ta-bo-lis-me*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Ba-han Ba-ku Sel",
+            "emoji": "🧩"
+          },
+          {
+            "label": "En-er-gi *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 7
+      },
+      {
+        "judulKartu": "Re-ak-si Ok-si-da-si Ka-ta-bo-lis-me",
+        "teks": [
+          "Re-ak-si yang u-mum ter-ja-di pa-da *ka-ta-bo-lis-me* a-da-lah *ok-si-da-si*.",
+          "En-er-gi yang di-be-bas-kan a-kan di-sim-pan da-lam ben-tuk *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "Re-ak-si *Ok-si-da-si*",
+            "emoji": "🔥"
+          },
+          {
+            "label": "Pe-mbe-ba-san En-er-gi",
+            "emoji": "💥"
+          },
+          {
+            "label": "Pen-sim-pan-an *ATP*",
+            "emoji": "🔋",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 8
+      },
+      {
+        "judulKartu": "Per-an Mi-to-kon-dri-a",
+        "teks": [
+          "*Mi-to-kon-dri-a* ber-fung-si se-ba-gai pe-nye-di-a en-er-gi *ATP* ba-gi sel.",
+          "*Mi-to-kon-dri-a* me-ng-ha-sil-kan en-er-gi me-la-lu-i ak-ti-vi-tas *res-pi-ra-si*."
+        ],
+        "diagram": [
+          {
+            "label": "*Mi-to-kon-dri-a*",
+            "emoji": "🛑"
+          },
+          {
+            "label": "Pro-ses *Res-pi-ra-si*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "En-er-gi *ATP*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 9
+      },
+      {
+        "judulKartu": "Tu-ju-an Res-pi-ra-si Sel-u-ler",
+        "teks": [
+          "Ba-han da-sar *res-pi-ra-si* a-da-lah *glu-ko-sa* yang di-ok-si-da-si o-leh ok-si-gen.",
+          "Tu-ju-an u-ta-ma *res-pi-ra-si* a-da-lah me-ng-ha-sil-kan en-er-gi *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa* + Ok-si-gen",
+            "emoji": "🍬"
+          },
+          {
+            "label": "Pro-ses *Ok-si-da-si*",
+            "emoji": "🔥"
+          },
+          {
+            "label": "En-er-gi *ATP*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 10
+      },
+      {
+        "judulKartu": "Res-pi-ra-si A-e-rob dan An-a-e-rob",
+        "teks": [
+          "*Res-pi-ra-si a-e-rob* me-ngu-na-kan ok-si-gen un-tuk me-ng-ha-sil-kan en-er-gi.",
+          "*Res-pi-ra-si an-a-e-rob* dan *fer-men-ta-si* ti-dak me-ngu-na-kan ok-si-gen."
+        ],
+        "diagram": [
+          {
+            "label": "*Res-pi-ra-si*",
+            "emoji": "🫁"
+          },
+          {
+            "label": "Bu-tuh Ok-si-gen -> *A-e-rob*",
+            "emoji": "💨",
+            "aksen": true
+          },
+          {
+            "label": "Tan-pa Ok-si-gen -> *An-a-e-rob*",
+            "emoji": "🚫",
+            "aksen": true
+          }
+        ],
+        "id": 11
+      },
+      {
+        "judulKartu": "Struk-tur Mo-le-kul ATP",
+        "teks": [
+          "*ATP* ter-di-ri da-ri ad-e-nin, ri-bo-sa, dan ti-ga gu-gus fos-fat.",
+          "Ik-at-an fos-fat pa-da *ATP* me-ng-an-dung en-er-gi yang ting-gi."
+        ],
+        "diagram": [
+          {
+            "label": "Ad-e-nin + Ri-bo-sa",
+            "emoji": "🧬"
+          },
+          {
+            "label": "Ti-ga Gu-gus Fos-fat",
+            "emoji": "🔗"
+          },
+          {
+            "label": "Ik-at-an En-er-gi Ting-gi",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 12
+      },
+      {
+        "judulKartu": "Pe-le-pas-an En-er-gi ATP",
+        "teks": [
+          "*ATP* me-le-pas-kan sa-tu gu-gus fos-fat un-tuk me-ng-ha-sil-kan en-er-gi be-bas.",
+          "Set-e-lah me-le-pas-kan fos-fat, *ATP* be-ru-bah me-n-ja-di *ADP*."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul *ATP*",
+            "emoji": "🔋",
+            "energi": true
+          },
+          {
+            "label": "Le-pas 1 Fos-fat",
+            "emoji": "💥"
+          },
+          {
+            "label": "Me-n-ja-di *ADP*",
+            "emoji": "🪫",
+            "aksen": true
+          }
+        ],
+        "id": 13
+      },
+      {
+        "judulKartu": "Re-ak-si U-mum Res-pi-ra-si A-e-rob",
+        "teks": [
+          "Sub-strat *glu-ko-sa* di-pe-cah me-n-ja-di kar-bon di-ok-si-da dan a-ir.",
+          "Re-ak-si i-ni me-ng-ha-sil-kan to-tal ti-ga pu-luh de-la-pan *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa* + Ok-si-gen",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Re-ak-si *Res-pi-ra-si*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "CO2 + H2O + 38 *ATP*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 14
+      },
+      {
+        "judulKartu": "Em-pat Ta-hap Res-pi-ra-si A-e-rob",
+        "teks": [
+          "*Res-pi-ra-si a-e-rob* ber-lang-sung ber-ta-hap da-lam em-pat ta-hap u-ta-ma.",
+          "Ta-hap-an-nya a-da-lah *gli-ko-li-sis*, *de-kar-bok-si-la-si ok-si-da-tif*, *sik-lus Krebs*, dan *trans-por elek-tron*."
+        ],
+        "diagram": [
+          {
+            "label": "*Gli-ko-li-sis*",
+            "emoji": "1️⃣"
+          },
+          {
+            "label": "*De-kar-bok-si-la-si Ok-si-da-tif*",
+            "emoji": "2️⃣"
+          },
+          {
+            "label": "*Sik-lus Krebs*",
+            "emoji": "3️⃣"
+          },
+          {
+            "label": "*Trans-por Elek-tron*",
+            "emoji": "4️⃣",
+            "aksen": true
+          }
+        ],
+        "id": 15
+      },
+      {
+        "judulKartu": "Peng-er-ti-an Gli-ko-li-sis",
+        "teks": [
+          "*Gli-ko-li-sis* a-da-lah pe-me-cah-an sa-tu mo-le-kul *glu-ko-sa* me-n-ja-di du-a *a-sam pi-ru-vat*.",
+          "Pro-ses i-ni ber-lang-sung di *si-to-sol* *si-to-plas-ma* da-lam kon-di-si tan-pa ok-si-gen."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa* (6C)",
+            "emoji": "🍬"
+          },
+          {
+            "label": "Pro-ses di *Si-to-sol*",
+            "emoji": "📍"
+          },
+          {
+            "label": "2 *A-sam Pi-ru-vat* (3C)",
+            "emoji": "🧪",
+            "aksen": true
+          }
+        ],
+        "id": 16
+      },
+      {
+        "judulKartu": "Ta-hap In-ves-ta-si En-er-gi",
+        "teks": [
+          "Ta-hap per-ta-ma *gli-ko-li-sis* a-da-lah in-ves-ta-si en-er-gi.",
+          "Ta-hap i-ni mem-bu-tuh-kan du-a mo-le-kul *ATP* un-tuk me-mu-la-i re-ak-si."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "Gu-na-kan 2 *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "2 *PGAL*",
+            "emoji": "🧪",
+            "aksen": true
+          }
+        ],
+        "id": 17
+      },
+      {
+        "judulKartu": "Ta-hap Pem-ben-tuk-an En-er-gi",
+        "teks": [
+          "Ta-hap ke-du-a *gli-ko-li-sis* a-da-lah pem-ben-tuk-an en-er-gi.",
+          "Ta-hap i-ni me-ng-ha-sil-kan em-pat mo-le-kul *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "2 *PGAL*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Pro-ses Pem-ben-tuk-an",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Ha-sil-kan 4 *ATP*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 18
+      },
+      {
+        "judulKartu": "Ha-sil Ber-sih Gli-ko-li-sis",
+        "teks": [
+          "Ha-sil u-ta-ma *gli-ko-li-sis* a-da-lah du-a mo-le-kul *a-sam pi-ru-vat*.",
+          "Ha-sil sam-ping-an-nya a-da-lah du-a mo-le-kul *ATP* ber-sih dan du-a mo-le-kul *NADH*."
+        ],
+        "diagram": [
+          {
+            "label": "*Gli-ko-li-sis*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "2 *A-sam Pi-ru-vat*",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "2 *ATP* + 2 *NADH*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 19
+      },
+      {
+        "judulKartu": "Pem-ben-tuk-an NADH Gli-ko-li-sis",
+        "teks": [
+          "*NADH* ter-ben-tuk da-ri *NAD+* yang me-ng-i-kat elek-tron dan pro-ton da-ri du-a *PGAL*.",
+          "Pem-ben-tuk-an *NADH* di-ka-ta-li-sis o-leh en-zim *de-hid-ro-ge-na-se*."
+        ],
+        "diagram": [
+          {
+            "label": "*NAD+* + Elek-tron + Pro-ton",
+            "emoji": "🔋"
+          },
+          {
+            "label": "En-zim *De-hid-ro-ge-na-se*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "*NADH*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 20
+      },
+      {
+        "judulKartu": "Peng-er-ti-an De-kar-bok-si-la-si Ok-si-da-tif",
+        "teks": [
+          "*De-kar-bok-si-la-si ok-si-da-tif* a-da-lah pe-le-pas-an gu-gus kar-bok-sil da-ri du-a *a-sam pi-ru-vat*.",
+          "Pro-ses i-ni ber-lang-sung di *ma-triks mi-to-kon-dri-a* da-lam su-a-sa-na a-e-rob."
+        ],
+        "diagram": [
+          {
+            "label": "2 *A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*Ma-triks Mi-to-kon-dri-a*",
+            "emoji": "📍"
+          },
+          {
+            "label": "2 *A-se-til Ko-A*",
+            "emoji": "🔑",
+            "aksen": true
+          }
+        ],
+        "id": 21
+      },
+      {
+        "judulKartu": "Ta-hap Pe-le-pas-an Kar-bok-sil",
+        "teks": [
+          "Gu-gus kar-bok-sil di-le-pas da-ri *a-sam pi-ru-vat* me-n-ja-di du-a CO2 o-leh en-zim *de-kar-bok-si-la-se*.",
+          "Ta-hap i-ni ju-ga me-ng-ha-sil-kan du-a mo-le-kul *NADH* o-leh en-zim *de-hid-ro-ge-na-se*."
+        ],
+        "diagram": [
+          {
+            "label": "2 *A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "En-zim *De-kar-bok-si-la-se*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "2 CO2 + 2 *NADH*",
+            "emoji": "💨",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 22
+      },
+      {
+        "judulKartu": "Ta-hap Pe-nam-ba-han Ko-A",
+        "teks": [
+          "Du-a mo-le-kul Ko-A di-tam-bah-kan pa-da *a-sam pi-ru-vat* yang te-lah ke-hi-lang-an kar-bok-sil.",
+          "Pro-ses i-ni mem-ben-tuk du-a mo-le-kul *a-se-til Ko-A*."
+        ],
+        "diagram": [
+          {
+            "label": "Si-sa *A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Tam-bah 2 Ko-A",
+            "emoji": "🔗"
+          },
+          {
+            "label": "2 *A-se-til Ko-A*",
+            "emoji": "🔑",
+            "aksen": true
+          }
+        ],
+        "id": 23
+      },
+      {
+        "judulKartu": "Ha-sil De-kar-bok-si-la-si Ok-si-da-tif",
+        "teks": [
+          "Ha-sil u-ta-ma ta-hap i-ni a-da-lah du-a mo-le-kul *a-se-til Ko-A*.",
+          "Ha-sil sam-ping-an-nya a-da-lah du-a CO2 dan du-a mo-le-kul *NADH*."
+        ],
+        "diagram": [
+          {
+            "label": "*De-kar-bok-si-la-si Ok-si-da-tif*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "2 *A-se-til Ko-A*",
+            "emoji": "🔑",
+            "aksen": true
+          },
+          {
+            "label": "2 CO2 + 2 *NADH*",
+            "emoji": "💨",
+            "energi": true
+          }
+        ],
+        "id": 24
+      },
+      {
+        "judulKartu": "Peng-er-ti-an Sik-lus Krebs",
+        "teks": [
+          "*Sik-lus Krebs* di-se-but ju-ga sik-lus a-sam si-trat.",
+          "Pro-ses i-ni me-ngu-na-kan sub-strat du-a mo-le-kul *a-se-til Ko-A* di *ma-triks mi-to-kon-dri-a*."
+        ],
+        "diagram": [
+          {
+            "label": "2 *A-se-til Ko-A*",
+            "emoji": "🔑"
+          },
+          {
+            "label": "*Ma-triks Mi-to-kon-dri-a*",
+            "emoji": "📍"
+          },
+          {
+            "label": "*Sik-lus Krebs*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 25
+      },
+      {
+        "judulKartu": "Pem-ben-tuk-an A-sam Si-trat",
+        "teks": [
+          "Du-a *a-se-til Ko-A* di-i-kat o-leh du-a *ok-sa-lo-a-se-tat* de-ngan pe-nam-ba-han air.",
+          "Pro-ses i-ni mem-ben-tuk du-a *a-sam si-trat* de-ngan di-ka-ta-li-sis en-zim *si-trat sin-ta-se*."
+        ],
+        "diagram": [
+          {
+            "label": "*A-se-til Ko-A* + *Ok-sa-lo-a-se-tat*",
+            "emoji": "🔗"
+          },
+          {
+            "label": "En-zim *Si-trat Sin-ta-se*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "2 *A-sam Si-trat*",
+            "emoji": "🍋",
+            "aksen": true
+          }
+        ],
+        "id": 26
+      },
+      {
+        "judulKartu": "Pem-ben-tuk-an Al-fa Ke-to-glu-ta-rat",
+        "teks": [
+          "Du-a *a-sam si-trat* me-le-pas-kan sa-tu ik-at-an kar-bon me-n-ja-di du-a *al-fa ke-to-glu-ta-rat*.",
+          "Re-ak-si i-ni me-le-pas-kan du-a CO2 dan du-a mo-le-kul *NADH*."
+        ],
+        "diagram": [
+          {
+            "label": "2 *A-sam Si-trat*",
+            "emoji": "🍋"
+          },
+          {
+            "label": "Le-pas 1 Kar-bon",
+            "emoji": "💥"
+          },
+          {
+            "label": "2 *Al-fa Ke-to-glu-ta-rat* + CO2 + *NADH*",
+            "emoji": "🧪",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 27
+      },
+      {
+        "judulKartu": "Pem-ben-tuk-an Suk-si-nat",
+        "teks": [
+          "Du-a *al-fa ke-to-glu-ta-rat* di-u-bah me-n-ja-di du-a mo-le-kul *suk-si-nat*.",
+          "Re-ak-si i-ni me-ng-ha-sil-kan du-a CO2, du-a *ATP*, dan du-a *NADH*."
+        ],
+        "diagram": [
+          {
+            "label": "2 *Al-fa Ke-to-glu-ta-rat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Pro-ses Pe-ngu-ra-i-an",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "2 *Suk-si-nat* + 2 *ATP* + 2 *NADH*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 28
+      },
+      {
+        "judulKartu": "Pem-ben-tuk-an Ma-lat dan FADH2",
+        "teks": [
+          "Du-a *suk-si-nat* di-u-bah me-n-ja-di du-a *ma-lat* set-e-lah pe-nam-ba-han air.",
+          "Pro-ses i-ni me-ng-ha-sil-kan mo-le-kul *FADH2* da-ri *FAD+* de-ngan en-zim *de-hid-ro-ge-na-se*."
+        ],
+        "diagram": [
+          {
+            "label": "2 *Suk-si-nat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Tam-bah Air",
+            "emoji": "💧"
+          },
+          {
+            "label": "2 *Ma-lat* + *FADH2*",
+            "emoji": "⚡",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 29
+      },
+      {
+        "judulKartu": "Per-u-ba-han Ma-lat Men-ja-di Ok-sa-lo-a-se-tat",
+        "teks": [
+          "Du-a *ma-lat* di-u-bah men-ja-di du-a *ok-sa-lo-a-se-tat* me-la-lu-i re-ak-si *i-so-me-ra-se*.",
+          "Pro-ses i-ni me-ngha-sil-kan du-a *NADH* yang di-ka-ta-li-sis o-leh *en-zim* *de-hid-ro-ge-na-se*."
+        ],
+        "diagram": [
+          {
+            "label": "Du-a *Ma-lat*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Re-ak-si *I-so-me-ra-se*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Du-a *Ok-sa-lo-a-se-tat*",
+            "emoji": "🔷",
+            "aksen": true
+          },
+          {
+            "label": "Ha-sil *NADH*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 30
+      },
+      {
+        "judulKartu": "Pe-nge-r-ti-an dan Ha-sil Sik-lus Krebs",
+        "teks": [
+          "*Sik-lus Krebs* a-da-lah pe-me-ca-han du-a *a-se-til Ko-A* men-ja-di em-pat *CO2* di *ma-triks mit-o-kon-dri-a*.",
+          "Tah-ap i-ni me-ngha-sil-kan du-a *ATP*, e-nam *NADH*, dan du-a *FADH2*."
+        ],
+        "diagram": [
+          {
+            "label": "Du-a *A-se-til Ko-A*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*Sik-lus Krebs*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Em-pat *CO2*",
+            "emoji": "💨"
+          },
+          {
+            "label": "Du-a *ATP* dan *NADH*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 31
+      },
+      {
+        "judulKartu": "Tah-ap Fos-fo-ri-la-si Ok-si-da-tif",
+        "teks": [
+          "*Trans-por e-lek-tron* a-da-lah tah-ap ter-a-khir da-lam *res-pi-ra-si a-e-rob*.",
+          "Tah-ap i-ni me-ngum-pul-kan to-tal se-pul-uh *NADH* dan du-a *FADH2* da-ri tah-ap se-be-lum-nya."
+        ],
+        "diagram": [
+          {
+            "label": "*Gli-ko-li-sis* (Du-a *NADH*)",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*De-kar-bok-si-la-si Ok-si-da-tif* (Du-a *NADH*)",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*Sik-lus Krebs* (E-nam *NADH*)",
+            "emoji": "🔷"
+          },
+          {
+            "label": "To-tal Se-pul-uh *NADH*",
+            "emoji": "⚡",
+            "aksen": true
+          }
+        ],
+        "id": 32
+      },
+      {
+        "judulKartu": "Lo-ka-si dan Ba-han Trans-por E-lek-tron",
+        "teks": [
+          "*Trans-por e-lek-tron* ber-lang-sung di *mem-bran kris-ta mit-o-kon-dri-a* da-lam su-a-sa-na *a-e-rob*.",
+          "Ba-han u-ta-ma-nya a-da-lah se-pul-uh *NADH* dan du-a *FADH2* un-tuk di-kon-ver-si men-ja-di *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "Se-pul-uh *NADH* dan Du-a *FADH2*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*Mem-bran Kris-ta Mit-o-kon-dri-a*",
+            "emoji": "📍",
+            "aksen": true
+          },
+          {
+            "label": "Kon-ver-si Men-ja-di *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 33
+      },
+      {
+        "judulKartu": "Kon-ver-si NADH dan FADH2 Men-ja-di ATP",
+        "teks": [
+          "Se-ti-ap sa-tu mo-le-kul *NADH* di-kon-ver-si men-ja-di ti-ga mo-le-kul *ATP* dan sa-tu *H2O*.",
+          "Se-ti-ap sa-tu mo-le-kul *FADH2* di-kon-ver-si men-ja-di du-a mo-le-kul *ATP* dan sa-tu *H2O*."
+        ],
+        "diagram": [
+          {
+            "label": "Sa-tu *NADH*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Ti-ga *ATP* dan Sa-tu *H2O*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Sa-tu *FADH2*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Du-a *ATP* dan Sa-tu *H2O*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 34
+      },
+      {
+        "judulKartu": "Pe-le-pa-san I-ka-tan Hid-ro-gen",
+        "teks": [
+          "Kon-ver-si e-ner-gi di-a-wal-i da-ri pe-me-ca-han i-ka-tan hid-ro-gen *NADH* dan *FADH2*.",
+          "Pe-le-pa-san hid-ro-gen me-man-car-kan e-ner-gi un-tuk mem-ben-tuk *ATP* me-la-lu-i *ke-mi-os-mo-sis*."
+        ],
+        "diagram": [
+          {
+            "label": "Pe-me-ca-han *NADH* dan *FADH2*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Pe-le-pa-san Hid-ro-gen",
+            "emoji": "⚡"
+          },
+          {
+            "label": "*Ke-mi-os-mo-sis*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Pem-ben-tu-kan *ATP*",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 35
+      },
+      {
+        "judulKartu": "Pro-ses Ke-mi-os-mo-sis",
+        "teks": [
+          "Ion hid-ro-gen di-pom-pa ke ru-ang an-tar-mem-bran se-hing-ga kon-sen-tra-si-nya me-ning-kat.",
+          "Ion hid-ro-gen ber-pin-dah me-nu-ru-ni gra-di-en kon-sen-tra-si kem-ba-li ke *ma-triks*."
+        ],
+        "diagram": [
+          {
+            "label": "Pom-pa Ion Hid-ro-gen",
+            "emoji": "⬆️"
+          },
+          {
+            "label": "Ru-ang An-tar-mem-bran",
+            "emoji": "📍"
+          },
+          {
+            "label": "Gra-di-en Kon-sen-tra-si Ting-gi",
+            "emoji": "⚠️",
+            "aksen": true
+          },
+          {
+            "label": "Kem-ba-li ke *Ma-triks*",
+            "emoji": "⬇️"
+          }
+        ],
+        "id": 36
+      },
+      {
+        "judulKartu": "Pe-ran ATP Sin-ta-se",
+        "teks": [
+          "Per-pin-da-han ion hid-ro-gen kem-ba-li ke *ma-triks* ha-nya bi-sa me-la-lu-i *ATP sin-ta-se*.",
+          "A-li-ran ion hid-ro-gen mem-be-ri e-ner-gi pa-da *ADP* dan fos-fat un-tuk mem-ben-tuk *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "A-li-ran Ion Hid-ro-gen",
+            "emoji": "🌊"
+          },
+          {
+            "label": "*ATP Sin-ta-se*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "*Fos-fo-ri-la-si* *ADP*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Ha-sil *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 37
+      },
+      {
+        "judulKartu": "Do-nor dan A-ksep-tor E-lek-tron Ter-a-khir",
+        "teks": [
+          "Se-ba-nyak du-a pu-luh em-pat ion hid-ro-gen men-do-nor-kan e-lek-tron-nya ke ok-si-gen.",
+          "Ok-si-gen ber-per-an se-ba-ga-i a-ksep-tor e-lek-tron ter-a-khir un-tuk mem-ben-tuk *H2O*."
+        ],
+        "diagram": [
+          {
+            "label": "Du-a Pu-luh Em-pat Ion Hid-ro-gen",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Do-nor E-lek-tron",
+            "emoji": "⚡"
+          },
+          {
+            "label": "*Ok-si-gen* (A-ksep-tor Ter-a-khir)",
+            "emoji": "🎯",
+            "aksen": true
+          },
+          {
+            "label": "Mem-ben-tuk Du-a Be-las *H2O*",
+            "emoji": "💧"
+          }
+        ],
+        "id": 38
+      },
+      {
+        "judulKartu": "Pe-nge-r-ti-an dan Ha-sil Trans-por E-lek-tron",
+        "teks": [
+          "*Trans-por e-lek-tron* a-da-lah kon-ver-si e-ner-gi da-ri *NADH* dan *FADH2* di *mem-bran kris-ta*.",
+          "Pro-ses i-ni me-ngha-sil-kan ti-ga pu-luh em-pat *ATP* dan du-a be-las *H2O* da-lam su-a-sa-na *a-e-rob*."
+        ],
+        "diagram": [
+          {
+            "label": "Se-pul-uh *NADH* + Du-a *FADH2*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*Trans-por E-lek-tron*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Ti-ga Pu-luh Em-pat *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Du-a Be-las *H2O*",
+            "emoji": "💧"
+          }
+        ],
+        "id": 39
+      },
+      {
+        "judulKartu": "To-tal Ha-sil E-ner-gi Res-pi-ra-si A-e-rob",
+        "teks": [
+          "Se-lu-ruh tah-ap *res-pi-ra-si a-e-rob* me-ngha-sil-kan to-tal ti-ga pu-luh de-la-pan *ATP*.",
+          "Ha-sil i-ni be-ra-sal da-ri *gli-ko-li-sis*, *de-kar-bok-si-la-si ok-si-da-tif*, *sik-lus Krebs*, dan *trans-por e-lek-tron*."
+        ],
+        "diagram": [
+          {
+            "label": "*Gli-ko-li-sis* (De-la-pan *ATP*)",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*De-kar-bok-si-la-si Ok-si-da-tif* (E-nam *ATP*)",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*Sik-lus Krebs* (Du-a Pu-luh Em-pat *ATP*)",
+            "emoji": "🔷"
+          },
+          {
+            "label": "To-tal Ti-ga Pu-luh De-la-pan *ATP*",
+            "emoji": "🏆",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 40
+      },
+      {
+        "judulKartu": "Kon-sep Da-sar Fer-men-ta-si",
+        "teks": [
+          "*Fer-men-ta-si* a-da-lah pem-be-ca-han mo-le-kul or-ga-nik da-lam kon-di-si *a-na-e-rob*.",
+          "Du-a je-nis *fer-men-ta-si* u-ta-ma a-da-lah *fer-men-ta-si al-ko-hol* dan *fer-men-ta-si a-sam lak-tat*."
+        ],
+        "diagram": [
+          {
+            "label": "Sub-strat *Gluk-o-sa*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Kon-di-si *A-na-e-rob*",
+            "emoji": "🚫"
+          },
+          {
+            "label": "*Fer-men-ta-si Al-ko-hol*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*Fer-men-ta-si A-sam Lak-tat*",
+            "emoji": "🥛"
+          }
+        ],
+        "id": 41
+      },
+      {
+        "judulKartu": "Tah-ap Per-ta-ma Fer-men-ta-si",
+        "teks": [
+          "Tah-ap per-ta-ma pa-da se-mu-a *fer-men-ta-si* a-da-lah pro-ses *gli-ko-li-sis*.",
+          "*Gli-ko-li-sis* me-ngu-bah *gluk-o-sa* men-ja-di du-a *a-sam pi-ru-vat*, du-a *ATP*, dan du-a *NADH*."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul *Gluk-o-sa*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Pro-ses *Gli-ko-li-sis*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Du-a *A-sam Pi-ru-vat*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Du-a *ATP* dan Du-a *NADH*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 42
+      },
+      {
+        "judulKartu": "De-kar-bok-si-la-si Non-ok-si-da-tif",
+        "teks": [
+          "Tah-ap du-a *fer-men-ta-si al-ko-hol* me-ru-pa-kan re-ak-si *de-kar-bok-si-la-si non-ok-si-da-tif*.",
+          "Du-a *a-sam pi-ru-vat* di-re-duk-si o-leh du-a *NADH* men-ja-di du-a *e-ta-nol* dan du-a *CO2*."
+        ],
+        "diagram": [
+          {
+            "label": "Du-a *A-sam Pi-ru-vat*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Re-duk-si o-leh *NADH*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Du-a *E-ta-nol*",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "Du-a *CO2*",
+            "emoji": "💨"
+          }
+        ],
+        "id": 43
+      },
+      {
+        "judulKartu": "Pe-nge-r-ti-an Fer-men-ta-si Al-ko-hol",
+        "teks": [
+          "*Fer-men-ta-si al-ko-hol* a-da-lah pem-be-ca-han *gluk-o-sa* se-ca-ra *a-na-e-rob*.",
+          "Ha-sil a-khir-nya a-da-lah du-a *e-ta-nol*, du-a *ATP*, dan du-a *CO2*."
+        ],
+        "diagram": [
+          {
+            "label": "*Gluk-o-sa*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Pro-ses *A-na-e-rob*",
+            "emoji": "🚫"
+          },
+          {
+            "label": "Du-a *E-ta-nol*",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "Du-a *ATP* dan Du-a *CO2*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 44
+      },
+      {
+        "judulKartu": "Tah-ap Re-duk-si Fer-men-ta-si A-sam Lak-tat",
+        "teks": [
+          "Pa-da *fer-men-ta-si a-sam lak-tat*, du-a *a-sam pi-ru-vat* di-re-duk-si lang-sung o-leh du-a *NADH*.",
+          "Re-ak-si i-ni me-ngha-sil-kan du-a *a-sam lak-tat* tan-pa me-le-pas-kan *CO2*."
+        ],
+        "diagram": [
+          {
+            "label": "Du-a *A-sam Pi-ru-vat*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Re-duk-si *NADH*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Tan-pa Pe-le-pa-san *CO2*",
+            "emoji": "🚫"
+          },
+          {
+            "label": "Du-a *A-sam Lak-tat*",
+            "emoji": "🥛",
+            "aksen": true
+          }
+        ],
+        "id": 45
+      },
+      {
+        "judulKartu": "Pe-nge-r-ti-an dan Tem-pat Fer-men-ta-si A-sam Lak-tat",
+        "teks": [
+          "*Fer-men-ta-si a-sam lak-tat* me-ngha-sil-kan du-a *a-sam lak-tat* dan du-a *ATP* se-ca-ra *a-na-e-rob*.",
+          "Pro-ses i-ni ter-ja-di pa-da sel-sel o-tot ke-ti-ka ke-ter-se-di-a-an ok-si-gen se-di-kit."
+        ],
+        "diagram": [
+          {
+            "label": "*Gluk-o-sa* di Sel O-tot",
+            "emoji": "🥩"
+          },
+          {
+            "label": "Kon-di-si Se-di-kit Ok-si-gen",
+            "emoji": "⚠️"
+          },
+          {
+            "label": "*Fer-men-ta-si A-sam Lak-tat*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Du-a *A-sam Lak-tat* + Du-a *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 46
+      },
+      {
+        "judulKartu": "Stru-k-tur U-ta-ma Klor-o-plas",
+        "teks": [
+          "Stru-k-tur *klor-o-plas* ter-di-ri a-tas du-a ba-gi-an u-ta-ma, ya-i-tu *gra-na* dan *stro-ma*.",
+          "*Gra-na* ter-bung-kus *mem-bran ti-la-ko-id* dan me-ngan-dung *klor-o-fil*."
+        ],
+        "diagram": [
+          {
+            "label": "*Klor-o-plas*",
+            "emoji": "🌿"
+          },
+          {
+            "label": "*Gra-na* (*Mem-bran Ti-la-ko-id*)",
+            "emoji": "🟢",
+            "aksen": true
+          },
+          {
+            "label": "*Stro-ma*",
+            "emoji": "💧"
+          },
+          {
+            "label": "Pig-men *Klor-o-fil*",
+            "emoji": "🎨"
+          }
+        ],
+        "id": 47
+      },
+      {
+        "judulKartu": "Ma-cam Pig-men da-lam Klor-o-plas",
+        "teks": [
+          "*Klor-o-fil a* me-nya-rap ca-ha-ya me-rah, bi-ru, dan u-ngu.",
+          "*Klor-o-fil b* me-nya-rap ca-ha-ya bi-ru dan o-ra-nye, se-dang-kan *ka-ro-te-no-id* me-nya-rap bi-ru-hi-ja-u."
+        ],
+        "diagram": [
+          {
+            "label": "*Klor-o-fil a*",
+            "emoji": "🔴"
+          },
+          {
+            "label": "*Klor-o-fil b*",
+            "emoji": "🟠"
+          },
+          {
+            "label": "*Ka-ro-te-no-id*",
+            "emoji": "🟡"
+          },
+          {
+            "label": "Pe-nya-ra-pan Ca-ha-ya",
+            "emoji": "☀️",
+            "aksen": true
+          }
+        ],
+        "id": 48
+      },
+      {
+        "judulKartu": "Kar-ak-te-ris-tik Fo-to-sis-tem",
+        "teks": [
+          "Pa-da *mem-bran ti-la-ko-id* ter-da-pat *fo-to-sis-tem I* dan *fo-to-sis-tem II*.",
+          "*Fo-to-sis-tem I* me-nya-rap ca-ha-ya pa-n-jang ge-lom-bang tu-juh ra-tus na-no-me-ter, se-dang-kan *fo-to-sis-tem II* e-nam ra-tus de-la-pan pu-luh na-no-me-ter."
+        ],
+        "diagram": [
+          {
+            "label": "*Mem-bran Ti-la-ko-id*",
+            "emoji": "📍"
+          },
+          {
+            "label": "*Fo-to-sis-tem I* (P-tu-juh-ra-tus)",
+            "emoji": "☀️",
+            "aksen": true
+          },
+          {
+            "label": "*Fo-to-sis-tem II* (P-e-nam-ra-tus-de-la-pan-pu-luh)",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Pu-sat Re-ak-si Ca-ha-ya",
+            "emoji": "⚡"
+          }
+        ],
+        "id": 49
+      },
+      {
+        "judulKartu": "Re-ak-si Te-rang dan Re-ak-si Ge-lap",
+        "teks": [
+          "*Re-ak-si te-rang* ter-ja-di di *gra-na* dan mem-bu-tuh-kan e-ner-gi ca-ha-ya.",
+          "*Re-ak-si ge-lap* ter-ja-di di *stro-ma* dan ti-dak mem-bu-tuh-kan ca-ha-ya lang-sung."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya Ma-ta-ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Re-ak-si Te-rang* di *Gra-na*",
+            "emoji": "🟢",
+            "aksen": true
+          },
+          {
+            "label": "*Re-ak-si Ge-lap* di *Stro-ma*",
+            "emoji": "💧"
+          },
+          {
+            "label": "Pro-duk *Fo-to-sin-te-sis*",
+            "emoji": "🍃"
+          }
+        ],
+        "id": 50
+      },
+      {
+        "judulKartu": "Ba-han dan E-ner-gi Re-ak-si Te-rang",
+        "teks": [
+          "Ba-han u-ta-ma yang di-gu-na-kan da-lam *re-ak-si te-rang* a-da-lah a-ir.",
+          "E-ner-gi yang di-gu-na-kan da-lam pro-ses i-ni be-ru-pa ca-ha-ya a-tau *fo-ton*."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul A-ir (*H2O*)",
+            "emoji": "💧"
+          },
+          {
+            "label": "E-ner-gi *Fo-ton*",
+            "emoji": "☀️",
+            "aksen": true
+          },
+          {
+            "label": "Pro-ses *Re-ak-si Te-rang*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Ha-sil *Ok-si-gen* (*O2*)",
+            "emoji": "💨",
+            "energi": true
+          }
+        ],
+        "id": 51
+      },
+      {
+        "judulKartu": "Tah-ap Ak-ti-va-si Klor-o-fil",
+        "teks": [
+          "Tah-ap a-wal *re-ak-si te-rang* di-mu-la-i ke-ti-ka *klor-o-fil* *fo-to-sis-tem II* me-ne-ri-ma *fo-ton*.",
+          "E-ner-gi *fo-ton* me-nye-bab-kan e-lek-tron ter-ek-si-ta-si dan ber-pin-dah me-la-lu-i a-ksep-tor e-lek-tron."
+        ],
+        "diagram": [
+          {
+            "label": "*Fo-to-sis-tem II*",
+            "emoji": "🟢"
+          },
+          {
+            "label": "Pe-ne-ri-ma-an *Fo-ton*",
+            "emoji": "☀️"
+          },
+          {
+            "label": "E-lek-tron Ter-ek-si-ta-si",
+            "emoji": "⚡",
+            "aksen": true
+          },
+          {
+            "label": "A-ksep-tor E-lek-tron",
+            "emoji": "🔄"
+          }
+        ],
+        "id": 52
+      },
+      {
+        "judulKartu": "Tah-ap Fo-to-li-sis A-ir",
+        "teks": [
+          "*Fo-to-li-sis* a-da-lah pe-me-ca-han mo-le-kul *H2O* meng-gu-na-kan e-ner-gi *fo-ton*.",
+          "Pro-ses i-ni me-ngha-sil-kan e-lek-tron un-tuk meng-gan-ti-kan e-lek-tron *fo-to-sis-tem II* ser-ta me-le-pas-kan *O2*."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul *H2O*",
+            "emoji": "💧"
+          },
+          {
+            "label": "*Fo-ton* Mem-be-lah *H2O*",
+            "emoji": "☀️"
+          },
+          {
+            "label": "E-lek-tron Peng-gan-ti",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Gas *Ok-si-gen* (*O2*)",
+            "emoji": "💨",
+            "aksen": true
+          }
+        ],
+        "id": 53
+      },
+      {
+        "judulKartu": "Tah-ap Fo-to-fos-fo-ri-la-si Non-sik-lik",
+        "teks": [
+          "E-lek-tron da-ri *fo-to-sis-tem II* ber-pin-dah ke *fo-to-sis-tem I* me-la-lu-i *plas-to-ku-i-non*, *si-to-krom*, dan *plas-to-si-a-nin*.",
+          "Sa-at me-la-lu-i *si-to-krom*, e-ner-gi e-lek-tron di-gu-na-kan un-tuk mem-ben-tuk *ATP* me-la-lu-i *ke-mi-os-mo-sis*."
+        ],
+        "diagram": [
+          {
+            "label": "E-lek-tron *Fo-to-sis-tem II*",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Ran-tai *Trans-por E-lek-tron*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Pom-pa Ion Hid-ro-gen",
+            "emoji": "⬆️"
+          },
+          {
+            "label": "Pem-ben-tu-kan *ATP*",
+            "emoji": "🔋",
+            "energi": true,
+            "aksen": true
+          }
+        ],
+        "id": 54
+      },
+      {
+        "judulKartu": "Pem-ben-tu-kan NADPH",
+        "teks": [
+          "Pen-se-ra-pan *fo-ton* o-leh *fo-to-sis-tem I* me-nye-bab-kan e-lek-tron ter-ek-si-ta-si ke *fe-re-dok-sin*.",
+          "E-lek-tron di-trans-fer ke *NADP+* dan ion hid-ro-gen un-tuk mem-ben-tuk *NADPH* o-leh *en-zim* *NADP+ re-duk-ta-se*."
+        ],
+        "diagram": [
+          {
+            "label": "*Fo-to-sis-tem I*",
+            "emoji": "🟢"
+          },
+          {
+            "label": "Ter-ek-si-ta-si ke *Fe-re-dok-sin*",
+            "emoji": "⚡"
+          },
+          {
+            "label": "En-zim *NADP+ Re-duk-ta-se*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Ha-sil *NADPH*",
+            "emoji": "🧪",
+            "energi": true
+          }
+        ],
+        "id": 55
+      },
+      {
+        "judulKartu": "Jalur Fotofosforilasi Siklik",
+        "teks": [
+          "E-lek-tron ber-ge-rak da-ri *fo-to-sis-tem I* ke *si-to-krom* me-la-lu-i *fe-re-dok-sin*.",
+          "E-lek-tron ter-se-but ti-dak me-nu-ju *NADP+* me-lain-kan kem-ba-li ke *fo-to-sis-tem I*.",
+          "Ja-lur i-ni ti-dak me-ngha-sil-kan *NADPH*."
+        ],
+        "diagram": [
+          {
+            "label": "*Fo-to-sis-tem I*",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Fe-re-dok-sin*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "*Si-to-krom*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Kem-ba-li ke *FS I*",
+            "emoji": "↩️"
+          }
+        ],
+        "id": 56
+      },
+      {
+        "judulKartu": "Pembentukan ATP Siklik",
+        "teks": [
+          "E-ner-gi e-lek-tron di-gu-na-kan saat me-la-lu-i *si-to-krom*.",
+          "Pro-ses *ke-mi-os-mo-sis* mem-ben-tuk *ATP* da-ri e-ner-gi ter-se-but.",
+          "E-lek-tron di-kem-ba-li-kan ke *fo-to-sis-tem* o-leh *plas-to-si-a-nin*."
+        ],
+        "diagram": [
+          {
+            "label": "E-lek-tron me-la-lu-i *si-to-krom*",
+            "emoji": "⚡"
+          },
+          {
+            "label": "*Ke-mi-os-mo-sis*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Mem-ben-tuk *ATP*",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 57
+      },
+      {
+        "judulKartu": "Hasil Fotofosforilasi",
+        "teks": [
+          "Fo-to-fos-fo-ri-la-si *sik-lik* ha-nya me-ngha-sil-kan *ATP*.",
+          "Fo-to-fos-fo-ri-la-si *non-sik-lik* me-ngha-sil-kan *ATP* dan *NADPH*.",
+          "Gas *ok-si-gen* di-ha-sil-kan sa-at pro-ses *fo-to-li-sis* air."
+        ],
+        "diagram": [
+          {
+            "label": "Jal-ur *sik-lik*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Ha-sil-kan *ATP*",
+            "emoji": "🔋",
+            "energi": true
+          },
+          {
+            "label": "Jal-ur *non-sik-lik*",
+            "emoji": "➡️"
+          },
+          {
+            "label": "Ha-sil-kan *ATP* dan *NADPH*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 58
+      },
+      {
+        "judulKartu": "Transformasi Energi Reaksi Terang",
+        "teks": [
+          "Re-ak-si te-rang me-ngu-bah e-ner-gi *fo-ton* me-n-ja-di e-ner-gi ki-mi-a.",
+          "E-ner-gi ki-mi-a yang di-ha-sil-kan ber-u-pa *ATP* dan *NADPH*.",
+          "Pro-duk i-ni di-pa-kai se-ba-gai sum-ber e-ner-gi re-ak-si ge-lap."
+        ],
+        "diagram": [
+          {
+            "label": "E-ner-gi *fo-ton*",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Re-ak-si Te-rang",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Mem-ben-tuk *ATP* dan *NADPH*",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 59
+      },
+      {
+        "judulKartu": "Pengertian Reaksi Terang",
+        "teks": [
+          "Re-ak-si te-rang a-da-lah pro-ses u-bah e-ner-gi ca-ha-ya me-n-ja-di e-ner-gi ki-mi-a.",
+          "Pro-ses i-ni ter-ja-di me-la-lu-i ja-lur *non-sik-lik* dan *sik-lik*.",
+          "Tu-ju-an u-ta-ma-nya me-nye-di-a-kan e-ner-gi un-tuk re-ak-si ge-lap."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya Ma-ta-ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Fo-to-fos-fo-ri-la-si*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Re-ak-si Ge-lap",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 60
+      },
+      {
+        "judulKartu": "Pengertian Reaksi Gelap",
+        "teks": [
+          "Re-ak-si ge-lap a-da-lah pro-ses sin-te-sis *glu-ko-sa* de-ngan e-ner-gi ki-mi-a.",
+          "Pro-ses i-ni ber-lang-sung di da-lam *stro-ma*.",
+          "Re-ak-si i-ni ti-dak mem-bu-tuh-kan ca-ha-ya ma-ta-ha-ri se-ca-ra lang-sung."
+        ],
+        "diagram": [
+          {
+            "label": "E-ner-gi da-ri Re-ak-si Te-rang",
+            "emoji": "🔋",
+            "energi": true
+          },
+          {
+            "label": "Pro-ses di *Stro-ma*",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "Sin-te-sis *Glu-ko-sa*",
+            "emoji": "🍬"
+          }
+        ],
+        "id": 61
+      },
+      {
+        "judulKartu": "Bahan Utama Reaksi Gelap",
+        "teks": [
+          "Ba-han u-ta-ma mem-ben-tuk sa-tu *glu-ko-sa* a-da-lah e-nam *CO2*.",
+          "Sen-ya-wa fik-sa-tor *CO2* a-da-lah *ri-bu-lo-se bi-fos-fat* a-tau *RuBP*.",
+          "Pro-ses i-ni mem-bu-tuh-kan de-la-pan be-las *ATP* dan du-a be-las *NADPH*."
+        ],
+        "diagram": [
+          {
+            "label": "6 *CO2* + 6 *RuBP*",
+            "emoji": "📥"
+          },
+          {
+            "label": "18 *ATP* + 12 *NADPH*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "1 Mo-le-kul *Glu-ko-sa*",
+            "emoji": "🍬"
+          }
+        ],
+        "id": 62
+      },
+      {
+        "judulKartu": "Tahapan Reaksi Gelap",
+        "teks": [
+          "Re-ak-si ge-lap me-mi-li-ki em-pat ta-hap u-ta-ma di *stro-ma*.",
+          "Ta-hap-an ter-se-but a-da-lah fik-sa-si, re-duk-si, sin-te-sis, dan re-ge-ne-ra-si.",
+          "Se-mu-a ta-hap ber-ja-lan da-lam satu ran-gka-i-an *si-klus Calvin*."
+        ],
+        "diagram": [
+          {
+            "label": "Fik-sa-si *Kar-bon*",
+            "emoji": "1️⃣"
+          },
+          {
+            "label": "Re-duk-si",
+            "emoji": "2️⃣"
+          },
+          {
+            "label": "Sin-te-sis",
+            "emoji": "3️⃣"
+          },
+          {
+            "label": "Re-ge-ne-ra-si",
+            "emoji": "4️⃣",
+            "aksen": true
+          }
+        ],
+        "id": 63
+      },
+      {
+        "judulKartu": "Tahap Fiksasi Karbon",
+        "teks": [
+          "En-zim *ru-bis-co* meng-ka-ta-li-sis peng-i-kat-an e-nam *CO2* pa-da e-nam *RuBP*.",
+          "Pro-ses i-ni mem-ben-tuk mo-le-kul ber-kar-bon ti-ga yang ti-dak sta-bil.",
+          "Sen-ya-wa yang ter-ben-tuk a-da-lah du-a be-las *PGA*."
+        ],
+        "diagram": [
+          {
+            "label": "6 *CO2* + 6 *RuBP*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Di-ka-ta-li-sis *Ru-bis-co*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "12 *PGA*",
+            "emoji": "📦"
+          }
+        ],
+        "id": 64
+      },
+      {
+        "judulKartu": "Tahap Reduksi Reaksi Gelap",
+        "teks": [
+          "Du-a be-las mo-le-kul *PGA* me-nga-la-mi pro-ses re-duk-si.",
+          "Pro-ses i-ni meng-gu-na-kan *NADPH* dan *ATP* da-ri re-ak-si te-rang.",
+          "Ha-sil re-duk-si a-da-lah du-a be-las mo-le-kul *PGAL*."
+        ],
+        "diagram": [
+          {
+            "label": "12 *PGA*",
+            "emoji": "📦"
+          },
+          {
+            "label": "+ *ATP* dan *NADPH*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "12 *PGAL*",
+            "emoji": "✨"
+          }
+        ],
+        "id": 65
+      },
+      {
+        "judulKartu": "Tahap Sintesis Glukosa",
+        "teks": [
+          "Du-a be-las mo-le-kul *PGAL* ter-pe-cah me-n-ja-di du-a ba-gi-an.",
+          "Du-a mo-le-kul *PGAL* ber-i-kat-an mem-ben-tuk sa-tu mo-le-kul *glu-ko-sa*.",
+          "Ta-hap i-ni di-se-but sin-te-sis ka-re-na mem-ben-tuk *glu-ko-sa*."
+        ],
+        "diagram": [
+          {
+            "label": "12 *PGAL*",
+            "emoji": "📦"
+          },
+          {
+            "label": "Pecah me-n-ja-di 2 *PGAL*",
+            "emoji": "🔀"
+          },
+          {
+            "label": "Sa-tu *Glu-ko-sa*",
+            "emoji": "🍬",
+            "aksen": true
+          }
+        ],
+        "id": 66
+      },
+      {
+        "judulKartu": "Tahap Regenerasi RuBP",
+        "teks": [
+          "Se-pu-luh mo-le-kul *PGAL* si-sa di-u-bah kem-ba-li me-n-ja-di e-nam *RuBP*.",
+          "Pro-ses pe-ru-bah-an i-ni mem-bu-tuh-kan e-ner-gi *ATP*.",
+          "Ta-hap i-ni me-mas-ti-kan *si-klus Calvin* da-pat ber-u-lang kem-ba-li."
+        ],
+        "diagram": [
+          {
+            "label": "10 *PGAL*",
+            "emoji": "📦"
+          },
+          {
+            "label": "+ *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "6 *RuBP*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 67
+      },
+      {
+        "judulKartu": "Bukti Produksi Oksigen Fotosintesis",
+        "teks": [
+          "Pro-ses fotos-in-te-sis me-ngha-sil-kan ge-lem-bung u-da-ra ber-u-pa *ok-si-gen*.",
+          "Gas *ok-si-gen* ter-se-but da-pat me-nya-la-kan ba-ra a-pi pa-da li-di.",
+          "Per-co-ba-an i-ni mem-buk-ti-kan *O2* di-ha-sil-kan sa-at fotos-in-te-sis."
+        ],
+        "diagram": [
+          {
+            "label": "Pro-ses Fotos-in-te-sis",
+            "emoji": "🌿"
+          },
+          {
+            "label": "Ge-lem-bung Gas *O2*",
+            "emoji": "🫧"
+          },
+          {
+            "label": "Ba-ra A-pi Me-nya-la",
+            "emoji": "🔥",
+            "aksen": true
+          }
+        ],
+        "id": 68
+      },
+      {
+        "judulKartu": "Pengaruh Intensitas Cahaya",
+        "teks": [
+          "In-ten-si-tas ca-ha-ya mem-per-ce-pat la-ju pro-ses fotos-in-te-sis.",
+          "Di tem-pat ge-lap ti-dak a-da *fo-ton* se-hing-ga ti-dak pro-duk-si *O2*.",
+          "Di tem-pat te-rik ca-ha-ya me-ngha-sil-kan ba-nyak ge-lem-bung *O2*."
+        ],
+        "diagram": [
+          {
+            "label": "Tem-pat Ge-lap",
+            "emoji": "🌑"
+          },
+          {
+            "label": "Ti-dak A-da *O2*",
+            "emoji": "❌"
+          },
+          {
+            "label": "Tem-pat Te-rik Ca-ha-ya",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Ba-nyak *O2*",
+            "emoji": "🫧",
+            "aksen": true
+          }
+        ],
+        "id": 69
+      },
+      {
+        "judulKartu": "Pengaruh Konsentrasi Karbon Dioksida",
+        "teks": [
+          "Pe-nam-bah-an *NaHCO3* me-ning-kat-kan ka-dar *CO2* da-lam air.",
+          "Pe-ning-kat-an *CO2* me-ning-kat-kan ak-ti-vi-tas fotos-in-te-sis.",
+          "Jum-lah ge-lem-bung *O2* yang ter-ben-tuk me-n-ja-di le-bih ba-nyak."
+        ],
+        "diagram": [
+          {
+            "label": "Tam-bah *NaHCO3*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Ka-dar *CO2* Na-ik",
+            "emoji": "📈"
+          },
+          {
+            "label": "Ge-lem-bung *O2* Me-ning-kat",
+            "emoji": "🫧",
+            "aksen": true
+          }
+        ],
+        "id": 70
+      },
+      {
+        "judulKartu": "Pengaruh Suhu pada Fotosintesis",
+        "teks": [
+          "Su-hu yang ter-la-lu ren-dah a-tau ting-gi meng-gang-gu fotos-in-te-sis.",
+          "Su-hu ek-strem mem-bu-at pro-ses ti-dak pro-duk-si *O2*.",
+          "Fotos-in-te-sis mem-bu-tuh-kan su-hu op-ti-mal un-tuk ber-lang-sung."
+        ],
+        "diagram": [
+          {
+            "label": "Su-hu Ren-dah / Ting-gi",
+            "emoji": "🌡️"
+          },
+          {
+            "label": "Pro-ses Ter-gang-gu",
+            "emoji": "⚠️"
+          },
+          {
+            "label": "Ti-dak A-da *O2*",
+            "emoji": "❌"
+          }
+        ],
+        "id": 71
+      },
+      {
+        "judulKartu": "Uji Amilum Hasil Fotosintesis",
+        "teks": [
+          "Da-un yang ter-ke-na ca-ha-ya me-la-ku-kan pro-ses fotos-in-te-sis.",
+          "U-ji *i-o-din* me-ngu-bah war-na da-un me-n-ja-di bi-ru ke-hi-ta-man.",
+          "Hal i-ni mem-buk-ti-kan fotos-in-te-sis me-ngha-sil-kan *a-mi-lum*."
+        ],
+        "diagram": [
+          {
+            "label": "Da-un Ter-ke-na Ca-ha-ya",
+            "emoji": "🍃"
+          },
+          {
+            "label": "Di-te-tes-i *I-o-din*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Bi-ru Ke-hi-ta-man (*A-mi-lum*)",
+            "emoji": "🟣",
+            "aksen": true
+          }
+        ],
+        "id": 72
+      },
+      {
+        "judulKartu": "Percobaan Engelmann",
+        "teks": [
+          "Per-co-ba-an *En-gel-mann* meng-gu-na-kan *Spi-ro-gy-ra* dan bak-te-ri *a-e-rob*.",
+          "Bak-te-ri men-de-kat ke *klo-ro-plas* yang ter-ke-na ca-ha-ya.",
+          "Per-co-ba-an i-ni mem-buk-ti-kan fotos-in-te-sis bu-tuh *klo-ro-fil* dan ca-ha-ya."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya ke *Klo-ro-plas*",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Ha-sil-kan *O2*",
+            "emoji": "🫧"
+          },
+          {
+            "label": "Bak-te-ri *A-e-rob* Men-de-kat",
+            "emoji": "🧫",
+            "aksen": true
+          }
+        ],
+        "id": 73
+      },
+      {
+        "judulKartu": "Penyebab Fotorespirasi",
+        "teks": [
+          "Cu-a-ca pa-nas me-nye-bab-kan *sto-ma-ta* tum-bu-han *C3* ter-tu-tup.",
+          "Ka-dar *CO2* di da-lam da-un me-nu-run dan *O2* me-ning-kat.",
+          "En-zim *ru-bis-co* ma-lah meng-i-kat *O2* se-ba-gai gan-ti *CO2*."
+        ],
+        "diagram": [
+          {
+            "label": "*Sto-ma-ta* Ter-tu-tup",
+            "emoji": "🚪"
+          },
+          {
+            "label": "*CO2* Tu-run, *O2* Na-ik",
+            "emoji": "📊"
+          },
+          {
+            "label": "*Ru-bis-co* I-kat *O2*",
+            "emoji": "⚠️",
+            "aksen": true
+          }
+        ],
+        "id": 74
+      },
+      {
+        "judulKartu": "Proses Fotorespirasi",
+        "teks": [
+          "Sen-ya-wa pro-duk ter-u-rai me-n-ja-di mo-le-kul ber-kar-bon du-a.",
+          "Sen-ya-wa i-ni di-u-bah me-n-ja-di *CO2* o-leh *pe-rok-si-som* dan *mi-to-kon-dri-a*.",
+          "Pro-ses *fo-to-res-pi-ra-si* i-ni mem-bu-tuh-kan *ok-si-gen*."
+        ],
+        "diagram": [
+          {
+            "label": "Sen-ya-wa 2 *Kar-bon*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Ke *Pe-rok-si-som* & *Mi-to-kon-dri-a*",
+            "emoji": "🏭"
+          },
+          {
+            "label": "Di-u-bah me-n-ja-di *CO2*",
+            "emoji": "💨"
+          }
+        ],
+        "id": 75
+      },
+      {
+        "judulKartu": "Dampak Kerugian Fotorespirasi",
+        "teks": [
+          "Pro-ses *fo-to-res-pi-ra-si* ti-dak me-ngha-sil-kan e-ner-gi *ATP*.",
+          "Pro-ses i-ni ju-ga ti-dak me-ngha-sil-kan *glu-ko-sa* se-per-ti fotos-in-te-sis.",
+          "Per-is-ti-wa i-ni me-ru-gi-kan ka-re-na me-nu-run-kan ha-sil fotos-in-te-sis."
+        ],
+        "diagram": [
+          {
+            "label": "*Fo-to-res-pi-ra-si*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Ti-dak A-da *ATP* / *Glu-ko-sa*",
+            "emoji": "❌"
+          },
+          {
+            "label": "Ha-sil Fotos-in-te-sis Tu-run",
+            "emoji": "📉",
+            "aksen": true
+          }
+        ],
+        "id": 76
+      },
+      {
+        "judulKartu": "Karakteristik Tumbuhan C3",
+        "teks": [
+          "Tum-bu-han *C3* meng-i-kat *CO2* de-ngan *RuBP* di-ban-tu en-zim *ru-bis-co*.",
+          "Mo-le-kul per-ta-ma yang ter-ben-tuk a-da-lah *PGA* ber-kar-bon ti-ga.",
+          "Con-toh tum-bu-han *C3* a-da-lah pa-di, gan-dum, dan ke-de-lai."
+        ],
+        "diagram": [
+          {
+            "label": "Fik-sa-si *CO2* + *RuBP*",
+            "emoji": "📥"
+          },
+          {
+            "label": "Mem-ben-tuk *PGA* (3 *Kar-bon*)",
+            "emoji": "🌱",
+            "aksen": true
+          },
+          {
+            "label": "Pa-di, Gan-dum, Ke-de-lai",
+            "emoji": "🌾"
+          }
+        ],
+        "id": 77
+      },
+      {
+        "judulKartu": "Karakteristik Tumbuhan C4",
+        "teks": [
+          "Fik-sa-si *CO2* per-ta-ma di *me-so-fil* mem-ben-tuk *asam ok-sa-lo-a-se-tat*.",
+          "Fik-sa-si ke-du-a di *sel-u-dang ber-kas peng-ang-kut* mem-ben-tuk *PGA*.",
+          "Con-toh tum-bu-han *C4* a-da-lah ta-na-man te-bu dan ja-gung."
+        ],
+        "diagram": [
+          {
+            "label": "Fik-sa-si 1 di *Me-so-fil*",
+            "emoji": "🍃"
+          },
+          {
+            "label": "Mem-ben-tuk *Ok-sa-lo-a-se-tat*",
+            "emoji": "4️⃣"
+          },
+          {
+            "label": "Fik-sa-si 2 di *Sel-u-dang*",
+            "emoji": "🏭",
+            "aksen": true
+          }
+        ],
+        "id": 78
+      },
+      {
+        "judulKartu": "Adaptasi Stomata Tumbuhan CAM",
+        "teks": [
+          "Tum-bu-han *CAM* mem-bu-ka *sto-ma-ta* pa-da ma-lam ha-ri.",
+          "Pa-da si-ang ha-ri *sto-ma-ta* ter-tu-tup un-tuk men-ce-gah ke-hi-lang-an air.",
+          "Con-toh tum-bu-han *CAM* a-da-lah kak-tus dan na-nas."
+        ],
+        "diagram": [
+          {
+            "label": "Ma-lam Ha-ri",
+            "emoji": "🌙"
+          },
+          {
+            "label": "*Sto-ma-ta* Mem-bu-ka",
+            "emoji": "🔓"
+          },
+          {
+            "label": "Si-ang Ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Sto-ma-ta* Ter-tu-tup",
+            "emoji": "🔒",
+            "aksen": true
+          }
+        ],
+        "id": 79
+      },
+      {
+        "judulKartu": "Fiksasi Karbon Tumbuhan CAM",
+        "teks": [
+          "Pa-da ma-lam ha-ri *CO2* di-sim-pan se-ba-gai *asam or-ga-nik* di *va-ku-o-la*.",
+          "Pa-da si-ang ha-ri *CO2* di-le-pas-kan un-tuk *si-klus Calvin*.",
+          "Re-ak-si te-rang si-ang ha-ri me-nyu-plai *ATP* dan *NADPH* un-tuk bu-at gu-la."
+        ],
+        "diagram": [
+          {
+            "label": "Ma-lam: Sim-pan *Asam Or-ga-nik*",
+            "emoji": "🌙"
+          },
+          {
+            "label": "Si-ang: Le-pas *CO2*",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Si-klus Calvin* Bu-at Gu-la",
+            "emoji": "🍬",
+            "energi": true
+          }
+        ],
+        "id": 80
+      },
+      {
+        "judulKartu": "Fotosintesis Tumbuhan C3",
+        "teks": [
+          "Tum-bu-han C3 me-ngi-kat *kar-bon-di-ok-si-da* lang-sung de-ngan *RuBP*.",
+          "Pro-ses i-ni me-nga-sil-kan se-nya-wa per-ta-ma ber-kar-bon ti-ga ya-i-tu *PGA*.",
+          "Con-toh tum-bu-han C3 a-da-lah pa-di."
+        ],
+        "diagram": [
+          {
+            "label": "Fik-sa-si *CO2*",
+            "emoji": "🌿"
+          },
+          {
+            "label": "I-kat-an *RuBP*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Ben-tuk *PGA*",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "*Sik-lus* *Cal-vin*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Ha-sil *Glu-ko-sa*",
+            "emoji": "🌾",
+            "energi": true
+          }
+        ],
+        "id": 81
+      },
+      {
+        "judulKartu": "Tempat Fiksasi Karbon Tumbuhan C3",
+        "teks": [
+          "Fik-sa-si *kar-bon* pa-da tum-bu-han C3 ter-ja-di di da-lam sel *me-so-fil*.",
+          "Sel *me-so-fil* me-ngan-dung *klo-ro-fil* un-tuk *fo-to-sin-te-sis*.",
+          "Gas *CO2* ma-suk me-la-lu-i *sto-ma-ta* da-un."
+        ],
+        "diagram": [
+          {
+            "label": "Gas *CO2* Ma-suk",
+            "emoji": "💨"
+          },
+          {
+            "label": "*Sto-ma-ta* Da-un",
+            "emoji": "🍃"
+          },
+          {
+            "label": "Sel *Me-so-fil*",
+            "emoji": "🧫",
+            "aksen": true
+          },
+          {
+            "label": "Re-ak-si *Fik-sa-si*",
+            "emoji": "⚡"
+          }
+        ],
+        "id": 82
+      },
+      {
+        "judulKartu": "Fotosintesis Tumbuhan C4",
+        "teks": [
+          "Tum-bu-han C4 me-ngi-kat *kar-bon-di-ok-si-da* me-nga-n-nal *PEP*.",
+          "Pro-ses i-ni me-nga-sil-kan se-nya-wa ber-kar-bon em-pat ya-i-tu *ok-sa-lo-a-se-tat*.",
+          "Con-toh tum-bu-han C4 a-da-lah ja-gung."
+        ],
+        "diagram": [
+          {
+            "label": "Fik-sa-si *CO2*",
+            "emoji": "🌿"
+          },
+          {
+            "label": "I-kat-an *PEP*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "*Ok-sa-lo-a-se-tat*",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "As-am *Ma-lat*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Ha-sil *Glu-ko-sa*",
+            "emoji": "🌽",
+            "energi": true
+          }
+        ],
+        "id": 83
+      },
+      {
+        "judulKartu": "Spesialisasi Sel Tumbuhan C4",
+        "teks": [
+          "Tum-bu-han C4 meng-gu-na-kan dua ti-pe sel un-tuk *fo-to-sin-te-sis*.",
+          "Sel *me-so-fil* me-la-ku-kan *fik-sa-si* awal *kar-bon*.",
+          "Sel *se-lu-dang* *pem-bu-luh* me-la-ku-kan *sik-lus* *Cal-vin*."
+        ],
+        "diagram": [
+          {
+            "label": "Sel *Me-so-fil*",
+            "emoji": "🧫"
+          },
+          {
+            "label": "Fik-sa-si *PEP*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Sel *Se-lu-dang*",
+            "emoji": "🛡️",
+            "aksen": true
+          },
+          {
+            "label": "*Sik-lus* *Cal-vin*",
+            "emoji": "🔄"
+          }
+        ],
+        "id": 84
+      },
+      {
+        "judulKartu": "Perubahan Malat pada Tumbuhan C4",
+        "teks": [
+          "As-am *ma-lat* di-pin-dah-kan ke sel *se-lu-dang* *pem-bu-luh*.",
+          "As-am *ma-lat* di-pe-cah men-ja-di *CO2* dan as-am *pi-ru-vat*.",
+          "Gas *CO2* di-gu-na-kan da-lam *sik-lus* *Cal-vin*."
+        ],
+        "diagram": [
+          {
+            "label": "As-am *Ma-lat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Trans-por Sel",
+            "emoji": "➡️"
+          },
+          {
+            "label": "Pe-ca-han *CO2*",
+            "emoji": "💨",
+            "aksen": true
+          },
+          {
+            "label": "As-am *Pi-ru-vat*",
+            "emoji": "⚡"
+          }
+        ],
+        "id": 85
+      },
+      {
+        "judulKartu": "Fotosintesis Tumbuhan CAM",
+        "teks": [
+          "Tum-bu-han CAM mem-bu-ka *sto-ma-ta* pa-da ma-lam ha-ri.",
+          "Kar-bon di-i-kat ma-lam ha-ri men-ja-di as-am *ma-lat*.",
+          "Con-toh tum-bu-han CAM a-da-lah na-nas."
+        ],
+        "diagram": [
+          {
+            "label": "Ma-lam Ha-ri",
+            "emoji": "🌙"
+          },
+          {
+            "label": "Bu-ka *Sto-ma-ta*",
+            "emoji": "🍃"
+          },
+          {
+            "label": "Fik-sa-si *CO2*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Sim-pan *Ma-lat*",
+            "emoji": "📦",
+            "aksen": true
+          }
+        ],
+        "id": 86
+      },
+      {
+        "judulKartu": "Proses Siang Hari Tumbuhan CAM",
+        "teks": [
+          "Pa-da si-ang ha-ri *sto-ma-ta* tum-bu-han CAM ter-tu-tup.",
+          "As-am *ma-lat* me-nge-lu-ar-kan *CO2* di da-lam sel.",
+          "Gas *CO2* di-o-lah da-lam *sik-lus* *Cal-vin* un-tuk mem-ben-tuk *glu-ko-sa*."
+        ],
+        "diagram": [
+          {
+            "label": "Si-ang Ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Tu-tup *Sto-ma-ta*",
+            "emoji": "🔒"
+          },
+          {
+            "label": "Le-pas *CO2*",
+            "emoji": "💨",
+            "aksen": true
+          },
+          {
+            "label": "*Sik-lus* *Cal-vin*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Ha-sil *Glu-ko-sa*",
+            "emoji": "🍍",
+            "energi": true
+          }
+        ],
+        "id": 87
+      },
+      {
+        "judulKartu": "Konsep Dasar Kemosintesis",
+        "teks": [
+          "Ke-mo-sin-te-sis a-da-lah pem-ben-tu-kan *glu-ko-sa* meng-gu-na-kan e-ner-gi ki-mi-a.",
+          "Pro-ses i-ni di-la-ku-kan o-leh *bak-te-ri* yang ti-dak me-mi-li-ki *klo-ro-fil*.",
+          "E-ner-gi ber-a-sal da-ri *ok-si-da-si* mo-le-kul *an-or-ga-nik*."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul *An-or-ga-nik*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*Ok-si-da-si* Ki-mi-a",
+            "emoji": "🔥"
+          },
+          {
+            "label": "E-ner-gi *ATP*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Sin-te-sis *Glu-ko-sa*",
+            "emoji": "🍬",
+            "aksen": true
+          }
+        ],
+        "id": 88
+      },
+      {
+        "judulKartu": "Peran Kemiosmosis pada Bakteri Kemosintetik",
+        "teks": [
+          "Bak-te-ri *ke-mo-sin-te-tik* me-la-ku-kan *ke-mi-os-mo-sis* un-tuk mem-buat e-ner-gi.",
+          "E-ner-gi ki-mi-a di-pro-duk-si da-ri a-lir-an *pro-ton*.",
+          "E-ner-gi i-ni di-pa-kai un-tuk me-ngi-kat *CO2*."
+        ],
+        "diagram": [
+          {
+            "label": "*Ok-si-da-si*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "A-lir-an *Pro-ton*",
+            "emoji": "🌊"
+          },
+          {
+            "label": "*Ke-mi-os-mo-sis*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Re-ak-si",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 89
+      },
+      {
+        "judulKartu": "Bakteri Besi Ferrobacillus",
+        "teks": [
+          "Bak-te-ri be-si ber-a-sal da-ri *ge-nus* *Fer-ro-ba-cil-lus*.",
+          "Bak-te-ri i-ni me-la-ku-kan *ok-si-da-si* pa-da *be-si*.",
+          "Re-ak-si me-ngu-bah *Fe2+* men-ja-di *Fe3+*."
+        ],
+        "diagram": [
+          {
+            "label": "Bak-te-ri *Fer-ro-ba-cil-lus*",
+            "emoji": "🧫"
+          },
+          {
+            "label": "Ion *Fe2+*",
+            "emoji": "⚛️"
+          },
+          {
+            "label": "Pro-ses *Ok-si-da-si*",
+            "emoji": "🔥",
+            "aksen": true
+          },
+          {
+            "label": "Ha-sil *Fe3+*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "E-ner-gi Ki-mi-a",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 90
+      },
+      {
+        "judulKartu": "Sintesis Glukosa oleh Bakteri Besi",
+        "teks": [
+          "E-ner-gi da-ri *ok-si-da-si* be-si di-gu-na-kan un-tuk mem-buat *glu-ko-sa*.",
+          "Bak-te-ri me-re-ak-si-kan *CO2* dan *H2O*.",
+          "Re-ak-si i-ni me-nga-sil-kan *glu-ko-sa* dan gas *O2*."
+        ],
+        "diagram": [
+          {
+            "label": "*CO2* + *H2O*",
+            "emoji": "💧"
+          },
+          {
+            "label": "E-ner-gi Ki-mi-a *Fe*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Re-ak-si *Ke-mo-sin-te-sis*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "*Glu-ko-sa* + *O2*",
+            "emoji": "🍬"
+          }
+        ],
+        "id": 91
+      },
+      {
+        "judulKartu": "Bakteri Nitrifikasi",
+        "teks": [
+          "Bak-te-ri *nit-ri-fi-ka-si* con-toh-nya *Ni-tro-so-mo-nas* dan *Ni-tro-so-coc-cus*.",
+          "Bak-te-ri i-ni me-la-ku-kan *ok-si-da-si* pa-da *a-mo-ni-ak*.",
+          "Pro-ses *ok-si-da-si* me-nga-sil-kan as-am *nit-rit*."
+        ],
+        "diagram": [
+          {
+            "label": "*Ni-tro-so-mo-nas*",
+            "emoji": "🧫"
+          },
+          {
+            "label": "*A-mo-ni-ak* *NH3+*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Pro-ses *Ok-si-da-si*",
+            "emoji": "🔥",
+            "aksen": true
+          },
+          {
+            "label": "As-am *Nit-rit* *NO2-*",
+            "emoji": "⚗️"
+          },
+          {
+            "label": "E-ner-gi Ki-mi-a",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 92
+      },
+      {
+        "judulKartu": "Reaksi Sintesis Glukosa Bakteri Nitrifikasi",
+        "teks": [
+          "E-ner-gi da-ri *ok-si-da-si* *a-mo-ni-ak* di-pa-kai un-tuk *ke-mo-sin-te-sis*.",
+          "En-am *CO2* dan en-am *H2O* di-u-bah men-ja-di *glu-ko-sa*.",
+          "Ha-sil sam-ping da-ri re-ak-si i-ni a-da-lah en-am mo-le-kul *O2*."
+        ],
+        "diagram": [
+          {
+            "label": "En-am *CO2* + *H2O*",
+            "emoji": "💨"
+          },
+          {
+            "label": "E-ner-gi *A-mo-ni-ak*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Pem-ben-tu-kan *Glu-ko-sa*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "*C6H12O6* + *O2*",
+            "emoji": "🍬"
+          }
+        ],
+        "id": 93
+      },
+      {
+        "judulKartu": "Bakteri Belerang Thiobacillus",
+        "teks": [
+          "Bak-te-ri be-le-rang ber-a-sal da-ri *ge-nus* *Thio-ba-cil-lus*.",
+          "Bak-te-ri i-ni me-la-ku-kan *ok-si-da-si* pa-da *H2S*.",
+          "Re-ak-si *ok-si-da-si* me-nga-sil-kan *sul-fur* dan e-ner-gi."
+        ],
+        "diagram": [
+          {
+            "label": "*Thio-ba-cil-lus*",
+            "emoji": "🧫"
+          },
+          {
+            "label": "Gas *H2S*",
+            "emoji": "💨"
+          },
+          {
+            "label": "Pro-ses *Ok-si-da-si*",
+            "emoji": "🔥",
+            "aksen": true
+          },
+          {
+            "label": "End-ap-an *Sul-fur*",
+            "emoji": "🟡"
+          },
+          {
+            "label": "E-ner-gi Ki-mi-a",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 94
+      },
+      {
+        "judulKartu": "Sintesis Glukosa oleh Bakteri Belerang",
+        "teks": [
+          "E-ner-gi da-ri *ok-si-da-si* *H2S* di-gu-na-kan un-tuk mem-buat *glu-ko-sa*.",
+          "Bak-te-ri me-ngi-kat *CO2* dan *H2O* de-ngan e-ner-gi ki-mi-a.",
+          "Re-ak-si me-nga-sil-kan *glu-ko-sa* dan gas *O2*."
+        ],
+        "diagram": [
+          {
+            "label": "*CO2* + *H2O*",
+            "emoji": "💧"
+          },
+          {
+            "label": "E-ner-gi *Sul-fur*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Re-ak-si *Ke-mo-sin-te-sis*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "*Glu-ko-sa* + *O2*",
+            "emoji": "🍬"
+          }
+        ],
+        "id": 95
+      },
+      {
+        "judulKartu": "Persamaan Reaksi Kemosintesis",
+        "teks": [
+          "Re-ak-si *ke-mo-sin-te-sis* mem-bu-tuh-kan *kar-bon-di-ok-si-da* dan air.",
+          "E-ner-gi ki-mi-a mem-ban-tu pem-ben-tu-kan mo-le-kul *glu-ko-sa*.",
+          "Per-sa-ma-an re-ak-si-nya a-da-lah en-am *CO2* plus en-am *H2O* men-ja-di *glu-ko-sa* dan en-am *O2*."
+        ],
+        "diagram": [
+          {
+            "label": "Re-ak-tan *CO2* & *H2O*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "E-ner-gi Ki-mi-a",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Pro-ses *Ke-mo-sin-te-sis*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Pro-duk *Glu-ko-sa* & *O2*",
+            "emoji": "🍬"
+          }
+        ],
+        "id": 96
+      },
+      {
+        "judulKartu": "Perbedaan Fotosintesis dan Kemosintesis",
+        "teks": [
+          "*Fo-to-sin-te-sis* meng-gu-na-kan e-ner-gi ca-ha-ya ma-ta-ha-ri.",
+          "*Ke-mo-sin-te-sis* meng-gu-na-kan e-ner-gi da-ri *ok-si-da-si* se-nya-wa *an-or-ga-nik*.",
+          "Ke-du-a pro-ses i-ni sa-ma me-nga-sil-kan *glu-ko-sa* un-tuk *me-ta-bo-lis-me*."
+        ],
+        "diagram": [
+          {
+            "label": "E-ner-gi Ca-ha-ya",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Fo-to-sin-te-sis*",
+            "emoji": "🌿"
+          },
+          {
+            "label": "E-ner-gi Ki-mi-a",
+            "emoji": "⚡"
+          },
+          {
+            "label": "*Ke-mo-sin-te-sis*",
+            "emoji": "🧫",
+            "aksen": true
+          },
+          {
+            "label": "Ha-sil *Glu-ko-sa*",
+            "emoji": "🍬",
+            "energi": true
+          }
+        ],
+        "id": 97
+      },
+      {
+        "id": 98,
+        "judulKartu": "Ringkasan",
+        "teks": [
+          "Se-la-mat! Ka-mu te-lah me-nye-le-sai-kan se-lu-ruh ma-te-ri i-ni.",
+          "Si-lah-kan lan-jut ke se-si e-va-lu-a-si un-tuk meng-u-ji pe-ma-ha-man-mu."
+        ],
+        "diagram": []
+      }
+    ],
+    "kuis": [
+      {
+        "soal": "Pro-ses me-nyu-sun mo-le-kul kom-pleks da-ri mo-le-kul se-der-ha-na de-ngan mem-bu-tuh-kan en-er-gi di-se-but...",
+        "opsi": [
+          "*ka-ta-bo-lis-me*",
+          "*a-na-bo-lis-me*",
+          "*des-im-i-la-si*",
+          "*fo-to-res-pi-ra-si*"
+        ],
+        "jawaban": 1
+      },
+      {
+        "soal": "Di ma-na-kah lo-ka-si ber-lang-sung-nya pro-ses *gli-ko-li-sis* di da-lam sel?",
+        "opsi": [
+          "*ma-triks* *mi-to-kon-dri-a*",
+          "*mem-bran* *kris-ta* *mi-to-kon-dri-a*",
+          "*si-to-sol* *si-to-plas-ma*",
+          "*stro-ma* *klor-o-plas*"
+        ],
+        "jawaban": 2
+      },
+      {
+        "soal": "Mo-le-kul yang ber-per-an se-ba-gai a-ksep-tor e-lek-tron ter-a-khir pa-da *trans-por* *e-lek-tron* a-da-lah...",
+        "opsi": [
+          "*kar-bon* *di-ok-si-da*",
+          "*glu-ko-sa*",
+          "*a-sam* *pi-ru-vat*",
+          "*ok-si-gen*"
+        ],
+        "jawaban": 3
+      },
+      {
+        "soal": "Re-ak-si te-rang me-ngha-sil-kan en-er-gi ki-mi-a un-tuk di-gu-na-kan pa-da re-ak-si ge-lap ber-u-pa...",
+        "opsi": [
+          "*ATP* dan *NADPH*",
+          "*ADP* dan *NADP+*",
+          "*glu-ko-sa* dan *a-mi-lum*",
+          "*a-sam* *pi-ru-vat* dan *CO2*"
+        ],
+        "jawaban": 0
+      },
+      {
+        "soal": "Pro-ses re-ak-si ge-lap a-tau *sik-lus* *Calvin* ber-lang-sung di da-lam...",
+        "opsi": [
+          "*mem-bran* *ti-la-ko-id*",
+          "*stro-ma*",
+          "*gra-na*",
+          "*ma-triks* *mi-to-kon-dri-a*"
+        ],
+        "jawaban": 1
+      }
+    ],
+    "sumber": "guru"
+  },
+  "60369a62884f": {
+    "id": "60369a62884f",
+    "judul": "Modul_Ajar_Metabolisme",
+    "tanggal_upload": "2026-09-12T18:55:53.130087",
+    "kartu": [
+      {
+        "judulKartu": "Kon-sep Da-sar Me-ta-bo-lis-me",
+        "teks": [
+          "Sel be-ker-ja se-per-ti pa-brik ke-cil yang ti-dak per-nah ber-hen-ti.",
+          "Pa-brik i-ni me-la-ku-kan *me-ta-bo-lis-me* un-tuk me-no-pang ke-hi-du-pan."
+        ],
+        "diagram": [
+          {
+            "label": "Sel Ber-ak-ti-vi-tas",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Re-ak-si *Me-ta-bo-lis-me*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Ke-lang-sung-an Hi-dup Sel",
+            "emoji": "🌱"
+          }
+        ],
+        "id": 1
+      },
+      {
+        "judulKartu": "Peng-er-ti-an Ka-ta-bo-lis-me",
+        "teks": [
+          "*Ka-ta-bo-lis-me* a-da-lah pro-ses mem-bong-kar mo-le-kul be-sar me-nja-di mo-le-kul ke-cil.",
+          "Pro-ses mem-bong-kar i-ni me-le-pas-kan e-ner-gi un-tuk sel."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Be-sar",
+            "emoji": "📦"
+          },
+          {
+            "label": "Pem-bong-ka-ran Mo-le-kul",
+            "emoji": "✂️",
+            "aksen": true
+          },
+          {
+            "label": "Pe-le-pa-san E-ner-gi",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 2
+      },
+      {
+        "judulKartu": "Peng-er-ti-an A-na-bo-lis-me",
+        "teks": [
+          "*A-na-bo-lis-me* a-da-lah pro-ses mem-ba-ngun mo-le-kul be-sar da-ri mo-le-kul ke-cil.",
+          "Pro-ses mem-ba-ngun i-ni me-nyim-pan e-ner-gi da-lam sel."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Ke-cil",
+            "emoji": "🧩"
+          },
+          {
+            "label": "Pem-ba-ngu-nan Mo-le-kul",
+            "emoji": "🏗️",
+            "aksen": true
+          },
+          {
+            "label": "Pe-nyim-pa-nan E-ner-gi",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 3
+      },
+      {
+        "judulKartu": "Ke-ter-ka-i-tan Ka-ta-bo-lis-me dan A-na-bo-lis-me",
+        "teks": [
+          "*Ka-ta-bo-lis-me* dan *a-na-bo-lis-me* sa-ling ber-ka-i-tan sa-tu sa-ma la-in.",
+          "E-ner-gi da-ri *ka-ta-bo-lis-me* di-gu-na-kan un-tuk pro-ses *a-na-bo-lis-me*."
+        ],
+        "diagram": [
+          {
+            "label": "*Ka-ta-bo-lis-me* Le-pas E-ner-gi",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "E-ner-gi Di-sa-lur-kan",
+            "emoji": "🔄",
+            "aksen": true
+          },
+          {
+            "label": "*A-na-bo-lis-me* Sim-pan E-ner-gi",
+            "emoji": "🔋"
+          }
+        ],
+        "id": 4
+      },
+      {
+        "judulKartu": "Or-ga-nel Sel Me-ta-bo-lis-me",
+        "teks": [
+          "Re-ak-si *me-ta-bo-lis-me* ter-ja-di di da-lam or-ga-nel sel khu-sus.",
+          "*Mit-o-kon-dri-a* me-la-ku-kan *res-pi-ra-si sel* dan *klo-ro-plas* me-la-ku-kan *fo-to-sin-te-sis*."
+        ],
+        "diagram": [
+          {
+            "label": "Or-ga-nel Sel",
+            "emoji": "🧫"
+          },
+          {
+            "label": "*Mit-o-kon-dri-a* & *Klo-ro-plas*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Pro-ses *Me-ta-bo-lis-me*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 5
+      },
+      {
+        "judulKartu": "Res-pi-ra-si A-e-rob",
+        "teks": [
+          "*Res-pi-ra-si a-e-rob* a-da-lah pro-ses *ka-ta-bo-lis-me* yang me-but-uh-kan ok-si-gen.",
+          "Pro-ses i-ni mem-be-bas-kan e-ner-gi da-ri mo-le-kul *glu-ko-sa*."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa* & Ok-si-gen",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*Res-pi-ra-si A-e-rob*",
+            "emoji": "🔥",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi *A-T-P*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 6
+      },
+      {
+        "judulKartu": "Ta-hap-an Gli-ko-li-sis",
+        "teks": [
+          "*Gli-ko-li-sis* a-da-lah ta-hap a-wal da-ri *res-pi-ra-si a-e-rob*.",
+          "Ta-hap i-ni mem-bong-kar mo-le-kul *glu-ko-sa* me-nja-di *a-sam pi-ru-vat*."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "Pro-ses *Gli-ko-li-sis*",
+            "emoji": "✂️",
+            "aksen": true
+          },
+          {
+            "label": "*A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          }
+        ],
+        "id": 7
+      },
+      {
+        "judulKartu": "De-kar-bok-si-la-si Ok-si-da-tif",
+        "teks": [
+          "*De-kar-bok-si-la-si ok-si-da-tif* mem-pro-ses *a-sam pi-ru-vat* ha-sil *gli-ko-li-sis*.",
+          "Ta-hap i-ni me-ngu-bah *a-sam pi-ru-vat* me-nja-di *a-se-til ko-en-zim A*."
+        ],
+        "diagram": [
+          {
+            "label": "*A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*De-kar-bok-si-la-si Ok-si-da-tif*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "*A-se-til Ko-A*",
+            "emoji": "🧬"
+          }
+        ],
+        "id": 8
+      },
+      {
+        "judulKartu": "Sik-lus Krebs",
+        "teks": [
+          "*Sik-lus Krebs* me-ru-pa-kan ta-ha-pan da-ur *me-ta-bo-lis-me* di da-lam *mit-o-kon-dri-a*.",
+          "Ta-hap i-ni me-ngha-sil-kan e-ner-gi dan me-nge-lu-ar-kan kar-bon di-ok-si-da."
+        ],
+        "diagram": [
+          {
+            "label": "*A-se-til Ko-A*",
+            "emoji": "🧬"
+          },
+          {
+            "label": "Put-ar-an *Sik-lus Krebs*",
+            "emoji": "🔄",
+            "aksen": true
+          },
+          {
+            "label": "Kar-bon Di-ok-si-da & E-ner-gi",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 9
+      },
+      {
+        "judulKartu": "Trans-por E-lek-tron",
+        "teks": [
+          "*Trans-por e-lek-tron* a-da-lah ta-hap a-khir da-lam *res-pi-ra-si a-e-rob*.",
+          "Ta-hap i-ni me-ngha-sil-kan mo-le-kul e-ner-gi *A-T-P* pa-ling ba-nyak."
+        ],
+        "diagram": [
+          {
+            "label": "Al-ir-an E-lek-tron",
+            "emoji": "⚡"
+          },
+          {
+            "label": "*Trans-por E-lek-tron*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Pe-ngha-sil-an *A-T-P* Be-sar",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 10
+      },
+      {
+        "judulKartu": "Fer-men-ta-si",
+        "teks": [
+          "*Fer-men-ta-si* a-da-lah *res-pi-ra-si an-a-e-rob* yang ti-dak me-ngu-na-kan ok-si-gen.",
+          "Pro-ses i-ni me-ngha-sil-kan e-ner-gi da-lam jum-lah yang le-bih se-di-kit."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa* Tan-pa Ok-si-gen",
+            "emoji": "🚫"
+          },
+          {
+            "label": "Pro-ses *Fer-men-ta-si*",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Se-di-kit",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 11
+      },
+      {
+        "judulKartu": "Fer-men-ta-si A-sam Lak-tat",
+        "teks": [
+          "*Fer-men-ta-si a-sam lak-tat* ter-ja-di pa-da sel o-tot sa-at ke-ku-ra-ngan ok-si-gen.",
+          "Pe-num-pu-kan *a-sam lak-tat* me-nge-bab-kan o-tot te-ra-sa pe-gal dan le-lah."
+        ],
+        "diagram": [
+          {
+            "label": "Ol-ah-ra-ga Be-rat",
+            "emoji": "🏃"
+          },
+          {
+            "label": "*Fer-men-ta-si A-sam Lak-tat*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "O-tot Pe-gal & Le-lah",
+            "emoji": "⚠️"
+          }
+        ],
+        "id": 12
+      },
+      {
+        "judulKartu": "Fer-men-ta-si Al-ko-hol",
+        "teks": [
+          "*Fer-men-ta-si al-ko-hol* di-la-ku-kan o-leh mi-kro-or-ga-nis-me se-per-ti *ra-gi*.",
+          "Pro-ses i-ni me-ngha-sil-kan *al-ko-hol* dan gas kar-bon di-ok-si-da."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "*Fer-men-ta-si Ra-gi*",
+            "emoji": "🍞",
+            "aksen": true
+          },
+          {
+            "label": "*Al-ko-hol* & Kar-bon Di-ok-si-da",
+            "emoji": "🧪"
+          }
+        ],
+        "id": 13
+      },
+      {
+        "judulKartu": "Fo-to-sin-te-sis",
+        "teks": [
+          "*Fo-to-sin-te-sis* a-da-lah pro-ses *a-na-bo-lis-me* pa-da tum-bu-han un-tuk mem-bu-at ma-ka-nan.",
+          "Pro-ses i-ni me-ngu-bah e-ner-gi ca-ha-ya me-nja-di e-ner-gi ki-mi-a."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya Ma-ta-ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Pro-ses *Fo-to-sin-te-sis*",
+            "emoji": "🌿",
+            "aksen": true
+          },
+          {
+            "label": "*Glu-ko-sa* & Ok-si-gen",
+            "emoji": "🍃",
+            "energi": true
+          }
+        ],
+        "id": 14
+      },
+      {
+        "judulKartu": "Re-ak-si Fo-to-sin-te-sis",
+        "teks": [
+          "*Fo-to-sin-te-sis* ter-di-ri da-ri *re-ak-si te-rang* dan *re-ak-si ge-lap*.",
+          "*Re-ak-si te-rang* me-but-uh-kan ca-ha-ya, se-dang-kan *re-ak-si ge-lap* me-ngi-kat kar-bon di-ok-si-da."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya Ma-ta-ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Re-ak-si Te-rang*",
+            "emoji": "⚡",
+            "aksen": true
+          },
+          {
+            "label": "*Re-ak-si Ge-lap*",
+            "emoji": "🌱"
+          }
+        ],
+        "id": 15
+      },
+      {
+        "judulKartu": "A-dap-ta-si Tum-bu-han C3 C4 C-A-M",
+        "teks": [
+          "Tum-bu-han me-mi-li-ki stra-te-gi *me-ta-bo-lis-me* ber-be-da se-per-ti ti-pe *C3*, *C4*, dan *C-A-M*.",
+          "Stra-te-gi i-ni mem-ban-tu tum-bu-han ber-a-dap-ta-si de-ngan ling-ku-ngan."
+        ],
+        "diagram": [
+          {
+            "label": "Ling-ku-ngan Al-am",
+            "emoji": "🌍"
+          },
+          {
+            "label": "A-dap-ta-si *C3* *C4* *C-A-M*",
+            "emoji": "🌵",
+            "aksen": true
+          },
+          {
+            "label": "*Fo-to-sin-te-sis* Op-ti-mal",
+            "emoji": "🌱"
+          }
+        ],
+        "id": 16
+      },
+      {
+        "judulKartu": "Pengertian Metabolisme Sel",
+        "teks": [
+          "Sel me-la-ku-kan ri-bu-an re-ak-si ki-mi-a se-ti-ap de-tik.",
+          "Ke-se-lu-ru-han re-ak-si ki-mi-a i-ni di-se-but *met-a-bo-lis-me*.",
+          "Pro-ses i-ni di-bu-tuh-kan sel un-tuk me-lan-jut-kan hi-dup."
+        ],
+        "diagram": [
+          {
+            "label": "Re-ak-si Ki-mi-a Sel",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*met-a-bo-lis-me*",
+            "emoji": "⚙️",
+            "aksen": true
+          }
+        ],
+        "id": 17
+      },
+      {
+        "judulKartu": "Asal Kata Metabolisme",
+        "teks": [
+          "Ka-ta *met-a-bo-lis-me* ber-a-sal da-ri ba-ha-sa Yu-na-ni yaitu *met-a-bo-le*.",
+          "Ka-ta *met-a-bo-le* me-mi-li-ki ar-ti pe-ru-ba-han.",
+          "Mo-le-kul di da-lam sel ter-us di-u-bah ben-tuk-nya."
+        ],
+        "diagram": [
+          {
+            "label": "*met-a-bo-le*",
+            "emoji": "🏛️"
+          },
+          {
+            "label": "Pe-ru-ba-han Mo-le-kul",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 18
+      },
+      {
+        "judulKartu": "Konsep Katabolisme",
+        "teks": [
+          "*Ka-ta-bo-lis-me* me-ru-pa-kan pro-ses pem-bong-kar-an mo-le-kul be-sar.",
+          "Mo-le-kul kom-pleks di-u-bah me-n-ja-di mo-le-kul se-der-ha-na.",
+          "Pro-ses i-ni me-le-pas-kan e-ner-gi yang ber-gu-na bagi sel."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Be-sar",
+            "emoji": "📦"
+          },
+          {
+            "label": "Pem-bong-kar-an",
+            "emoji": "💥"
+          },
+          {
+            "label": "Mo-le-kul Ke-cil",
+            "emoji": "🔹"
+          },
+          {
+            "label": "E-ner-gi Be-bas",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 19
+      },
+      {
+        "judulKartu": "Analogi Katabolisme",
+        "teks": [
+          "Pro-ses *ka-ta-bo-lis-me* mi-rip de-ngan mem-bong-kar se-bu-ah ru-mah.",
+          "Bang-un-an ru-mah di-bong-kar me-n-ja-di tumpuk-an ba-tu ba-ta.",
+          "Pem-bong-kar-an i-ni me-n-g-ha-sil-kan e-ner-gi be-bas."
+        ],
+        "diagram": [
+          {
+            "label": "Bang-un-an Ru-mah",
+            "emoji": "🏠"
+          },
+          {
+            "label": "Pro-ses Mem-bong-kar",
+            "emoji": "🔨"
+          },
+          {
+            "label": "Ba-tu Ba-ta",
+            "emoji": "🧱",
+            "aksen": true
+          }
+        ],
+        "id": 20
+      },
+      {
+        "judulKartu": "Konsep Anabolisme",
+        "teks": [
+          "*A-na-bo-lis-me* me-ru-pa-kan pro-ses pe-nyu-sun-an mo-le-kul.",
+          "Mo-le-kul se-der-ha-na di-su-sun me-n-ja-di mo-le-kul kom-pleks.",
+          "Pro-ses i-ni mem-bu-tuh-kan dan me-n-gim-pan e-ner-gi."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Ke-cil",
+            "emoji": "🔹"
+          },
+          {
+            "label": "E-ner-gi Ma-suk",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Pe-nyu-sun-an",
+            "emoji": "🏗️"
+          },
+          {
+            "label": "Mo-le-kul Be-sar",
+            "emoji": "📦",
+            "aksen": true
+          }
+        ],
+        "id": 21
+      },
+      {
+        "judulKartu": "Analogi Anabolisme",
+        "teks": [
+          "Pro-ses *a-na-bo-lis-me* mi-rip de-ngan me-nyu-sun ba-tu ba-ta.",
+          "Ba-tu ba-ta di-su-sun me-n-ja-di bang-un-an ru-mah ba-ru.",
+          "E-ner-gi ter-sim-pan di da-lam ik-at-an bang-un-an ter-se-but."
+        ],
+        "diagram": [
+          {
+            "label": "Ba-tu Ba-ta",
+            "emoji": "🧱"
+          },
+          {
+            "label": "Pro-ses Me-nyu-sun",
+            "emoji": "🏗️"
+          },
+          {
+            "label": "Bang-un-an Ba-ru",
+            "emoji": "🏠",
+            "aksen": true
+          }
+        ],
+        "id": 22
+      },
+      {
+        "judulKartu": "Peran Enzim dalam Metabolisme",
+        "teks": [
+          "Se-ti-ap re-ak-si *met-a-bo-lis-me* di-ban-tu o-leh *en-zim*.",
+          "*En-zim* me-ru-pa-kan pro-te-in yang mem-per-ce-pat la-ju re-ak-si.",
+          "Tan-pa *en-zim*, *met-a-bo-lis-me* ber-lang-sung sang-at lam-bat."
+        ],
+        "diagram": [
+          {
+            "label": "Re-ak-si *met-a-bo-lis-me*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Ban-tu-an *en-zim*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Re-ak-si Cepat",
+            "emoji": "🚀",
+            "aksen": true
+          }
+        ],
+        "id": 23
+      },
+      {
+        "judulKartu": "Pengertian Respirasi Sel dan ATP",
+        "teks": [
+          "*Res-pi-ra-si sel* membong-kar *glu-ko-sa* me-n-ja-di e-ner-gi.",
+          "E-ner-gi yang di-ha-sil-kan ber-ben-tuk mo-le-kul *a-t-p*.",
+          "*A-t-p* ber-pe-ran se-ba-ga-i ma-ta u-ang e-ner-gi sel."
+        ],
+        "diagram": [
+          {
+            "label": "*glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "*Res-pi-ra-si sel*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Mo-le-kul *a-t-p*",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 24
+      },
+      {
+        "judulKartu": "Reaksi Umum Respirasi Aerob",
+        "teks": [
+          "*Res-pi-ra-si a-e-rob* me-ru-pa-kan res-pi-ra-si de-ngan ok-si-gen.",
+          "*Glu-ko-sa* dan ok-si-gen be-re-ak-si me-n-g-ha-sil-kan kar-bon di-ok-si-da.",
+          "Re-ak-si i-ni ju-ga me-n-g-ha-sil-kan air dan e-ner-gi *a-t-p*."
+        ],
+        "diagram": [
+          {
+            "label": "*glu-ko-sa* + Ok-si-gen",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Re-ak-si *a-e-rob*",
+            "emoji": "🔥"
+          },
+          {
+            "label": "CO2 + H2O + *a-t-p*",
+            "emoji": "💨",
+            "energi": true
+          }
+        ],
+        "id": 25
+      },
+      {
+        "judulKartu": "Pengertian dan Lokasi Glikolisis",
+        "teks": [
+          "Ka-ta *gli-ko-li-sis* me-mi-li-ki ar-ti pe-me-cah-an gu-la.",
+          "Tah-ap i-ni ber-lang-sung di da-lam *si-to-plas-ma* sel.",
+          "Pro-ses *gli-ko-li-sis* ti-dak mem-bu-tuh-kan ok-si-gen."
+        ],
+        "diagram": [
+          {
+            "label": "Pe-me-cah-an Gu-la",
+            "emoji": "✂️"
+          },
+          {
+            "label": "Lok-a-si *si-to-plas-ma*",
+            "emoji": "📍",
+            "aksen": true
+          }
+        ],
+        "id": 26
+      },
+      {
+        "judulKartu": "Pemecahan Glukosa dalam Glikolisis",
+        "teks": [
+          "Sa-tu mo-le-kul *glu-ko-sa* me-mi-li-ki e-nam a-tom kar-bon.",
+          "*Glu-ko-sa* di-pem-ecah me-n-ja-di dua mo-le-kul *a-sam pi-ru-vat*.",
+          "Se-ti-ap *a-sam pi-ru-vat* me-mi-li-ki ti-ga a-tom kar-bon."
+        ],
+        "diagram": [
+          {
+            "label": "1 *glu-ko-sa* (6C)",
+            "emoji": "🟢"
+          },
+          {
+            "label": "Pem-e-cah-an",
+            "emoji": "✂️"
+          },
+          {
+            "label": "2 *a-sam pi-ru-vat* (3C)",
+            "emoji": "🟡",
+            "aksen": true
+          }
+        ],
+        "id": 27
+      },
+      {
+        "judulKartu": "Hasil Energi Glikolisis",
+        "teks": [
+          "Sel meng-in-ves-ta-si-kan dua *a-t-p* pada a-wal pro-ses.",
+          "Tah-ap i-ni me-n-g-ha-sil-kan em-pat *a-t-p* se-ca-ra kotor.",
+          "Ke-un-tung-an ber-sih-nya a-da-lah dua *a-t-p* dan dua *n-a-d-h*."
+        ],
+        "diagram": [
+          {
+            "label": "In-ves-ta-si 2 *a-t-p*",
+            "emoji": "📉"
+          },
+          {
+            "label": "Ha-sil 4 *a-t-p*",
+            "emoji": "📈"
+          },
+          {
+            "label": "Ber-sih 2 *a-t-p* + 2 *n-a-d-h*",
+            "emoji": "🎁",
+            "energi": true
+          }
+        ],
+        "id": 28
+      },
+      {
+        "judulKartu": "Pengertian Dekarboksilasi Oksidatif",
+        "teks": [
+          "Dua mo-le-kul *a-sam pi-ru-vat* ma-suk ke *mit-o-kon-dri-a*.",
+          "Tah-ap i-ni ber-lang-sung di da-lam *mat-riks mit-o-kon-dri-a*.",
+          "Tah-ap i-ni di-se-but *de-kar-bok-si-la-si ok-si-da-tif*."
+        ],
+        "diagram": [
+          {
+            "label": "*a-sam pi-ru-vat*",
+            "emoji": "🟡"
+          },
+          {
+            "label": "Ma-suk *mat-riks mit-o-kon-dri-a*",
+            "emoji": "🚪"
+          },
+          {
+            "label": "*de-kar-bok-si-la-si ok-si-da-tif*",
+            "emoji": "⚙️",
+            "aksen": true
+          }
+        ],
+        "id": 29
+      },
+      {
+        "judulKartu": "Hasil Dekarboksilasi Oksidatif",
+        "teks": [
+          "Se-ti-ap *a-sam pi-ru-vat* me-le-pas-kan sa-tu kar-bon di-ok-si-da.",
+          "Si-sa dua kar-bon di-i-kat *ko-en-zim a* me-n-ja-di *a-set-il ko-a*.",
+          "Total ha-sil a-da-lah dua *a-set-il ko-a* dan dua *n-a-d-h*."
+        ],
+        "diagram": [
+          {
+            "label": "*a-sam pi-ru-vat* (3C)",
+            "emoji": "🟡"
+          },
+          {
+            "label": "Le-pas CO2 + *n-a-d-h*",
+            "emoji": "💨"
+          },
+          {
+            "label": "2 *a-set-il ko-a* (2C)",
+            "emoji": "🔑",
+            "energi": true
+          }
+        ],
+        "id": 30
+      },
+      {
+        "judulKartu": "Pengertian Siklus Krebs",
+        "teks": [
+          "*Sik-lus krebs* di-se-but ju-ga sik-lus *a-sam sit-rat*.",
+          "Tah-ap i-ni di-na-ma-i se-su-ai pe-ne-mu-nya yaitu Hans Krebs.",
+          "Tah-ap i-ni ber-lang-sung di da-lam *mat-riks mit-o-kon-dri-a*."
+        ],
+        "diagram": [
+          {
+            "label": "*a-set-il ko-a*",
+            "emoji": "🔑"
+          },
+          {
+            "label": "*mat-riks mit-o-kon-dri-a*",
+            "emoji": "📍"
+          },
+          {
+            "label": "*Sik-lus krebs*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 31
+      },
+      {
+        "judulKartu": "Pembentukan Asam Sitrat",
+        "teks": [
+          "*A-set-il ko-a* me-mi-li-ki dua a-tom kar-bon.",
+          "*A-set-il ko-a* ber-ga-bung de-ngan se-nya-wa em-pat kar-bon.",
+          "Peng-ga-bung-an i-ni me-n-g-ha-sil-kan *a-sam sit-rat* e-nam kar-bon."
+        ],
+        "diagram": [
+          {
+            "label": "*a-set-il ko-a* (2C)",
+            "emoji": "🔑"
+          },
+          {
+            "label": "Se-nya-wa (4C)",
+            "emoji": "🔹"
+          },
+          {
+            "label": "*a-sam sit-rat* (6C)",
+            "emoji": "🍊",
+            "aksen": true
+          }
+        ],
+        "id": 32
+      },
+      {
+        "judulKartu": "Hasil Putaran Siklus Krebs",
+        "teks": [
+          "*Sik-lus krebs* ber-pu-tar dua ka-li un-tuk sa-tu *glu-ko-sa*.",
+          "Se-ti-ap pu-tar-an me-le-pas-kan dua kar-bon di-ok-si-da.",
+          "Total ha-sil a-da-lah e-nam *n-a-d-h*, dua *f-a-d-h2*, dan dua *a-t-p*."
+        ],
+        "diagram": [
+          {
+            "label": "2 Pu-tar-an Sik-lus",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Pe-le-pas-an 4 CO2",
+            "emoji": "💨"
+          },
+          {
+            "label": "6 *n-a-d-h* + 2 *f-a-d-h2* + 2 *a-t-p*",
+            "emoji": "🎁",
+            "energi": true
+          }
+        ],
+        "id": 33
+      },
+      {
+        "judulKartu": "Lokasi dan Peran Transpor Elektron",
+        "teks": [
+          "*Trans-por e-lek-tron* me-ru-pa-kan tah-ap a-khir *res-pi-ra-si a-e-rob*.",
+          "Tah-ap i-ni ber-lang-sung pada mem-bran da-lam *kris-ta mit-o-kon-dri-a*.",
+          "Tah-ap i-ni me-n-g-ha-sil-kan *a-t-p* da-lam ju-mlah ter-ba-nyak."
+        ],
+        "diagram": [
+          {
+            "label": "Mem-bran *kris-ta*",
+            "emoji": "📍"
+          },
+          {
+            "label": "*Trans-por e-lek-tron*",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Ha-sil *a-t-p* Ter-ba-nyak",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 34
+      },
+      {
+        "judulKartu": "Aliran Elektron dan Pompa Ion Hidrogen",
+        "teks": [
+          "*N-a-d-h* dan *f-a-d-h2* me-le-pas-kan e-lek-tron ber-e-ner-gi ting-gi.",
+          "E-lek-tron di-a-lir-kan me-la-lu-i pro-te-in mem-bran.",
+          "A-lir-an e-lek-tron me-mom-pa i-on hi-dro-gen ke-lu-ar *mat-riks*."
+        ],
+        "diagram": [
+          {
+            "label": "*n-a-d-h* / *f-a-d-h2*",
+            "emoji": "📦"
+          },
+          {
+            "label": "A-lir-an E-lek-tron",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Pom-pa I-on Hi-dro-gen",
+            "emoji": "⬆️",
+            "aksen": true
+          }
+        ],
+        "id": 35
+      },
+      {
+        "judulKartu": "Kemiosmosis dan ATP Sintase",
+        "teks": [
+          "Per-be-da-an kon-sen-tra-si i-on hi-dro-gen ter-ja-di di mem-bran.",
+          "En-zim *a-t-p sin-ta-se* me-man-fa-at-kan per-be-da-an i-on ter-se-but.",
+          "Pro-ses *ke-mi-os-mo-sis* i-ni me-n-g-ha-sil-kan ju-mlah be-sar *a-t-p*."
+        ],
+        "diagram": [
+          {
+            "label": "Beda Kon-sen-tra-si I-on",
+            "emoji": "📊"
+          },
+          {
+            "label": "En-zim *a-t-p sin-ta-se*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "Pro-ses *ke-mi-os-mo-sis*",
+            "emoji": "💧"
+          },
+          {
+            "label": "Ju-mlah Be-sar *a-t-p*",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 36
+      },
+      {
+        "judulKartu": "Peran Oksigen dalam Transpor Elektron",
+        "teks": [
+          "Ok-si-gen ber-pe-ran se-ba-ga-i pe-ne-ri-ma e-lek-tron ter-a-khir.",
+          "Ok-si-gen ber-ga-bung de-ngan e-lek-tron dan i-on hi-dro-gen.",
+          "Peng-ga-bung-an i-ni me-n-g-ha-sil-kan mo-le-kul air."
+        ],
+        "diagram": [
+          {
+            "label": "E-lek-tron + I-on H+",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Ok-si-gen (Pe-ne-ri-ma)",
+            "emoji": "🧲"
+          },
+          {
+            "label": "Mo-le-kul Air (H2O)",
+            "emoji": "💧",
+            "aksen": true
+          }
+        ],
+        "id": 37
+      },
+      {
+        "judulKartu": "Total Hasil Respirasi Aerob",
+        "teks": [
+          "Tan-pa ok-si-gen, rantai *trans-por e-lek-tron* a-kan ter-hen-ti.",
+          "Sa-tu *glu-ko-sa* me-n-g-ha-sil-kan 36 hing-ga 38 *a-t-p*.",
+          "Ha-sil i-ni jauh le-bih ter-ba-nyak da-ri-pa-da *gli-ko-li-sis* sa-ja."
+        ],
+        "diagram": [
+          {
+            "label": "1 *glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "4 Tah-ap *a-e-rob*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "36 - 38 *a-t-p*",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 38
+      },
+      {
+        "judulKartu": "Pengertian Fermentasi",
+        "teks": [
+          "*Fer-men-ta-si* ter-ja-di saat keter-se-di-a-an ok-si-gen ter-ba-tas.",
+          "Sel ti-dak da-pat me-lan-jut-kan ke tah-ap *sik-lus krebs*.",
+          "Sel me-mper-o-leh e-ner-gi ha-nya me-la-lu-i pro-ses *gli-ko-li-sis*."
+        ],
+        "diagram": [
+          {
+            "label": "Ok-si-gen Ter-ba-tas",
+            "emoji": "⚠️"
+          },
+          {
+            "label": "Ha-nya *gli-ko-li-sis*",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Pro-ses *fer-men-ta-si*",
+            "emoji": "🧪",
+            "aksen": true
+          }
+        ],
+        "id": 39
+      },
+      {
+        "judulKartu": "Hasil Energi dan Fungsi Fermentasi",
+        "teks": [
+          "*Fer-men-ta-si* ha-nya me-n-g-ha-sil-kan dua *a-t-p* per *glu-ko-sa*.",
+          "Pro-ses i-ni pen-ting un-tuk me-re-ge-ne-ra-si *n-a-d-plus*.",
+          "*N-a-d-plus* di-bu-tuh-kan a-gar *gli-ko-li-sis* ter-us ber-lang-sung."
+        ],
+        "diagram": [
+          {
+            "label": "*Fer-men-ta-si*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Ha-sil 2 *a-t-p*",
+            "emoji": "🔋",
+            "energi": true
+          },
+          {
+            "label": "Re-ge-ne-ra-si *n-a-d-plus*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 40
+      },
+      {
+        "judulKartu": "Fermentasi Asam Laktat pada Otot",
+        "teks": [
+          "*Fer-men-ta-si a-sam lak-tat* ter-ja-di pada sel o-tot ma-nu-si-a.",
+          "*A-sam pi-ru-vat* ha-sil *gli-ko-li-sis* di-u-bah me-n-ja-di *a-sam lak-tat*.",
+          "Pro-ses i-ni me-re-ge-ne-ra-si *n-a-d-plus* da-lam sel o-tot."
+        ],
+        "diagram": [
+          {
+            "label": "*a-sam pi-ru-vat*",
+            "emoji": "🟡"
+          },
+          {
+            "label": "Kur-ang Ok-si-gen",
+            "emoji": "⚠️"
+          },
+          {
+            "label": "*a-sam lak-tat*",
+            "emoji": "🥛",
+            "aksen": true
+          }
+        ],
+        "id": 41
+      },
+      {
+        "judulKartu": "Dampak dan Pemulihan Asam Laktat",
+        "teks": [
+          "Pe-num-puk-an *a-sam lak-tat* me-n-ye-bab-kan o-tot te-ra-sa pe-gal.",
+          "O-tot ju-ga me-ra-sa-kan pa-nas dan le-lah se-te-lah o-lah-ra-ga.",
+          "Saat ok-si-gen cu-kup, *a-sam lak-tat* di-u-bah kem-ba-li di ha-ti."
+        ],
+        "diagram": [
+          {
+            "label": "Pe-num-puk-an *a-sam lak-tat*",
+            "emoji": "⚠️"
+          },
+          {
+            "label": "O-tot Pe-gal & Le-lah",
+            "emoji": "😫"
+          },
+          {
+            "label": "Di-ang-kut ke Ha-ti",
+            "emoji": "🏢"
+          },
+          {
+            "label": "Di-u-bah me-n-ja-di *glu-ko-sa*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 42
+      },
+      {
+        "judulKartu": "Fermentasi Alkohol",
+        "teks": [
+          "*Fer-men-ta-si al-ko-hol* ter-ja-di pada ra-gi a-tau *kham-ir*.",
+          "Pro-ses i-ni ju-ga ter-ja-di pada be-be-ra-pa *mi-kro-or-ga-nis-me*.",
+          "Tah-ap i-ni mem-pro-duksi e-ner-gi tan-pa me-mbu-tuh-kan ok-si-gen."
+        ],
+        "diagram": [
+          {
+            "label": "Sel Ra-gi / *kham-ir*",
+            "emoji": "🧫"
+          },
+          {
+            "label": "*Fer-men-ta-si al-ko-hol*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "E-ner-gi Tan-pa Ok-si-gen",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 43
+      },
+      {
+        "judulKartu": "Fer-men-ta-si Al-ko-hol",
+        "teks": [
+          "A-sam pi-ru-vat di-u-bah men-ja-di e-ta-nol dan me-le-pas-kan kar-bon di-ok-si-da.",
+          "Pro-ses i-ni me-nyang-kut re-ge-ne-ra-si *NAD⁺* da-lam sel.",
+          "Gas kar-bon di-ok-si-da mem-bu-at a-do-nan ro-ti me-ngem-bang."
+        ],
+        "diagram": [
+          {
+            "label": "A-sam pi-ru-vat",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Le-pas kar-bon di-ok-si-da",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "E-ta-nol dan *NAD⁺*",
+            "emoji": "🧪"
+          }
+        ],
+        "id": 44
+      },
+      {
+        "judulKartu": "Peng-er-ti-an *Fo-to-sin-te-sis*",
+        "teks": [
+          "*Fo-to-sin-te-sis* me-ru-pa-kan pro-ses *a-na-bo-lis-me* pa-da tum-bu-han.",
+          "Tum-bu-han mem-bu-at glu-ko-sa da-ri a-ir dan kar-bon di-ok-si-da.",
+          "Pro-ses i-ni me-nggu-na-kan e-ner-gi ca-ha-ya ma-ta-ha-ri."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya + A-ir + CO2",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Pro-ses *Fo-to-sin-te-sis*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Glu-ko-sa + Ok-si-gen",
+            "emoji": "🌱"
+          }
+        ],
+        "id": 45
+      },
+      {
+        "judulKartu": "*Klo-ro-plas* dan *Klo-ro-fil*",
+        "teks": [
+          "*Fo-to-sin-te-sis* ber-lang-sung di da-lam or-ga-nel *klo-ro-plas*.",
+          "*Klo-ro-fil* a-da-lah pig-men hi-jau da-lam *klo-ro-plas*.",
+          "*Klo-ro-fil* me-nye-rap ca-ha-ya me-rah dan bi-ru la-lu me-man-tul-kan hi-jau."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya Ma-ta-ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Di-se-rap *Klo-ro-fil*",
+            "emoji": "🍃",
+            "aksen": true
+          },
+          {
+            "label": "Ter-ja-di di *Klo-ro-plas*",
+            "emoji": "🟢"
+          }
+        ],
+        "id": 46
+      },
+      {
+        "judulKartu": "Re-ak-si Te-rang",
+        "teks": [
+          "Re-ak-si te-rang ber-lang-sung di da-lam mem-bran *ti-la-ko-id*.",
+          "Ca-ha-ya ma-ta-ha-ri me-nye-bab-kan pro-ses *fo-to-li-sis* a-ir.",
+          "Pro-ses i-ni me-ngha-sil-kan *ATP*, *NADPH*, dan ok-si-gen."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya + A-ir",
+            "emoji": "💧"
+          },
+          {
+            "label": "*Fo-to-li-sis* di *Ti-la-ko-id*",
+            "emoji": "⚡",
+            "aksen": true
+          },
+          {
+            "label": "*ATP* + *NADPH* + Ok-si-gen",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 47
+      },
+      {
+        "judulKartu": "Re-ak-si Ge-lap (*Sik-lus Cal-vin*)",
+        "teks": [
+          "Re-ak-si ge-lap ber-lang-sung di da-lam *stro-ma* *klo-ro-plas*.",
+          "Pro-ses i-ni me-nggu-na-kan *ATP* dan *NADPH* da-ri re-ak-si te-rang.",
+          "Re-ak-si i-ni me-ngu-bah kar-bon di-ok-si-da men-ja-di gu-la *G3P*."
+        ],
+        "diagram": [
+          {
+            "label": "CO2 + *ATP* + *NADPH*",
+            "emoji": "🔷"
+          },
+          {
+            "label": "*Sik-lus Cal-vin* di *Stro-ma*",
+            "emoji": "🔄",
+            "aksen": true
+          },
+          {
+            "label": "Gu-la *G3P*",
+            "emoji": "🍬"
+          }
+        ],
+        "id": 48
+      },
+      {
+        "judulKartu": "Ta-hap-an *Sik-lus Cal-vin*",
+        "teks": [
+          "Ta-hap per-ta-ma a-da-lah fik-sa-si kar-bon o-leh mo-le-kul *RuBP*.",
+          "Ta-hap ke-du-a a-da-lah re-duk-si men-ja-di gu-la *G3P*.",
+          "Ta-hap ke-ti-ga a-da-lah re-ge-ne-ra-si ke-m-ba-li mo-le-kul *RuBP*."
+        ],
+        "diagram": [
+          {
+            "label": "Fik-sa-si Kar-bon *RuBP*",
+            "emoji": "🔹"
+          },
+          {
+            "label": "Re-duk-si men-ja-di *G3P*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Re-ge-ne-ra-si *RuBP*",
+            "emoji": "🔄"
+          }
+        ],
+        "id": 49
+      },
+      {
+        "judulKartu": "*Fo-to-res-pi-ra-si*",
+        "teks": [
+          "*Fo-to-res-pi-ra-si* me-ru-pa-kan pro-ses yang me-ru-gi-kan tum-bu-han.",
+          "Tum-bu-han me-nu-tup *sto-ma-ta* saat cu-a-ca pa-nas dan ke-ring.",
+          "En-zim *RuBisCO* ma-lah me-ngi-kat ok-si-gen bu-kan kar-bon di-ok-si-da."
+        ],
+        "diagram": [
+          {
+            "label": "Cu-a-ca Pa-nas dan Ke-ring",
+            "emoji": "☀️"
+          },
+          {
+            "label": "*Sto-ma-ta* Me-nu-tup",
+            "emoji": "🚪"
+          },
+          {
+            "label": "*RuBisCO* I-kat Ok-si-gen",
+            "emoji": "⚠️",
+            "aksen": true
+          },
+          {
+            "label": "Bor-os E-ner-gi",
+            "emoji": "❌"
+          }
+        ],
+        "id": 50
+      },
+      {
+        "judulKartu": "Tum-bu-han C3",
+        "teks": [
+          "Tum-bu-han C3 mem-ben-tuk se-nya-wa ti-ga kar-bon da-ri fik-sa-si.",
+          "Con-toh tum-bu-han C3 a-da-lah pa-di, gan-dum, dan ke-de-lai.",
+          "Tum-bu-han i-ni pa-ling ren-tan me-nga-la-mi *fo-to-res-pi-ra-si*."
+        ],
+        "diagram": [
+          {
+            "label": "Kar-bon Di-ok-si-da",
+            "emoji": "🔷"
+          },
+          {
+            "label": "Fik-sa-si *Sik-lus Cal-vin*",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Se-nya-wa *3-fos-fo-gli-se-rat*",
+            "emoji": "🌿"
+          }
+        ],
+        "id": 51
+      },
+      {
+        "judulKartu": "Tum-bu-han C4",
+        "teks": [
+          "Tum-bu-han C4 mem-ben-tuk *ok-sa-lo-a-se-tat* ber-kar-bon em-pat.",
+          "En-zim *PEP kar-bok-si-la-se* me-ngi-kat kar-bon di sel *me-so-fil*.",
+          "Kar-bon di-le-pas ke sel se-lu-dang un-tuk *Sik-lus Cal-vin*."
+        ],
+        "diagram": [
+          {
+            "label": "Sel *Me-so-fil*: Fik-sa-si *PEP*",
+            "emoji": "🍃"
+          },
+          {
+            "label": "*Ok-sa-lo-a-se-tat* 4-Kar-bon",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "Sel Se-lu-dang: *Sik-lus Cal-vin*",
+            "emoji": "🌾"
+          }
+        ],
+        "id": 52
+      },
+      {
+        "judulKartu": "Tum-bu-han *CAM*",
+        "teks": [
+          "Tum-bu-han *CAM* me-mbu-ka *sto-ma-ta* ha-nya pa-da ma-lam ha-ri.",
+          "Kar-bon di-ok-si-da di-sim-pan da-lam *va-ku-o-la* se-ba-gai a-sam or-ga-nik.",
+          "Pa-da si-ang ha-ri, kar-bon di-ok-si-da di-le-pas un-tuk *Sik-lus Cal-vin*."
+        ],
+        "diagram": [
+          {
+            "label": "Ma-lam: Bu-ka *Sto-ma-ta*",
+            "emoji": "🌙"
+          },
+          {
+            "label": "Sim-pan A-sam di *Va-ku-o-la*",
+            "emoji": "📦",
+            "aksen": true
+          },
+          {
+            "label": "Si-ang: *Sik-lus Cal-vin*",
+            "emoji": "☀️"
+          }
+        ],
+        "id": 53
+      },
+      {
+        "judulKartu": "Hu-bu-ngan *Ka-ta-bo-lis-me* dan *A-na-bo-lis-me*",
+        "teks": [
+          "*Ka-ta-bo-lis-me* me-ngha-sil-kan e-ner-gi *ATP* da-ri res-pi-ra-si.",
+          "E-ner-gi *ATP* di-gu-na-kan un-tuk pro-ses *a-na-bo-lis-me* sel.",
+          "Ha-sil *a-na-bo-lis-me* di-bong-kar ke-m-ba-li o-leh *ka-ta-bo-lis-me*."
+        ],
+        "diagram": [
+          {
+            "label": "*A-na-bo-lis-me* Bi-kin Glu-ko-sa",
+            "emoji": "🌱"
+          },
+          {
+            "label": "*Ka-ta-bo-lis-me* Ha-sil-kan *ATP*",
+            "emoji": "⚡",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Un-tuk Ak-ti-vi-tas Sel",
+            "emoji": "🔄",
+            "energi": true
+          }
+        ],
+        "id": 54
+      },
+      {
+        "judulKartu": "Con-toh Me-ta-bo-lis-me Se-ha-ri-ha-ri",
+        "teks": [
+          "Pe-gal se-te-lah ol-ah-ra-ga ter-ja-di a-ki-bat fer-men-ta-si a-sam lak-tat.",
+          "Fer-men-ta-si ra-gi di-gu-na-kan pa-da pem-bu-a-tan ta-pai dan ro-ti.",
+          "*Fo-to-sin-te-sis* me-n-ja-ga ke-se-im-ba-ngan gas di at-mos-fer bu-mi."
+        ],
+        "diagram": [
+          {
+            "label": "Fer-men-ta-si A-sam Lak-tat",
+            "emoji": "🏃"
+          },
+          {
+            "label": "Fer-men-ta-si Ta-pai dan Ro-ti",
+            "emoji": "🍞",
+            "aksen": true
+          },
+          {
+            "label": "Ke-se-im-ba-ngan Gas At-mos-fer",
+            "emoji": "🌍"
+          }
+        ],
+        "id": 55
+      },
+      {
+        "id": 56,
+        "judulKartu": "Ringkasan",
+        "teks": [
+          "Se-la-mat! Ka-mu te-lah me-nye-le-sai-kan se-lu-ruh ma-te-ri i-ni.",
+          "Si-lah-kan lan-jut ke se-si e-va-lu-a-si un-tuk meng-u-ji pe-ma-ha-man-mu."
+        ],
+        "diagram": []
+      }
+    ],
+    "kuis": [
+      {
+        "soal": "A-pa yang di-se-but de-ngan pro-ses *ka-ta-bo-lis-me* di da-lam sel?",
+        "opsi": [
+          "Pro-ses mem-ba-ngun mo-le-kul be-sar da-ri mo-le-kul ke-cil.",
+          "Pro-ses mem-bong-kar mo-le-kul be-sar me-nja-di mo-le-kul ke-cil un-tuk me-le-pas-kan e-ner-gi.",
+          "Pro-ses me-nyim-pan gas ok-si-gen di da-lam *va-ku-o-la*.",
+          "Pro-ses mem-bu-ka *sto-ma-ta* pa-da ma-lam ha-ri."
+        ],
+        "jawaban": 1
+      },
+      {
+        "soal": "Ta-hap ma-na-kah da-lam *res-pi-ra-si a-e-rob* yang me-ngha-sil-kan mo-le-kul e-ner-gi *A-T-P* pa-ling ba-nyak?",
+        "opsi": [
+          "*Gli-ko-li-sis*",
+          "*De-kar-bok-si-la-si ok-si-da-tif*",
+          "*Sik-lus Krebs*",
+          "*Trans-por e-lek-tron*"
+        ],
+        "jawaban": 3
+      },
+      {
+        "soal": "A-pa yang me-nge-bab-kan o-tot te-ra-sa pe-gal dan le-lah se-te-lah ber-o-lah-ra-ga?",
+        "opsi": [
+          "Pe-num-pu-kan *a-sam lak-tat* a-ki-bat *fer-men-ta-si*.",
+          "Pem-ben-tuk-an gas kar-bon di-ok-si-da da-ri *ra-gi*.",
+          "Pe-nge-lu-ar-an e-ner-gi ca-ha-ya me-la-lu-i *fo-to-sin-te-sis*.",
+          "Pe-ngi-kat-an ok-si-gen o-leh en-zim *RuBisCO*."
+        ],
+        "jawaban": 0
+      },
+      {
+        "soal": "Pro-ses *fo-to-sin-te-sis* pa-da tum-bu-han me-ngu-bah e-ner-gi a-pa me-nja-di e-ner-gi a-pa?",
+        "opsi": [
+          "E-ner-gi ki-mi-a me-nja-di e-ner-gi ca-ha-ya.",
+          "E-ner-gi pan-as me-nja-di e-ner-gi ge-rak.",
+          "E-ner-gi ca-ha-ya me-nja-di e-ner-gi ki-mi-a.",
+          "E-ner-gi lis-trik me-nja-di e-ner-gi ki-mi-a."
+        ],
+        "jawaban": 2
+      },
+      {
+        "soal": "Di ma-na-kah ta-hap *gli-ko-li-sis* ber-lang-sung di da-lam sel?",
+        "opsi": [
+          "Di da-lam *klo-ro-plas*.",
+          "Di da-lam *si-to-plas-ma*.",
+          "Di da-lam *mat-riks mit-o-kon-dri-a*.",
+          "Di da-lam *va-ku-o-la*."
+        ],
+        "jawaban": 1
+      }
+    ],
+    "sumber": "guru"
+  },
+  "04f6306ed29a": {
+    "id": "04f6306ed29a",
+    "judul": "Modul Metabolisme",
+    "tanggal_upload": "2026-09-13T15:16:04.743692",
+    "kartu": [
+      {
+        "judulKartu": "Konsep Dasar Metabolisme",
+        "teks": [
+          "*Me-ta-bo-lis-me* a-da-lah se-lu-ruh re-ak-si ki-mi-a yang ter-ja-di di da-lam sel.",
+          "Pro-ses i-ni me-ngu-bah nu-tri-si men-ja-di *e-ner-gi* dan men-ja-ga ke-hi-du-pan sel."
+        ],
+        "diagram": [
+          {
+            "label": "Nu-tri-si",
+            "emoji": "🥗"
+          },
+          {
+            "label": "Re-ak-si Ki-mi-a",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Sel",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 1
+      },
+      {
+        "judulKartu": "Proses Katabolisme",
+        "teks": [
+          "*Ka-ta-bo-lis-me* a-da-lah pro-ses pem-bong-ka-ran mo-le-kul be-sar men-ja-di mo-le-kul ke-cil.",
+          "Pro-ses i-ni me-le-pas-kan *e-ner-gi* un-tuk ak-ti-vi-tas sel."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Be-sar",
+            "emoji": "📦"
+          },
+          {
+            "label": "Pem-bong-ka-ran",
+            "emoji": "✂️",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Le-pas",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 2
+      },
+      {
+        "judulKartu": "Proses Anabolisme",
+        "teks": [
+          "*A-na-bo-lis-me* a-da-lah pro-ses pem-ba-ngu-nan mo-le-kul ke-cil men-ja-di mo-le-kul be-sar.",
+          "Pro-ses i-ni mem-bu-tuh-kan *e-ner-gi* un-tuk me-nyim-pan *e-ner-gi* da-lam sel."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Ke-cil",
+            "emoji": "🔹"
+          },
+          {
+            "label": "Pem-ba-ngu-nan",
+            "emoji": "🏗️",
+            "aksen": true
+          },
+          {
+            "label": "Mo-le-kul Be-sar",
+            "emoji": "📦",
+            "energi": true
+          }
+        ],
+        "id": 3
+      },
+      {
+        "judulKartu": "Keterkaitan Katabolisme dan Anabolisme",
+        "teks": [
+          "*Ka-ta-bo-lis-me* dan *a-na-bo-lis-me* sa-ling ber-ka-i-tan me-nun-jang sel.",
+          "*E-ner-gi* da-ri *ka-ta-bo-lis-me* di-gu-na-kan un-tuk pro-ses *a-na-bo-lis-me*."
+        ],
+        "diagram": [
+          {
+            "label": "Ka-ta-bo-lis-me",
+            "emoji": "💥"
+          },
+          {
+            "label": "E-ner-gi ATP",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "A-na-bo-lis-me",
+            "emoji": "🌱",
+            "aksen": true
+          }
+        ],
+        "id": 4
+      },
+      {
+        "judulKartu": "Organel Utama Metabolisme",
+        "teks": [
+          "*Mi-to-kon-dri-a* dan *klo-ro-plas* a-da-lah or-ga-nel u-ta-ma *me-ta-bo-lis-me*.",
+          "*Mi-to-kon-dri-a* mem-pro-duk-si *e-ner-gi* dan *klo-ro-plas* mem-bu-at ma-ka-nan."
+        ],
+        "diagram": [
+          {
+            "label": "Klo-ro-plas",
+            "emoji": "🍃"
+          },
+          {
+            "label": "Mi-to-kon-dri-a",
+            "emoji": "🔋",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Sel",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 5
+      },
+      {
+        "judulKartu": "Tahapan Respirasi Aerob",
+        "teks": [
+          "*Res-pi-ra-si* *a-e-rob* me-mi-li-ki em-pat ta-hap u-ta-ma pem-ben-tu-kan *e-ner-gi*.",
+          "Ta-ha-pan ter-se-but a-da-lah *gli-ko-li-sis*, *de-kar-bok-si-la-si* *ok-si-da-tif*, *sik-lus* *krebs*, dan *trans-por* *e-lek-tron*."
+        ],
+        "diagram": [
+          {
+            "label": "Gli-ko-li-sis",
+            "emoji": "🧪"
+          },
+          {
+            "label": "De-kar-bok-si-la-si",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Sik-lus Krebs",
+            "emoji": "🌀"
+          },
+          {
+            "label": "Trans-por E-lek-tron",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 6
+      },
+      {
+        "judulKartu": "Tahap Glikolisis",
+        "teks": [
+          "*Gli-ko-li-sis* a-da-lah ta-hap pem-be-la-han *glu-ko-sa* di da-lam *si-to-plas-ma*.",
+          "Ta-hap i-ni me-nga-sil-kan *a-sam* *pi-ru-vat* dan *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "Glu-ko-sa",
+            "emoji": "🍬"
+          },
+          {
+            "label": "Gli-ko-li-sis",
+            "emoji": "✂️",
+            "aksen": true
+          },
+          {
+            "label": "A-sam Pi-ru-vat + ATP",
+            "emoji": "🧪",
+            "energi": true
+          }
+        ],
+        "id": 7
+      },
+      {
+        "judulKartu": "Tahap Dekarboksilasi Oksidatif",
+        "teks": [
+          "*De-kar-bok-si-la-si* *ok-si-da-tif* me-ngu-bah *a-sam* *pi-ru-vat* men-ja-di *a-se-til* *ko-en-zim* *A*.",
+          "Pro-ses i-ni ter-ja-di di da-lam *mat-riks* *mi-to-kon-dri-a*."
+        ],
+        "diagram": [
+          {
+            "label": "A-sam Pi-ru-vat",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Mat-riks Mi-to-kon-dri-a",
+            "emoji": "🏭",
+            "aksen": true
+          },
+          {
+            "label": "A-se-til Ko-A",
+            "emoji": "🔑"
+          }
+        ],
+        "id": 8
+      },
+      {
+        "judulKartu": "Tahap Siklus Krebs",
+        "teks": [
+          "*Sik-lus* *krebs* mem-pro-ses *a-se-til* *ko-en-zim* *A* di da-lam *mat-riks* *mi-to-kon-dri-a*.",
+          "Pro-ses i-ni me-nga-sil-kan *NADH*, *FADH2*, dan se-di-kit *ATP*."
+        ],
+        "diagram": [
+          {
+            "label": "A-se-til Ko-A",
+            "emoji": "🔑"
+          },
+          {
+            "label": "Sik-lus Krebs",
+            "emoji": "🌀",
+            "aksen": true
+          },
+          {
+            "label": "NADH & FADH2",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 9
+      },
+      {
+        "judulKartu": "Tahap Transpor Elektron",
+        "teks": [
+          "*Trans-por* *e-lek-tron* a-da-lah ta-hap akhir yang me-nga-sil-kan *ATP* ter-be-sar.",
+          "Pro-ses i-ni mem-bu-tuh-kan *ok-si-gen* se-ba-ga-i pe-ne-ri-ma *e-lek-tron* ter-a-khir."
+        ],
+        "diagram": [
+          {
+            "label": "Al-i-ran E-lek-tron",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Ok-si-gen",
+            "emoji": "🌬️",
+            "aksen": true
+          },
+          {
+            "label": "Pro-duk-si ATP",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 10
+      },
+      {
+        "judulKartu": "Respirasi Anaerob dan Fermentasi",
+        "teks": [
+          "*Res-pi-ra-si* *an-a-e-rob* a-tau *fer-men-ta-si* ter-ja-di tan-pa *ok-si-gen*.",
+          "Pro-ses i-ni me-nga-sil-kan *e-ner-gi* yang le-bih se-di-kit di-ban-ding *res-pi-ra-si* *a-e-rob*."
+        ],
+        "diagram": [
+          {
+            "label": "Tan-pa Ok-si-gen",
+            "emoji": "🚫"
+          },
+          {
+            "label": "Fer-men-ta-si",
+            "emoji": "⚙️",
+            "aksen": true
+          },
+          {
+            "label": "E-ner-gi Se-di-kit",
+            "emoji": "🔋"
+          }
+        ],
+        "id": 11
+      },
+      {
+        "judulKartu": "Fermentasi Asam Laktat",
+        "teks": [
+          "*Fer-men-ta-si* *a-sam* *lak-tat* ter-ja-di pada sel o-tot saat o-lah-ra-ga be-rat.",
+          "Pe-num-pu-kan *a-sam* *lak-tat* me-nye-bab-kan o-tot ter-a-sa pe-gal dan le-lah."
+        ],
+        "diagram": [
+          {
+            "label": "O-lah-ra-ga Be-rat",
+            "emoji": "🏃"
+          },
+          {
+            "label": "A-sam Lak-tat",
+            "emoji": "🧪",
+            "aksen": true
+          },
+          {
+            "label": "O-tot Pe-gal",
+            "emoji": "🦵"
+          }
+        ],
+        "id": 12
+      },
+      {
+        "judulKartu": "Fermentasi Alkohol",
+        "teks": [
+          "*Fer-men-ta-si* *al-ko-hol* di-la-ku-kan o-leh ra-gi a-tau mi-kro-or-ga-nis-me.",
+          "Pro-ses i-ni me-nga-sil-kan *e-ta-nol* dan gas *kar-bon* *di-ok-si-da*."
+        ],
+        "diagram": [
+          {
+            "label": "Glu-ko-sa",
+            "emoji": "🍬"
+          },
+          {
+            "label": "Ra-gi",
+            "emoji": "🧫",
+            "aksen": true
+          },
+          {
+            "label": "E-ta-nol & CO2",
+            "emoji": "🍾"
+          }
+        ],
+        "id": 13
+      },
+      {
+        "judulKartu": "Fotosintesis: Reaksi Terang",
+        "teks": [
+          "*Re-ak-si* *te-rang* mem-bu-tuh-kan ca-ha-ya ma-ta-ha-ri di da-lam *ti-la-ko-id*.",
+          "Ta-hap i-ni me-nga-sil-kan *ok-si-gen*, *ATP*, dan *NADPH*."
+        ],
+        "diagram": [
+          {
+            "label": "Ca-ha-ya Ma-ta-ha-ri",
+            "emoji": "☀️"
+          },
+          {
+            "label": "Ti-la-ko-id",
+            "emoji": "🍃",
+            "aksen": true
+          },
+          {
+            "label": "Ok-si-gen & ATP",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 14
+      },
+      {
+        "judulKartu": "Fotosintesis: Reaksi Gelap",
+        "teks": [
+          "*Re-ak-si* *ge-lap* ter-ja-di di da-lam *stro-ma* tan-pa ca-ha-ya lang-sung.",
+          "Ta-hap i-ni me-ngu-bah *kar-bon* *di-ok-si-da* men-ja-di *glu-ko-sa*."
+        ],
+        "diagram": [
+          {
+            "label": "Kar-bon Di-ok-si-da",
+            "emoji": "🌫️"
+          },
+          {
+            "label": "Stro-ma",
+            "emoji": "🍃",
+            "aksen": true
+          },
+          {
+            "label": "Glu-ko-sa",
+            "emoji": "🍬",
+            "energi": true
+          }
+        ],
+        "id": 15
+      },
+      {
+        "judulKartu": "Tumbuhan C3, C4, dan CAM",
+        "teks": [
+          "Tum-bu-han mem-pu-nyai stra-te-gi *a-dap-ta-si* *fo-to-sin-te-sis* yang ber-be-da.",
+          "Tum-bu-han *C3*, *C4*, dan *CAM* me-nye-su-ai-kan diri de-ngan ling-ku-ngan."
+        ],
+        "diagram": [
+          {
+            "label": "Tum-bu-han C3",
+            "emoji": "🌱"
+          },
+          {
+            "label": "Tum-bu-han C4",
+            "emoji": "🌽"
+          },
+          {
+            "label": "Tum-bu-han CAM",
+            "emoji": "🌵"
+          }
+        ],
+        "id": 16
+      },
+      {
+        "judulKartu": "Pengertian Metabolisme",
+        "teks": [
+          "Sel me-la-ku-kan ri-bu-an re-ak-si ki-mi-a se-ti-ap de-tik.",
+          "Ke-se-lu-ru-han re-ak-si ki-mi-a i-ni di-se-but *me-ta-bo-lis-me*.",
+          "Ka-ta i-ni ber-a-sal da-ri ba-ha-sa Yu-na-ni yang ber-ar-ti pe-ru-ba-han."
+        ],
+        "diagram": [
+          {
+            "label": "Sel",
+            "emoji": "🧫"
+          },
+          {
+            "label": "Re-ak-si Ki-mi-a",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "*Me-ta-bo-lis-me*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 17
+      },
+      {
+        "judulKartu": "Konsep Katabolisme",
+        "teks": [
+          "*Ka-ta-bo-lis-me* a-da-lah pro-ses pem-bong-ka-ran mo-le-kul be-sar me-n-ja-di mo-le-kul ke-cil.",
+          "Pro-ses i-ni mem-be-bas-kan e-ner-gi un-tuk se-lu-ruh ak-ti-vi-tas sel.",
+          "Con-toh-nya se-per-ti mem-bong-kar ru-mah me-n-ja-di tump-uk-an ba-tu ba-ta."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Be-sar",
+            "emoji": "🧱"
+          },
+          {
+            "label": "Pem-bong-ka-ran",
+            "emoji": "💥"
+          },
+          {
+            "label": "Mo-le-kul Ke-cil",
+            "emoji": "🧩"
+          },
+          {
+            "label": "E-ner-gi Be-bas",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 18
+      },
+      {
+        "judulKartu": "Konsep Anabolisme",
+        "teks": [
+          "*A-na-bo-lis-me* a-da-lah pro-ses pe-nyu-su-nan mo-le-kul ke-cil me-n-ja-di mo-le-kul be-sar.",
+          "Pro-ses i-ni mem-bu-tuh-kan dan me-ng-im-pan e-ner-gi da-lam sel.",
+          "Con-toh-nya se-per-ti me-nyu-sun ba-tu ba-ta me-n-ja-di bang-un-an ba-ru."
+        ],
+        "diagram": [
+          {
+            "label": "Mo-le-kul Ke-cil",
+            "emoji": "🧩"
+          },
+          {
+            "label": "E-ner-gi Mas-uk",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Pe-nyu-su-nan",
+            "emoji": "🏗️"
+          },
+          {
+            "label": "Mo-le-kul Be-sar",
+            "emoji": "🏛️",
+            "aksen": true
+          }
+        ],
+        "id": 19
+      },
+      {
+        "judulKartu": "Dua Arah Metabolisme",
+        "teks": [
+          "*Me-ta-bo-lis-me* ter-di-ri da-ri du-a pro-ses yang ber-la-wa-nan a-rah.",
+          "*Ka-ta-bo-lis-me* mem-bong-kar mo-le-kul un-tuk me-lep-as-kan e-ner-gi.",
+          "*A-na-bo-lis-me* me-nyu-sun mo-le-kul de-ngan me-ng-gu-na-kan e-ner-gi."
+        ],
+        "diagram": [
+          {
+            "label": "*Me-ta-bo-lis-me*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "*Ka-ta-bo-lis-me*",
+            "emoji": "💥"
+          },
+          {
+            "label": "*A-na-bo-lis-me*",
+            "emoji": "🏗️"
+          }
+        ],
+        "id": 20
+      },
+      {
+        "judulKartu": "Pengertian Respirasi Sel",
+        "teks": [
+          "*Res-pi-ra-si sel* a-da-lah pro-ses *ka-ta-bo-lis-me* yang mem-bong-kar *glu-ko-sa*.",
+          "Pro-ses i-ni me-ng-ha-sil-kan e-ner-gi da-lam ben-tuk *A-T-P*.",
+          "*A-T-P* ber-pe-ran se-ba-gai ma-ta u-ang e-ner-gi un-tuk ak-ti-vi-tas sel."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "*Res-pi-ra-si Sel*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "*A-T-P*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 21
+      },
+      {
+        "judulKartu": "Reaksi Respirasi Aerob",
+        "teks": [
+          "*Res-pi-ra-si a-e-rob* me-ng-gu-na-kan ok-si-gen un-tuk me-ng-o-lah *glu-ko-sa*.",
+          "Re-ak-si i-ni me-ng-ha-sil-kan kar-bon di-ok-si-da, a-ir, dan *A-T-P*.",
+          "Pro-ses i-ni ber-lang-sung di *si-to-plas-ma* dan *mi-to-kon-dri-a*."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa* + O2",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Re-ak-si *A-e-rob*",
+            "emoji": "🔥"
+          },
+          {
+            "label": "CO2 + H2O + *A-T-P*",
+            "emoji": "💨",
+            "energi": true
+          }
+        ],
+        "id": 22
+      },
+      {
+        "judulKartu": "Pengertian Glikolisis",
+        "teks": [
+          "*Gli-ko-li-sis* ber-ar-ti pe-me-ca-han gu-la da-lam sel.",
+          "Ta-hap i-ni ber-lang-sung di *si-to-plas-ma* dan ti-dak mem-bu-tuh-kan ok-si-gen.",
+          "Sa-tu mo-le-kul *glu-ko-sa* di-u-bah me-n-ja-di du-a mo-le-kul *a-sam pi-ru-vat*."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa* (6C)",
+            "emoji": "🍬"
+          },
+          {
+            "label": "*Si-to-plas-ma*",
+            "emoji": "📍"
+          },
+          {
+            "label": "2 *A-sam Pi-ru-vat* (3C)",
+            "emoji": "🧪",
+            "aksen": true
+          }
+        ],
+        "id": 23
+      },
+      {
+        "judulKartu": "Proses Pemecahan Glukosa",
+        "teks": [
+          "Sa-tu mo-le-kul *glu-ko-sa* me-ng-a-la-mi se-rang-ka-i-an re-ak-si ki-mi-a.",
+          "*Glu-ko-sa* yang me-mi-li-ki e-nam a-tom kar-bon di-pe-cah me-n-ja-di du-a ba-gi-an.",
+          "Ha-sil a-khir da-ri pe-me-ca-han i-ni a-da-lah du-a mo-le-kul *a-sam pi-ru-vat*."
+        ],
+        "diagram": [],
+        "id": 24
+      },
+      {
+        "judulKartu": "Hasil Energi Glikolisis",
+        "teks": [
+          "Sel me-ng-in-ves-ta-si-kan du-a *A-T-P* di a-wal re-ak-si *gli-ko-li-sis*.",
+          "Re-ak-si i-ni me-ng-ha-sil-kan em-pat *A-T-P* dan du-a *N-A-D-H*.",
+          "Ke-un-tung-an ber-sih *A-T-P* da-ri *gli-ko-li-sis* a-da-lah du-a *A-T-P*."
+        ],
+        "diagram": [
+          {
+            "label": "In-ves-ta-si 2 *A-T-P*",
+            "emoji": "📥"
+          },
+          {
+            "label": "Ha-sil 4 *A-T-P*",
+            "emoji": "📤"
+          },
+          {
+            "label": "Ber-sih 2 *A-T-P*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 25
+      },
+      {
+        "judulKartu": "Pengertian Dekarboksilasi Oksidatif",
+        "teks": [
+          "Du-a mo-le-kul *a-sam pi-ru-vat* ma-suk ke *ma-triks mi-to-kon-dri-a*.",
+          "Ta-hap i-ni di-se-but *de-kar-bok-si-la-si ok-si-da-tif*.",
+          "Pro-ses i-ni me-lep-as-kan kar-bon di-ok-si-da dan me-la-ku-kan ok-si-da-si."
+        ],
+        "diagram": [
+          {
+            "label": "*A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*Ma-triks Mi-to-kon-dri-a*",
+            "emoji": "📍"
+          },
+          {
+            "label": "Pe-lep-as-an CO2",
+            "emoji": "💨",
+            "aksen": true
+          }
+        ],
+        "id": 26
+      },
+      {
+        "judulKartu": "Hasil Dekarboksilasi Oksidatif",
+        "teks": [
+          "Se-ti-ap *a-sam pi-ru-vat* me-lep-as-kan sa-tu kar-bon me-n-ja-di kar-bon di-ok-si-da.",
+          "Si-sa mo-le-kul di-i-kat ko-en-zim A mem-ben-tuk *a-se-til Ko-A*.",
+          "Ta-hap i-ni me-ng-ha-sil-kan du-a *a-se-til Ko-A* dan du-a *N-A-D-H*."
+        ],
+        "diagram": [
+          {
+            "label": "*A-sam Pi-ru-vat* (3C)",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Ko-en-zim A",
+            "emoji": "🔗"
+          },
+          {
+            "label": "*A-se-til Ko-A* (2C)",
+            "emoji": "✨",
+            "aksen": true
+          }
+        ],
+        "id": 27
+      },
+      {
+        "judulKartu": "Pengertian Siklus Krebs",
+        "teks": [
+          "*Sik-lus Krebs* di-se-but ju-ga sik-lus a-sam sit-rat.",
+          "Ta-hap i-ni ber-lang-sung di da-lam *ma-triks mi-to-kon-dri-a*.",
+          "Pro-ses i-ni di-mu-lai saat *a-se-til Ko-A* ber-ga-bung mem-ben-tuk *a-sam sit-rat*."
+        ],
+        "diagram": [
+          {
+            "label": "*A-se-til Ko-A*",
+            "emoji": "🔑"
+          },
+          {
+            "label": "Sen-ya-wa 4 Kar-bon",
+            "emoji": "🧩"
+          },
+          {
+            "label": "*A-sam Sit-rat* (6C)",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 28
+      },
+      {
+        "judulKartu": "Proses Siklus Krebs",
+        "teks": [
+          "*A-sam sit-rat* me-la-lu-i de-la-pan re-ak-si ki-mi-a yang ber-pu-tar.",
+          "Sen-ya-wa em-pat kar-bon di-ben-tuk kem-ba-li pa-da a-khir pu-ta-ran.",
+          "Sa-tu mo-le-kul *glu-ko-sa* mem-bu-at *sik-lus Krebs* ber-pu-tar du-a ka-li."
+        ],
+        "diagram": [],
+        "id": 29
+      },
+      {
+        "judulKartu": "Hasil Energi Siklus Krebs",
+        "teks": [
+          "Du-a ka-li pu-ta-ran *sik-lus Krebs* me-lep-as-kan em-pat kar-bon di-ok-si-da.",
+          "Ta-hap i-ni me-ng-ha-sil-kan e-nam *N-A-D-H* dan du-a *F-A-D-H2*.",
+          "*Sik-lus Krebs* ju-ga me-ng-ha-sil-kan du-a *A-T-P* da-lam pro-ses-nya."
+        ],
+        "diagram": [
+          {
+            "label": "2 Pu-ta-ran Sik-lus",
+            "emoji": "🔄"
+          },
+          {
+            "label": "6 *N-A-D-H* + 2 *F-A-D-H2*",
+            "emoji": "🔋"
+          },
+          {
+            "label": "2 *A-T-P*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 30
+      },
+      {
+        "judulKartu": "Lokasi Transpor Elektron",
+        "teks": [
+          "*Trans-por e-lek-tron* a-da-lah ta-hap a-khir *res-pi-ra-si a-e-rob*.",
+          "Ta-hap i-ni ber-lang-sung pa-da *mem-bran da-lam mi-to-kon-dri-a*.",
+          "Mem-bran i-ni ber-li-pat-li-pat mem-ben-tuk *kris-ta* un-tuk me-lu-as-kan a-re-a."
+        ],
+        "diagram": [
+          {
+            "label": "*Mi-to-kon-dri-a*",
+            "emoji": "🏢"
+          },
+          {
+            "label": "*Mem-bran Da-lam*",
+            "emoji": "🧱"
+          },
+          {
+            "label": "*Kris-ta*",
+            "emoji": "🗺️",
+            "aksen": true
+          }
+        ],
+        "id": 31
+      },
+      {
+        "judulKartu": "Aliran Elektron dan Pompa Hidrogen",
+        "teks": [
+          "*N-A-D-H* dan *F-A-D-H2* me-lep-as-kan e-lek-tron ber-e-ner-gi ting-gi.",
+          "E-lek-tron di-a-lir-kan me-la-lu-i pro-te-in pem-ba-wa di mem-bran.",
+          "A-li-ran e-lek-tron mem-pom-pa i-on hi-dro-gen ke lu-ar *ma-triks mi-to-kon-dri-a*."
+        ],
+        "diagram": [
+          {
+            "label": "*N-A-D-H* / *F-A-D-H2*",
+            "emoji": "🔋"
+          },
+          {
+            "label": "Al-ir-an E-lek-tron",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Pom-pa I-on H+",
+            "emoji": "⚓",
+            "aksen": true
+          }
+        ],
+        "id": 32
+      },
+      {
+        "judulKartu": "Kemiosmosis dan ATP Sintase",
+        "teks": [
+          "Per-be-da-an kon-sen-tra-si hi-dro-gen di-ma-n-fa-at-kan o-leh *A-T-P sin-ta-se*.",
+          "En-zim i-ni me-ng-ha-sil-kan *A-T-P* da-lam ju-mlah yang sa-ngat be-sar.",
+          "Me-ka-nis-me pem-ben-tuk-an *A-T-P* i-ni di-se-but *ke-mi-os-mo-sis*."
+        ],
+        "diagram": [
+          {
+            "label": "Beda Kon-sen-tra-si H+",
+            "emoji": "📈"
+          },
+          {
+            "label": "*A-T-P Sin-ta-se*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "*Ke-mi-os-mo-sis*",
+            "emoji": "🌊"
+          },
+          {
+            "label": "*A-T-P* Be-sar",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 33
+      },
+      {
+        "judulKartu": "Oksigen Penerima Elektron Terakhir",
+        "teks": [
+          "Ok-si-gen ber-pe-ran se-ba-gai pe-ne-ri-ma e-lek-tron te-r-a-khir.",
+          "Ok-si-gen ber-ga-bung de-ngan i-on hi-dro-gen mem-ben-tuk a-ir.",
+          "Tan-pa ok-si-gen, me-ka-nis-me *trans-por e-lek-tron* a-kan ter-hen-ti."
+        ],
+        "diagram": [
+          {
+            "label": "E-lek-tron Ter-a-khir",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Ok-si-gen (O2)",
+            "emoji": "🌬️"
+          },
+          {
+            "label": "Mo-le-kul A-ir (H2O)",
+            "emoji": "💧",
+            "aksen": true
+          }
+        ],
+        "id": 34
+      },
+      {
+        "judulKartu": "Total Hasil Respirasi Aerob",
+        "teks": [
+          "Sa-tu mo-le-kul *glu-ko-sa* di-ok-si-da-si se-cur-a sem-pur-na.",
+          "Pro-ses i-ni me-ng-ha-sil-kan se-ki-tar ti-ga pu-luh e-nam hin-g-ga ti-ga pu-luh de-la-pan *A-T-P*.",
+          "Ju-mlah i-ni jauh le-bih be-sar di-ban-ding-kan *gli-ko-li-sis* sa-ja."
+        ],
+        "diagram": [
+          {
+            "label": "1 *Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "4 Ta-hap *A-e-rob*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "36 - 38 *A-T-P*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 35
+      },
+      {
+        "judulKartu": "Pengertian Fermentasi",
+        "teks": [
+          "*Fer-men-ta-si* ter-ja-di saat ku-rang-nya pa-so-kan ok-si-gen.",
+          "Pro-ses i-ni me-ru-pa-kan ben-tuk *res-pi-ra-si a-na-e-rob* pa-da sel.",
+          "Sel ti-dak da-pat me-lan-jut-kan pro-ses ke *sik-lus Krebs* tan-pa ok-si-gen."
+        ],
+        "diagram": [
+          {
+            "label": "Ok-si-gen Ter-ba-tas",
+            "emoji": "⚠️"
+          },
+          {
+            "label": "*Res-pi-ra-si A-na-e-rob*",
+            "emoji": "🚫"
+          },
+          {
+            "label": "*Fer-men-ta-si*",
+            "emoji": "🧪",
+            "aksen": true
+          }
+        ],
+        "id": 36
+      },
+      {
+        "judulKartu": "Hasil Energi Fermentasi",
+        "teks": [
+          "*Fer-men-ta-si* ha-nya me-li-bat-kan ta-hap *gli-ko-li-sis*.",
+          "Pro-ses i-ni me-ng-ha-sil-kan du-a *A-T-P* un-tuk sa-tu mo-le-kul *glu-ko-sa*.",
+          "*Fer-men-ta-si* ber-gu-na me-re-ge-ne-ra-si *N-A-D+* a-gar *gli-ko-li-sis* ter-us ber-jalan."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "*Gli-ko-li-sis*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "2 *A-T-P*",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Re-ge-ne-ra-si *N-A-D+*",
+            "emoji": "🔄"
+          }
+        ],
+        "id": 37
+      },
+      {
+        "judulKartu": "Fermentasi Asam Laktat",
+        "teks": [
+          "*Fer-men-ta-si a-sam lak-tat* ter-ja-di pa-da sel o-tot dan bak-te-ri.",
+          "*A-sam pi-ru-vat* hasil *gli-ko-li-sis* di-u-bah me-n-ja-di *a-sam lak-tat*.",
+          "Pro-ses i-ni me-re-ge-ne-ra-si *N-A-D+* un-tuk mem-bu-at *A-T-P*."
+        ],
+        "diagram": [
+          {
+            "label": "*A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Pro-ses *Fer-men-ta-si*",
+            "emoji": "⚙️"
+          },
+          {
+            "label": "*A-sam Lak-tat*",
+            "emoji": "⚠️",
+            "aksen": true
+          }
+        ],
+        "id": 38
+      },
+      {
+        "judulKartu": "Pengaruh Asam Laktat pada Otot",
+        "teks": [
+          "Pen-um-pu-kan *a-sam lak-tat* me-nge-bab-kan o-tot te-ra-sa pe-gal dan le-lah.",
+          "Hal i-ni ter-ja-di saat ber-o-lah-ra-ga be-rat de-ngan ce-pat.",
+          "Saat ok-si-gen cu-kup, *a-sam lak-tat* di-u-bah kem-ba-li di ha-ti."
+        ],
+        "diagram": [
+          {
+            "label": "Ol-ah-ra-ga Be-rat",
+            "emoji": "🏃"
+          },
+          {
+            "label": "*A-sam Lak-tat* Men-um-puk",
+            "emoji": "⚠️"
+          },
+          {
+            "label": "O-tot Pe-gal",
+            "emoji": "😫"
+          },
+          {
+            "label": "Di-u-bah di Ha-ti",
+            "emoji": "🫀"
+          }
+        ],
+        "id": 39
+      },
+      {
+        "judulKartu": "Fermentasi Alkohol",
+        "teks": [
+          "*Fer-men-ta-si al-ko-hol* ter-ja-di pa-da ra-gi a-tau kham-ir.",
+          "Pro-ses i-ni ju-ga ter-ja-di pa-da be-be-ra-pa mi-kro-or-ga-nis-me lain.",
+          "Pro-ses i-ni me-ng-ha-sil-kan e-ner-gi da-lam kon-di-si tan-pa ok-si-gen."
+        ],
+        "diagram": [
+          {
+            "label": "*Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "Ra-gi / Kham-ir",
+            "emoji": "🧫"
+          },
+          {
+            "label": "*Fer-men-ta-si Al-ko-hol*",
+            "emoji": "🧪",
+            "aksen": true
+          }
+        ],
+        "id": 40
+      },
+      {
+        "judulKartu": "Fer-men-ta-si Al-ko-hol",
+        "teks": [
+          "*A-sam pi-ru-vat* me-le-pas-kan *kar-bon di-ok-si-da* da-lam pro-ses i-ni.",
+          "Se-nya-wa ter-se-but la-lu ber-u-bah me-n-ja-di *e-ta-nol* a-tau al-ko-hol.",
+          "Gas *kar-bon di-ok-si-da* mem-bu-at a-do-nan ro-ti me-ngem-bang dan ta-pai lun-ak."
+        ],
+        "diagram": [
+          {
+            "label": "*A-sam Pi-ru-vat*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Le-pas *CO2*",
+            "emoji": "💨"
+          },
+          {
+            "label": "Ja-di *E-ta-nol*",
+            "emoji": "🍺",
+            "aksen": true
+          }
+        ],
+        "id": 41
+      },
+      {
+        "judulKartu": "Kon-sep *Fo-to-sin-te-sis*",
+        "teks": [
+          "*Fo-to-sin-te-sis* me-ru-pa-kan pro-ses *a-na-bo-lis-me* pa-da tum-bu-han.",
+          "Tum-bu-han me-m-bu-at *glu-ko-sa* da-ri air dan *kar-bon di-ok-si-da*.",
+          "Pro-ses i-ni me-m-bu-tuh-kan en-er-gi ca-ha-ya ma-ta-ha-ri."
+        ],
+        "diagram": [
+          {
+            "label": "Air + *CO2*",
+            "emoji": "💧"
+          },
+          {
+            "label": "Ca-ha-ya Ma-ta-ha-ri",
+            "emoji": "☀️",
+            "energi": true
+          },
+          {
+            "label": "*Glu-ko-sa* + *Ok-si-gen*",
+            "emoji": "🍃",
+            "aksen": true
+          }
+        ],
+        "id": 42
+      },
+      {
+        "judulKartu": "*Klo-ro-plas* dan *Klo-ro-fil*",
+        "teks": [
+          "*Fo-to-sin-te-sis* ber-lang-sung di da-lam or-ga-nel *klo-ro-plas*.",
+          "Pig-men *klo-ro-fil* me-nye-rap ca-ha-ya me-rah dan bi-ru.",
+          "*Klo-ro-fil* me-man-tul-kan ca-ha-ya hi-jau se-hing-ga da-un ber-war-na hi-jau."
+        ],
+        "diagram": [
+          {
+            "label": "*Klo-ro-plas*",
+            "emoji": "🟢"
+          },
+          {
+            "label": "*Klo-ro-fil* Se-rap Ca-ha-ya",
+            "emoji": "☀️",
+            "energi": true
+          },
+          {
+            "label": "Pan-tul-kan War-na Hi-jau",
+            "emoji": "🍃"
+          }
+        ],
+        "id": 43
+      },
+      {
+        "judulKartu": "Re-ak-si Te-rang: *Fo-to-li-sis* Air",
+        "teks": [
+          "Re-ak-si te-rang ber-lang-sung di da-lam mem-bran *ti-la-ko-id*.",
+          "Ca-ha-ya ma-ta-ha-ri me-m-bi-sa-kan mo-le-kul air da-lam pro-ses *fo-to-li-sis*.",
+          "Pro-ses i-ni me-nga-sil-kan *ok-si-gen* yang di-le-pas ke u-da-ra."
+        ],
+        "diagram": [
+          {
+            "label": "Air (H2O)",
+            "emoji": "💧"
+          },
+          {
+            "label": "*Fo-to-li-sis* Ca-ha-ya",
+            "emoji": "⚡",
+            "energi": true
+          },
+          {
+            "label": "Gas *Ok-si-gen* (O2)",
+            "emoji": "💨",
+            "aksen": true
+          }
+        ],
+        "id": 44
+      },
+      {
+        "judulKartu": "Re-ak-si Te-rang: Pem-ben-tuk *A-T-P*",
+        "teks": [
+          "Ca-ha-ya ma-ta-ha-ri me-ngu-bah en-er-gi me-n-ja-di en-er-gi ki-mi-a.",
+          "Al-i-ran *e-lek-tron* mem-ben-tuk mo-le-kul *A-T-P* dan *N-A-D-P-H*.",
+          "Ked-ua mo-le-kul i-ni a-kan di-gu-na-kan pa-da re-ak-si ge-lap."
+        ],
+        "diagram": [
+          {
+            "label": "Al-i-ran *E-lek-tron*",
+            "emoji": "⚡"
+          },
+          {
+            "label": "Ben-tuk *A-T-P* & *N-A-D-P-H*",
+            "emoji": "🔋",
+            "energi": true
+          }
+        ],
+        "id": 45
+      },
+      {
+        "judulKartu": "Re-ak-si Ge-lap (*Sik-lus Cal-vin*)",
+        "teks": [
+          "Re-ak-si ge-lap ber-lang-sung di da-lam *stro-ma* *klo-ro-plas*.",
+          "Tah-ap i-ni ti-dak me-m-bu-tuh-kan ca-ha-ya ma-ta-ha-ri se-ca-ra lang-sung.",
+          "Re-ak-si me-m-bu-tuh-kan *A-T-P* dan *N-A-D-P-H* da-ri re-ak-si te-rang."
+        ],
+        "diagram": [
+          {
+            "label": "*Stro-ma* *Klo-ro-plas*",
+            "emoji": "💧"
+          },
+          {
+            "label": "Ma-suk *A-T-P* & *N-A-D-P-H*",
+            "emoji": "🔋",
+            "energi": true
+          },
+          {
+            "label": "Pro-ses *Sik-lus Cal-vin*",
+            "emoji": "🔄",
+            "aksen": true
+          }
+        ],
+        "id": 46
+      },
+      {
+        "judulKartu": "Tah-ap-an *Sik-lus Cal-vin*",
+        "teks": [
+          "*Fik-sa-si kar-bon* me-ngi-kat *kar-bon di-ok-si-da* de-ngan *R-u-B-P* dan *Ru-Bis-C-O*.",
+          "Tah-ap *re-duk-si* me-ngu-bah se-nya-wa ter-se-but me-n-ja-di *G-3-P*.",
+          "*Re-ge-ne-ra-si* mem-ben-tuk kem-ba-li *R-u-B-P* un-tuk me-m-buat *glu-ko-sa*."
+        ],
+        "diagram": [
+          {
+            "label": "*Fik-sa-si Kar-bon*",
+            "emoji": "📌"
+          },
+          {
+            "label": "*Re-duk-si* me-n-ja-di *G-3-P*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "*Re-ge-ne-ra-si Ru-BP*",
+            "emoji": "🔄"
+          },
+          {
+            "label": "Ha-sil-kan *Glu-ko-sa*",
+            "emoji": "🍬",
+            "aksen": true
+          }
+        ],
+        "id": 47
+      },
+      {
+        "judulKartu": "*Fo-to-res-pi-ra-si*",
+        "teks": [
+          "*Fo-to-res-pi-ra-si* ter-ja-di saat u-da-ra pa-nas dan ke-ring.",
+          "Tum-bu-han me-nu-tup *sto-ma-ta* se-hing-ga *ok-si-gen* ter-kum-pul.",
+          "*Ru-Bis-C-O* sa-lah me-ngi-kat *ok-si-gen* dan mem-bu-ang en-er-gi."
+        ],
+        "diagram": [
+          {
+            "label": "*Sto-ma-ta* Ter-nu-tup",
+            "emoji": "🚪"
+          },
+          {
+            "label": "*Ok-si-gen* Ting-gi",
+            "emoji": "📈"
+          },
+          {
+            "label": "*Ru-Bis-C-O* I-kat *Ok-si-gen*",
+            "emoji": "❌",
+            "aksen": true
+          }
+        ],
+        "id": 48
+      },
+      {
+        "judulKartu": "Tum-bu-han *C-3*",
+        "teks": [
+          "Tum-bu-han *C-3* mem-ben-tuk se-nya-wa ti-ga *kar-bon* pa-da *fik-sa-si* a-wal.",
+          "Con-toh tum-bu-han *C-3* ad-a-lah pa-di ga-ndum dan ke-de-lai.",
+          "Tum-bu-han i-ni sa-ngat mu-dah me-nga-la-mi *fo-to-res-pi-ra-si*."
+        ],
+        "diagram": [
+          {
+            "label": "*Fik-sa-si CO2* Lang-sung",
+            "emoji": "🍃"
+          },
+          {
+            "label": "Se-nya-wa 3 *Kar-bon*",
+            "emoji": "🧪"
+          },
+          {
+            "label": "Ren-tan *Fo-to-res-pi-ra-si*",
+            "emoji": "⚠️",
+            "aksen": true
+          }
+        ],
+        "id": 49
+      },
+      {
+        "judulKartu": "Tum-bu-han *C-4*",
+        "teks": [
+          "Tum-bu-han *C-4* me-ngi-kat *kar-bon* me-n-ja-di se-nya-wa em-pat *kar-bon*.",
+          "En-zim *P-E-P kar-bok-si-la-se* me-ngi-kat *kar-bon di-ok-si-da* di sel *me-so-fil*.",
+          "*Sik-lus Cal-vin* ter-ja-di di sel *sel-u-dang ber-kas pem-bu-luh*."
+        ],
+        "diagram": [
+          {
+            "label": "Sel *Me-so-fil*: I-kat *CO2*",
+            "emoji": "🧫"
+          },
+          {
+            "label": "Ang-kut ke *Sel-u-dang*",
+            "emoji": "📦"
+          },
+          {
+            "label": "*Sik-lus Cal-vin* A-man",
+            "emoji": "✅",
+            "aksen": true
+          }
+        ],
+        "id": 50
+      },
+      {
+        "judulKartu": "Tum-bu-han *C-A-M*",
+        "teks": [
+          "Tum-bu-han *C-A-M* se-per-ti kak-tus hi-dup di tem-pat ke-ring.",
+          "*Sto-ma-ta* ber-bu-ka pa-da ma-lam ha-ri un-tuk me-ngi-kat *kar-bon di-ok-si-da*.",
+          "Pa-da si-ang ha-ri *sto-ma-ta* ter-nu-tup dan *Sik-lus Cal-vin* ber-ja-lan."
+        ],
+        "diagram": [
+          {
+            "label": "Ma-lam: Bu-ka *Sto-ma-ta*",
+            "emoji": "🌙"
+          },
+          {
+            "label": "Sim-pan *A-sam Or-ga-nik*",
+            "emoji": "📥"
+          },
+          {
+            "label": "Si-ang: *Sik-lus Cal-vin*",
+            "emoji": "☀️",
+            "aksen": true
+          }
+        ],
+        "id": 51
+      },
+      {
+        "judulKartu": "Hub-ung-an *Ka-ta-bo-lis-me* dan *A-na-bo-lis-me*",
+        "teks": [
+          "*Ka-ta-bo-lis-me* me-nga-sil-kan *A-T-P* un-tuk pro-ses *a-na-bo-lis-me*.",
+          "Ha-sil *a-na-bo-lis-me* be-ru-pa *glu-ko-sa* di-ba-kar da-lam *ka-ta-bo-lis-me*.",
+          "Ked-ua pro-ses mem-ben-tuk sik-lus en-er-gi da-lam mak-hluk hi-dup."
+        ],
+        "diagram": [
+          {
+            "label": "*Fo-to-sin-te-sis* (*A-na-bo-lis-me*)",
+            "emoji": "🌱"
+          },
+          {
+            "label": "Ha-sil-kan *Glu-ko-sa*",
+            "emoji": "🍬"
+          },
+          {
+            "label": "*Res-pi-ra-si* (*Ka-ta-bo-lis-me*)",
+            "emoji": "🔥"
+          },
+          {
+            "label": "Ha-sil-kan *A-T-P*",
+            "emoji": "⚡",
+            "energi": true
+          }
+        ],
+        "id": 52
+      },
+      {
+        "judulKartu": "Pe-ne-ra-pan *Me-ta-bo-lis-me*",
+        "teks": [
+          "Pe-gal se-te-lah ol-ah-ra-ga ter-ja-di a-ki-bat *fer-men-ta-si a-sam lak-tat*.",
+          "Pem-bu-a-tan ta-pai dan ro-ti me-m-bu-tuh-kan *fer-men-ta-si* mi-kro-ba.",
+          "*Fo-to-sin-te-sis* dan *res-pi-ra-si* me-n-ja-ga k-e-se-im-ba-ngan *ok-si-gen* bu-mi."
+        ],
+        "diagram": [
+          {
+            "label": "*Fer-men-ta-si Lak-tat*",
+            "emoji": "🏃"
+          },
+          {
+            "label": "*Fer-men-ta-si* Ro-ti",
+            "emoji": "🍞"
+          },
+          {
+            "label": "K-e-se-im-ba-ngan *Gas Bu-mi*",
+            "emoji": "🌍",
+            "aksen": true
+          }
+        ],
+        "id": 53
+      },
+      {
+        "id": 54,
+        "judulKartu": "Ringkasan",
+        "teks": [
+          "Se-la-mat! Ka-mu te-lah me-nye-le-sai-kan se-lu-ruh ma-te-ri i-ni.",
+          "Si-lah-kan lan-jut ke se-si e-va-lu-a-si un-tuk meng-u-ji pe-ma-ha-man-mu."
+        ],
+        "diagram": []
+      }
+    ],
+    "kuis": [
+      {
+        "soal": "A-pa per-be-da-an u-ta-ma an-ta-ra *ka-ta-bo-lis-me* dan *a-na-bo-lis-me* da-lam sel?",
+        "opsi": [
+          "*Ka-ta-bo-lis-me* me-le-pas-kan *e-ner-gi*, se-dang-kan *a-na-bo-lis-me* mem-bu-tuh-kan *e-ner-gi*.",
+          "*Ka-ta-bo-lis-me* mem-bu-at ma-ka-nan, se-dang-kan *a-na-bo-lis-me* mem-bong-kar sel.",
+          "*Ka-ta-bo-lis-me* ter-ja-di di *klo-ro-plas*, se-dang-kan *a-na-bo-lis-me* di *si-to-plas-ma*.",
+          "*Ka-ta-bo-lis-me* mem-bu-tuh-kan ca-ha-ya, se-dang-kan *a-na-bo-lis-me* mem-bu-tuh-kan *ok-si-gen*."
+        ],
+        "jawaban": 0
+      },
+      {
+        "soal": "Ta-hap *res-pi-ra-si* *a-e-rob* ma-na-kah yang me-nga-sil-kan *A-T-P* da-lam ju-mlah ter-be-sar?",
+        "opsi": [
+          "*Gli-ko-li-sis*",
+          "*De-kar-bok-si-la-si* *ok-si-da-tif*",
+          "*Trans-por* *e-lek-tron*",
+          "*Sik-lus* *krebs*"
+        ],
+        "jawaban": 2
+      },
+      {
+        "soal": "A-pa yang me-nye-bab-kan o-tot ter-a-sa pe-gal dan le-lah se-te-lah ber-o-lah-ra-ga be-rat?",
+        "opsi": [
+          "Pe-num-pu-kan gas *kar-bon* *di-ok-si-da* di da-lam sel.",
+          "Pe-num-pu-kan *a-sam* *lak-tat* a-ki-bat *fer-men-ta-si*.",
+          "Ke-ku-ra-ngan *e-ta-nol* da-lam *si-to-plas-ma*.",
+          "Pem-ben-tu-kan *glu-ko-sa* yang ber-le-bi-han."
+        ],
+        "jawaban": 1
+      },
+      {
+        "soal": "Di ma-na-kah *re-ak-si* *te-rang* *fo-to-sin-te-sis* ter-ja-di dan a-pa ha-sil-nya?",
+        "opsi": [
+          "Di *stro-ma* dan me-nga-sil-kan *glu-ko-sa*.",
+          "Di *mat-riks* *mi-to-kon-dri-a* dan me-nga-sil-kan *a-sam* *pi-ru-vat*.",
+          "Di *si-to-plas-ma* dan me-nga-sil-kan *e-ta-nol*.",
+          "Di *ti-la-ko-id* dan me-nga-sil-kan *ok-si-gen*, *A-T-P*, ser-ta *N-A-D-P-H*."
+        ],
+        "jawaban": 3
+      },
+      {
+        "soal": "A-pa pe-ran u-ta-ma *ok-si-gen* da-lam pro-ses *res-pi-ra-si* *a-e-rob*?",
+        "opsi": [
+          "Se-ba-ga-i pe-ne-ri-ma *e-lek-tron* ter-a-khir pa-da *trans-por* *e-lek-tron*.",
+          "Se-ba-ga-i pe-me-cah *glu-ko-sa* pa-da ta-hap *gli-ko-li-sis*.",
+          "Se-ba-ga-i pe-mi-cu *fer-men-ta-si* di da-lam *si-to-plas-ma*.",
+          "Se-ba-ga-i pe-ngi-kat *kar-bon* *di-ok-si-da* da-lam *sik-lus* *krebs*."
+        ],
+        "jawaban": 0
+      }
+    ],
+    "sumber": "siswa"
+  }
+}
